@@ -30,7 +30,9 @@ Other disassembly and/or decompilation projects:
 
 You can find those people on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://web.libera.chat/?#pret).
 
-This repository includes all of my changes to original code, some code by other developers, and that's it. The goal with this project is to overhaul the playstyle of the pokemon player through unconventional methods without compromising the pokemon spirit within them. My personal goal with this project is to develop a better understanding of decompilation in games. Changes below. Notes folder contains more specific information.
+This repository includes all of my changes to original code, some code by other developers, and that's it. The goal with this project is to overhaul the playstyle of the pokemon player through unconventional methods without compromising the pokemon spirit within them. My personal goal with this project is to develop a better understanding of decompilation in games. Changes below. 
+
+Notes folder contains more specific information. Notes folder will/currently contain(s) all patches for this specific project. Use those patches to patch your copy of Pokemon Emerald to enjoy this decomped game. Just a heads up, different builds+patches will NOT be able to support the save file the game generates from playing previous/future patches, at least for now.
 
 # CHANGES BY ME (SQUASHUA GONZALEZ)
 
@@ -155,3 +157,5 @@ Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your
 Trainer AI's
 
 Check Pulled/Added Features
+
+## CURRENTLY THIS PROJECT IS INCOMPLETE
