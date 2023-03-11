@@ -104,7 +104,7 @@ Chosen Player Character in Intro
 
 Shifting to Pokemon Already in Battle Exits Shift Menu
 
-### These haven't caused any errors in build but are currently are untested in game
+### These haven't caused any errors in build but are currently untested in game
 
 Wrong Save Type Error Screen
 
