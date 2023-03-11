@@ -1,0 +1,340 @@
+Added
+	Devo Stone at index 99 0x0063 - De-Evolves Pokemon
+
+Added Battle Effects for Hold Items:
+	Stick: x2 Attack for Farfetch'd and Sudowoodo
+	Upgrade: x2 Defense for Porygon
+	Metal Coat: x2 Sp. Defense for Onix and x2 Defense for Scyther
+	Dragon Scale: x2 Defense for Seadra
+
+Item Price Adjustments
+
+Balls
+	Poke Balls 200-1000
+	Ultra Ball 1200-6000
+	Great Ball 600-3000
+	Poke Ball 200-1000
+	Net Ball 1000-5000
+	Dive Ball 1000-5000
+	Nest Ball 1000-5000
+	Repeat Ball 1000-5000
+	Timer Ball 1000-5000
+	Luxury Ball 1000-7500
+	Premier Ball 200-1000
+	
+Field Items
+	Repel 350 - 1400
+	Super Repel 500 - 2000
+	Max Repel 700-2800
+	Escape Rope 550 - 2200
+
+Battle Items
+	Guard Spec 700-2800
+	Dire Hit 650-2300
+	X Attack 500-2000
+	X Defend 550 2200
+	X Speed 350 1400
+	X Accuracy 950 - 3700
+	X Special 350 - 1400
+
+Medicines
+	Potion 300-1200
+	Antidote 100-800
+	Burn Heal 250-1250
+	Ice Heal 250-1250
+	Awakening 250-1250
+	Paralyz Heal 200-1000
+	Full Restore 3000-15000
+	Max Potion 2500-10000
+	Hyper Potion 1200-6000
+	Super Potion 700-3500
+	Full Heall 600-3000
+	Revive 1500-10000
+	Max Revive 3000-17500
+	Fresh Water 200-1000
+	Soda Pop 300-1200
+	Lemonade 350-1400
+	Moomoo Milk 500-2000
+	Energy Powder 500-2000
+	Energy Root 800-3200
+	Heal Powder 450 - 1800
+All Berries from 20-200
+	Lava Cookie 200-1500
+	Berry Juice 100-1000
+
+Hold Items
+	Brightpowder 100 to 3000
+	White Herb 100 to 3000
+	Quick Claw 100 to 3000
+	Soothe Bell 100 to 3000
+	Mental Herb 100 to 3000
+	Choice Band 100 to 3000
+	Kings Rock 100 to 3000
+	Silver Powder 100 to 3000
+	Amulet Coin 100 to 10000
+	Cleanse Tag 200 to 5000
+	Soul Dew 200 to 5000
+	Deep Sea Tooth 200 to 3000
+	Deep Sea Scale 200 to 3000
+	Smoke Ball 200 to 3000
+	Everstone 200 to 3000
+	Focus Band 200 to 3000
+	Lucky Egg 200 to 3000
+	Scope Lens 200 to 3000
+	Metal Coat 200 to 3000
+	Leftovers 200 to 3000
+	Light Ball 100 to 2000
+	Soft Sand 100 to 2000
+	Hard Stone 100 to 3000
+	Miracle Seed 100 to 3000
+	Black Glasses 100 to 1000
+	Black Belt 100 to 3000
+	Magnet 100 to 1000
+	Mystic Water 100 to 5000
+	Sharp Beak 100 to 1000
+	Poison Barb 100 to 1000
+	Never Melt Ice 100 to 5000
+	Spell Tag 100 to 1000
+	Twisted Spoon 100 to 10
+	Dragon Fang 100 to 3000
+	Silk Scarf 100 to 3000
+	Lucky Punch 10 to 3000
+	Metal Powder 10 to 3000
+	Thick Club 500 to 1000
+	Stick 200 to 10
+
+Misc
+	TinyMushroom 500-1500
+	Big Mushroom 5000-15000
+	Shoal Salt 20-2000
+	Shoal Shell 20-2000
+	Red Shard 200-2000
+	Blue Shard 200-2000
+	Yellow Shard 200-2000
+	Green Shard 200-2000
+	Pearl 1400-5000
+	Big Pearl 5000-10000
+	Stardust 500-6000
+	Star Piece 9000-10000
+	Nugget 10000
+	Heart Scale 100-1500
+	Rare Candy 4800-20000
+	Exp Share 3000-9000
+	Macho Brace 3000-5000
+
+Evo Stones
+	All Stones now 50000
+	Devo Stone is 3000
+
+DECORATIONS
+Desks/Chairs All Fortree
+	Small Desk 3000
+	Pokemon Desk 3000-6000
+	Heavy Desk 6000-8000
+	Ragged Desk 6000-10000
+	Comfort Desk 6000-20000
+	Pretty Desk 9000-30000
+	Brick Desk 9000-40000
+	Camp Desk 9000-50000
+	Hard Desk 9000-60000
+	Small Chair 2000
+	Pokemon Chair 2000-4000
+	Heavy Chair 2000-6000
+	Pretty Chair 2000-30000
+	Comfort Chair 2000-15000
+	Ragged Chair 2000-8000
+	Brick Chair 2000-20000
+	Camp Chair 2000-40000
+	Hard Chair 2000-60000
+	
+Plants All Petal Shop
+	Red Flower - 3000
+	Tropical Plant - 3000-6000
+	Pretty Flowers - 3000-12000
+	Colorful Plant - 5000-24000
+	Big Plant - 5000-48000
+	Gorgeous Plant - 5000-65000
+
+Secret Power Club Store Decorations
+	Red Brick 500-5000
+	Blue Brick 500-5000
+	Yellow Brick 500-5000
+	Red Balloon 500-5000
+	Blue Balloon 500-5000
+	Yellow Balloon 500-5000
+	Musical Note Mats 500-1500
+
+Lilycove Mart
+	Glitter Mat 2000-20000.
+	Jump Mat 2000-20000
+	Spin Mat 2000-20000
+	Surf Mat 4000-40000
+	Thunder Mat 4000-40000
+	Fire Blast Mat 4000-40000
+	Powder Snow Mat 4000-60000
+	Attract Mat 4000-60000
+	Fissure Mat 4000-65000
+	Spikes Mat 4000-65000
+
+	Ball Poster 1500
+	Green Poster 1500-13500
+	Red Poster 1500-13500
+	Blue Poster 1500-13500
+	Cute Poster 1500-4500
+	Pika Poster 1500-25000
+	Long Poster 1500-35000
+	Sea Poster 1500-45000
+	Sky Poster 1500-55000
+
+	Pichu Doll 3000-20000
+	Pikachu Doll 3000-40000
+	Marill Doll 3000-20000
+	Jigglypuff Doll 3000-30000
+	Duskull Doll 3000-30000
+	Wynaut Doll 3000-30000
+	Kecleon Doll 3000-20000
+	Azurill Doll 3000-30000
+	Skitty Doll 3000-40000
+	Swablu Doll 3000-40000
+	Gulpin Doll 3000-10000
+
+	Pika Cushion 2000-20000
+	Round Cushion 2000-30000
+	Zigzag Cushion 2000-40000
+	Spin Cushion 2000-50000
+	Diamond Cushion 2000-50000
+	Ball Cushion 2000-10000
+	Grass Cushion 2000-65000
+	Fire Cushion 2000-65000
+	Water Cushion 2000-65000
+
+Clear Out Sale Decorations
+	Mud Ball 200-2500 Now at Slateport City Decor Shop
+	Fence Length 500-5000 Now at Fortree City Decor Shop
+	Fence Width 500-5000 Now at Fortree City Decor Shop
+	Solid Board 3000-15000 Now at Fortree City Decor Shop
+	Tire 500-1500 Now at Slateport City Decor Shop
+	Breakable Door 3000-20000 Now at Slateport City Decor Shop
+	TV 3000-30000 Now at Fortree City Decor Shop
+	Cute TV 4000-45000 Now at Lilycove Floor 5
+	Round TV 4000-60000 Now at Lilycove Floor 5
+	Sand Ornament 3000-30000 Now at Lilycove Floor 5
+	Slide 8000-50000 Now at Lilycove Floor 5
+	Stand 7000-50000 Now at Lilycove Floor 5
+
+	Rhydon Doll 10000-50000 Close Out now at Fortree Deco Mart
+	Wailmer Doll 10000-50000 Close Out now at Fortree Deco Mart
+	Snorlax Doll 10000-60000 Battle Frontier now at Lilycove Floor 5
+	Lapras Doll 10000-60000 Battle Frontier now at Lilycove Floor 5
+	Venusaur Doll 10000-65000 Battle Frontier now at Fortree Deco Mart
+	Charizard Doll 10000-65000 Battle Frontier now at Fortree Deco Mart
+	Blastoise Doll 10000-65000 Battle Frontier now at Fortree Deco Mart
+	Regirock Doll 10000-65000 Mixing Records now at Slateport Mart
+	Regice Doll 10000-65000 Mixing Records now at Slateport Mart
+	Registeel Doll 10000-65000 Mixing Records now at Slateport Mart
+
+Misc. Obtained
+	Pretty Desk and Chair - Soot Sack Stuffs
+	Lotad - Lanette's House Sapphire 3000-50000 now at Fortree Deco Mart
+	Seedot - Lanette's House Ruby 3000-50000 now at Fortree Deco Mart
+	Blue Tent - Sapphire Trick House 10000-65000 now at Fortree Deco Mart
+	Red Tent - Ruby Trick House 10000-65000 now at Fortree Deco Mart
+	Togepi Doll 3000-40000 Battle Frontier Now at Lilycove Floor 5
+	Cyndaquil Doll - 3000-60000 Battle Frontier Now at Lilycove Floor 5
+	Chikorita Doll - 3000-60000 Battler Frontier Now at Lilycove Floor 5
+	Totodile Doll - 3000-60000 Battle Frontier Now at Lilycove Floor 5
+	Meowth Doll - 3000-40000 Battle Frontier Now at Lilycove Floor 5
+	Clefairy Doll - 3000-40000 Battle Frontier Now at Lilycove Floor 5
+	Ditto Doll - 3000-40000 Battle Frontier Now at Lilycove Floor 5
+	Treecko Doll - 3000-80000 Mauville Game Corner
+	Torchic Doll - 3000-80000 Mauville Game Corner
+	Mudkip Doll - 3000- 80000 Mauville Game Corner
+	Baltoy Doll - 3000-40000 Mauvill Game Corner
+
+Effect Changes
+	50 to 60 HP for Super Potin
+	200 tp 120 HP for Hyper Potion
+
+TMs HMs Price + Locations
+	TM01 Focus Punch 3000-5000 - Route 115, Pickup 1% Levels 71-90
+	TM02 Dragon Claw 3000-10000 - Meteor Falls, Lilycove Mart TM Floor
+	TM03 Water Pulse 3000-7500 - Prize for defeating Juan, Now at Verdanturf Mart
+	TM04 Calm Mind 3000-6000 - Prize for defeating Tate & Liza, Now at Fallarbor Mart
+	TM05 Roar 1000-3000 - Route 114 Old man with Poochy - Now at Oldale Mart
+	TM06 Toxic 3000-10000 - Fiery Path, Now at Fortree Mart
+	TM07 Hail 3000-5000 - Shoal Cave, Now at Slateport Mart
+	TM08 Bulk Up 3000-6000 - Prize for defeating Brawly, Now at Fallarbor Mart
+	TM09 Bullet Seed 3000-5000 - Route 104 Kid outside Petal Shop, Now at Verdanturf Mart
+	TM10 Hidden Power 3000-5000 - Fortree City, Slateport City, Lilycove Mart TM Floor
+	TM11 Sunny Day 2000-5000 - Scorched Slab, Trainer Hill - Now at Oldale and Slateport Mart
+	TM12 Taunt 3000-6000 - Trick House, Now at Mauville Mart
+	TM13 Ice Beam 3000-10000 - Abandoned Ship, Mauville Game Corner, Lilycove Mart TM Floor
+	TM14 Blizzard 5500-25000 - Lily Cove Shop, Now at Battle Frontier Mart
+	TM15 Hyper Beam 7500-25000 - Lilycove Shop, Now at Battle Frontier Mart
+	TM16 Light Screen 3000-10000 - Lilycove Shop, Now at Slateport TM Shop, Lilycove Mart TM Floor
+	TM17 Protect 3000-6000 - Lilycove Shop, Now at Slateport TM Shop
+	TM18 Rain Dance 2000-5000 Abandoned Ship, Now at Slateport Mart
+	TM19 Giga Drain 3000-7500 - Route 123, Trainer Hill, Lilycove Mart TM Floor
+	TM20 Safeguard 3000-10000 - Lilycove Department Store, Lilycove Mart TM Floor
+	TM21 Frustration 1000-5000 - Pacifidlog Town, Now at Petalburg Mart, Lilycove Mart TM Floor
+	TM22 Solarbeam 3000-25000 - Safari Zone, Now at Battle Frontier Mart
+	TM23 Iron Tail 3000-7500 - Meteor Falls, Lilycove Mart TM Floor
+	TM24 Thunderbolt 3000-10000 - New Mauville completion prize from Wattson, Mauville Game Corner, Lilycove Mart TM Floor
+	TM25 Thunder 5500-25000 - Lilycove Department Store, Now at Battle Frontier Mart
+	TM26 Earthquake 3000-25000 - Seafloor Cavern, Pickup 1% Levels 91-100, Now at Battle Frontier Mart
+	TM27 Return 1000-5000 - Fallarbor Town, Pacifidlog Town, Now at Petalburg Mart, Lilycove Mart TM Floor
+	TM28 Dig 2000-7500 - Route 114, Now at Fortree Mart
+	TM29 Psychic 2000-10000 - Mauville Game Corner, Victory Road, Lilycove Mart TM Floor
+	TM30 Shadow Ball 3000-10000 - Mt. Pyre, Lilycove Mart TM Floor
+	TM31 Brick Break 3000-10000 - Sootopolis City, Trainer Hill, Lilycove Mart TM Floor
+	TM32 Double Team 2000-15000 - Route 113, Mauville Game Corner, Now at Fortree Mart
+	TM33 Reflect 3000-10000 - Lilycove Shop, Now at Slateport TM Shop, Lilycove Mart TM Floor
+	TM34 Shock Wave 3000-7500 - Prize for defeating Wattson, Now at Verdanturf Mart
+	TM35 Flamethrower 3000-10000 - Mauville Game Corner, Lilycove Mart TM Floor
+	TM36 Sludge Bomb 1000-10000 - Dewford Town, Lilycove Mart TM Floor
+	TM37 Sandstorm 2000-5000 - Route 111, Now at Slateport Mart
+	TM38 Fire Blast 5500-25000 - Lilycove Shop, Now at Battle Frontier Mart
+	TM39 Rock Tomb 3000-7500 - Prize for defeating Roxanne, Now at Verdanturf Mart
+	TM40 Aerial Ace 3000-7500 - Prize for defeating Winona, Now at Verdanturf Mart
+	TM41 Torment 3000-6000 - Slateport City, Now at Mauville Mart
+	TM42 Facade 3000-7500 - Prize for defeating Norman, Lilycove Mart TM Floor
+	TM43 Secret Power 3000-5000 - Route 111, Slateport City TM Shop, Lilycove Mart TM Floor
+	TM44 Rest 3000-10000 - Lilycove City, Pickup 1% Levels 51-70, Now at Fallarbor Mart
+	TM45 Attract 3000-6000 - Verdanturf Town - Now at Oldale Mart
+	TM46 Thief 3000-7500 - Slateport City from Thug - Now at Oldale Mart
+	TM47 Steel Wing 3000-7500 - Granite Cave from Stephen, Now at Verdanturf Mart
+	TM48 Skill Swap 3000-15000 - Mt. Pyre, Now at Fallarbor Mart
+	TM49 Snatch 3000-6000 - S.S. Tidal, Now at Mauville Mart
+	TM50 Overheat 3000-15000  - Prize for Defeating Flannery, Now at Battle Frontier Mart
+
+Changed Pickup Table
+	Potion - Oran Berry
+	Antidote - Repel
+	Super Potion - Super Potion
+	Great Ball - Great Ball
+	Repel - Super Repel
+	Escape Rope - Sitrus Berry
+	X Attack - Hyper Potion
+	Full Heal - Full Heal
+	Ultra Ball - Rare Candy
+	Hyper Potion - Revive
+	Rare Candy - Star Dust
+	Protein - Star Piece
+	Revive - Nugget
+	HP Up - Max Revive
+	Full Restore - Rare Candy
+	Max Revive - Nugget
+	PP Up - Rare Candy
+	Max Elixir - Rare Candy
+Rare
+	Hyper Potion - Revive
+	Nugget - Stick
+	Kings Rock - Star Piece
+	Full Restore - Nugget
+	Ether - Max Revive
+	White Herb - Amulet Coin
+	TM44 Rest - Nugget
+	Elixir -Rare Candy
+	TM01 Focus Punch - Amulet Coin 
+	Leftovers - Rare Candy
+	TM26 Earthquake - Amulet Coin

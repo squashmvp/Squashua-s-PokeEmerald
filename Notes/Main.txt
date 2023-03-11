@@ -1,0 +1,68 @@
+Changes Applied
+	Starters
+	Pokemon
+		Abilities
+		Stats
+		Catch Rates
+		Locations
+		Levels (Legendary Pokemon are Strong)
+		Learnsets(Only Starters)
+		Evolutions/Devolutions
+		Safari Zone Flee Rates
+	Moves (Power/PP/Effect/Accuracy)
+	Shop Inventory
+	Items
+		Prices
+		Effects
+		Locations
+		Heal Rates
+		Hold Effects for Trade Items
+	Trainers
+		AI
+		Pokemon
+		Double Battles Added
+	Misc
+		Evolution by Move
+		Devo Stone + Devolution Mechanic
+		Decapitalizations (Except for Frontier Trainers?) (Need to Check)
+
+Fixes Applied
+good	Faster HP Drain in Battle
+good	Improved V Sync
+good	Re-Use Repels
+good	Consecutive OoB Healing + Rare Candy
+good	Remove Extra Save Confirmation
+good	Delay Skip in Battles
+good	Instead of Asking to Stop learning a New Move, You'll be Asked to Continue Learning
+good	Remove Low HP Sound in Battle
+good	Show IV/EVs in Summary Screen
+good	Move Relearner as option in Party Screen
+good	Starting Money Increased from 3000 to 5000
+good	Fast Poke Center
+good	Can Reset RTC on Title Screen (B + Select + Left Arrow)
+good	Option to Skip Intro
+good	Chosen Player Character in Intro
+good	Shifting to Pokemon Already in Battle Exits Shift Menu
+
+	Wrong Save Type Error Screen
+	Surf Dismount Ground Effects	
+	Soot Sack Check in Bag similar to Coin Case MUST CHECK
+	Sitrus Berry Restores 25% HP
+	Increase Item Capacity
+	Item Automatically goes to PC if Bag is full
+	Increased Money Capacity
+	Feed Any Number of Pokeblocks
+	Berry Trees No Longer Disappear
+	Fishing Never Fails
+	Hold B to Surf Faster
+	2x Faster Daycare
+	Latios & Latias
+	Get Rid of Battery Run Dry Error
+	Gen 8 Synchronize
+	Perfect IVs While Breeding
+
+	
+Changes to apply 
+	Check Ability Spread
+	More Changes to Learnsets
+	Trick House Doll Quiz

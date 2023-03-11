@@ -1,0 +1,2200 @@
+101 - Edited
+	1. Wurmple 2-2
+	2. Poochyena 2-2
+	3. Caterpie 2-2
+	4. Wurmple 3-3
+	5. Poochyena 3-3
+	6. Sentret 3-3
+	7. Caterpie 3-3
+	8. Hoppip 3-3
+	9. Zigzagoon 2-2
+	10. Rattata 2-2
+	11. Zigzagoon 3-3
+	12. Rattata 3-3
+
+102 - Edited
+	1. Meowth 3-3
+	2. Wumple 3-3
+	3. Meowth 4-4
+	4. Wumple 4-4
+	5. Lotad 3-3
+	6. Lotad 4-4
+	7. Zigzagoon 3-3
+	8. Sentret 3-3
+	9. Zigzagoon 4-4
+	10. Ralts 4-4
+	11. Rattata 4-4
+	12. Seedot 3-3
+	
+	1. Marill 20-30
+	2. Lotad 10-30
+	3. Lombre 30-35
+	4. Poliwag 5-10
+	5. Totodile 20-30
+	
+	1. Poliwag 5-10
+	2. Goldeen 5-10
+	3. Poliwag 10-30
+	4. Goldeen 10-30
+	5. Corphish 10-30
+	6. Croconaw 25-30
+	7. Corphish 30-35
+	8. Poliwhirl 20-25
+	9. Crawdaunt 35-40
+	10. Poliwrath 40-45
+
+103 - Edited
+	1. Poochyena 2-2
+	2. Hoppip 3-3
+	3. Poochyena 3-3
+	4. Hoppip 4-4
+	5. Wingull 2-2
+	6. Zigzagoon 3-3
+	7. Sentret 3-3
+	8. Aipom 4-4
+	9. Wingull 3-3
+	10. Farfetch'd 3-3
+	11. Wingull 2-2
+	12. Farfetch'd 4-4
+
+	1. Magikarp 5-35
+	2. Wingull 10-30
+	3. Skiploom 15-25
+	4. Wailmer 25-30
+	5. Pelipper 25-30
+
+	1. Magikarp 5-10
+	2. Remoraid 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Corphish 10-30
+	6. Octillery 30-35
+	7. Crawdaunt 30-35
+	8. Wailmer 25-30
+	9. Wailmer 35-40
+	10. Feebas 40-45
+
+104 - Edited
+	1. Wingull 4-4
+	2. Wumple 4-4
+	3. Poochyena 5-5
+	4. Marill 5-5
+	5. Hoppip 4-4
+	6. Sentret 5-5
+	7. Taillow 4-4
+	8. Murkrow 5-5
+	9. Chikorita 4-4
+	10. Bulbasaur 4-4
+	11. Aipom 3-3
+	12. Hitmonlee 5-5
+
+	1. Magikarp 10-30
+	2. Wingull 15-25
+	3. Remoraid 15-25
+	4. Pelipper 25-30
+	5. Murkrow 25-30
+	
+	1. Magikarp 5-10
+	2. Remoraid 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Corphish 10-30
+	6. Dratini 25-30
+	7. Crawdaunt 30-35
+	8. Wailmer 20-25
+	9. Gyarados 35-40
+	10. Vaporeon 40-45
+
+105 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Qwilfish 25-30
+	7. Tentacruel 30-35
+	8. Remoraid 20-25
+	9. Seaking 35-40
+	10. Mantine 40-45
+
+110 - Edited
+	1. Poochyena 12-12
+	2. Electrike 12-12
+	3. Gulpin 12-12
+	4. Taillow 13-13
+	5. Minun 13-13
+	6. Oddish 13-13
+	7. Pidgey 13-13
+	8. Mareep 13-13
+	9. Wingull 12-12
+	10. Spearow 12-12
+	11. Murkrow 12-12
+	12. Plusle 13-13
+
+	1. Remoraid 5-35
+	2. Wingull 10-30
+	3. Pidgeotto 15-25
+	4. Fearow 25-30
+	5. Swellow 25-30
+
+	1. Magikarp 5-10
+	2. Remoraid 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Goldeen 10-30
+	6. Dratini 25-30
+	7. Wailmer 30-35
+	8. Dratini 20-25
+	9. Seaking 35-40
+	10. Feebas 40-45
+
+111 - Edited
+
+	1. Sandshrew 20-20
+	2. Trapinch 20-20
+	3. Sandshrew 21-21
+	4. Phanpy 21-21
+	5. Baltoy 19-19
+	6. Gligar 21-21
+	7. Diglett 19-19
+	8. Cubone 19-19
+	9. Onix 20-20
+	10. Ledian 20-20
+	11. Cacnea 22-22
+	12. Dunsparce 22-22
+
+	1. Lombre 20-30
+	2. Surskit 10-20
+	3. Masquerain 30-35
+	4. Psyduck 5-10
+	5. Yanma 20-30
+
+	1. Geodude 10-15
+	2. Geodude 5-10
+	3. Shuckle 15-20
+	4. Geodude 15-20
+	5. Dunsparce 15-20
+
+	1. Azurill 5-10
+	2. Goldeen 5-10
+	3, Marill 10-30
+	4. Goldeen 10-30
+	5. Psyduck 10-30
+	6. Barboach 25-30
+	7. Lombre 30-35
+	8. Barboach 20-25
+	9. Golduck 35-40
+	10. Azumarill 40-45
+
+112 - Edited
+
+	1. Numel 15-15
+	2. Spearow 15-15
+	3. Marill 15-15
+	4. Ponyta 14-14
+	5. Ledyba 14-14
+	6. Meditite 14-14
+	7. Houndour 16-16
+	8. Marill 16-16
+	9. Growlithe 16-16
+	10. Snubbull 16-16
+	11. Growlithe 16-16
+	12. Teddiursa 16-16
+
+113 - Edited
+	1. Spinda 15-15
+	2. Stantler 15-15
+	3. Slugma 15-15
+	4. Pineco 14-14
+	5. Snubbull 14-14
+	6. Ledyba 14-14
+	7. Tauros 16-16
+	8. Charmander 16-16
+	9. Houndour 16-16
+	10. Skarmory 16-16
+	11. Espeon 16-16
+	12. Dustox 16-16
+
+114 - Edited
+	1. Swablu 16-16
+	2. Lombre 16-16
+	3. Ledyba 17-17
+	4. Poliwag 15-15
+	5. Nidoran(FEM) 15-15
+	6. Nidoran(MALE) 16-16
+	7. Beedrill 16-16
+	8. Seviper 18-18
+	9. Scyther 17-17
+	10. Tyrogue 15-15
+	11. Hitmontop 17-17
+	12. Nuzleaf 15-15
+
+	1. Beedrill 20-30
+	2. Lombre 10-20
+	3. Azumarill 30-35
+	4. Lotad 5-10
+	5. Politoed 20-30
+
+	1. Geodude 10-15
+	2. Shuckle 5-10
+	3. Dunsparce 15-20
+	4. Geodude 15-20
+	5. Weedle 15-20
+
+	1. Barboach 5-10
+	2. Feebas 5-10
+	3. Barboach 10-30
+	4. Feebas 10-30
+	5. Poliwag 10-30
+	6. Marill 25-30
+	7. Poliwhirl 30-35
+	8. Goldeen 20-25
+	9. Barboach 35-40
+	10. Whiscash 40-45
+
+116 - Edited
+	1. Poochyena 6-6
+	2. Whismur 6-6
+	3. Nincada 6-6
+	4. Abra 7-7
+	5. Meowth 7-7
+	6. Pidgey 6-6
+	7. Spearow 7-7
+	8. Taillow 8-8
+	9. Snubbull 7-7
+	10. Skitty 8-8
+	11. Mankey 7-7
+	12. Hitmonchan 8-8
+
+117 - Edited
+	1. Miltank 13-13
+	2. Oddish 13-13
+	3. Ledyba 14-14
+	4. Chikorita 14-14
+	5. Hoppip 13-13
+	6. Eevee 13-13
+	7. Psyduck 13-13
+	8. Sunkern 13-13
+	9. Sunflora 14-14
+	10. Illumise 14-14
+	11. Volbeat 13-13
+	12. Seedot 13-13
+
+	1. Skiploom 20-30
+	2. Goldeen 10-20
+	3. Jumpluff 30-35
+	4. Psyduck 5-10
+	5. Beautifly 20-30
+
+	1. Feebas 5-10
+	2. Goldeen 5-10
+	3. Feebas 10-30
+	4. Goldeen 10-30
+	5. Goldeen 10-30
+	6. Corphish 25-30
+	7. Golduck 30-35
+	8. Psyduck 20-25
+	9. Crawdaunt 35-40
+	10. Vaporeon 40-45
+
+118 - Edited
+	1. Zigzagoon 24-24
+	2. Electrike 24-24
+	3. Meowth 26-26
+	4. Persian 26-26
+	5. Linoone 26-26
+	6. Manectric 26-26
+	7. Wingull 25-25
+	8. Fearow 25-25
+	9. Jolteon 26-26
+	10. Slowpoke 26-26
+	11. Electabuzz 27-27
+	12. Slowbro 25-25
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Carvanha 15-25
+	4. Pelipper 25-30
+	5. Fearow 25-30
+
+	1. Carvanha 5-10
+	2. Tentacool 5-10
+	3. Carvanha 10-30
+	4. Tentacool 10-30
+	5. Carvanha 10-30
+	6. Krabby 30-35
+	7. Corphish 30-35
+	8. Shellder 20-25
+	9. Sharpedo 35-40
+	10. Cloyster 40-45
+
+124 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Lapras 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Sharpedo 30-35
+	7. Squirtle 30-35
+	8. Remoraid 25-30
+	9. Starmie 35-40
+	10. Mantine 40-45
+
+Petalburg Woods - Edited
+	1. Caterpie 5-5
+	2. Hoothoot 5-5
+	3. Shroomish 5-5
+	4. Weedle 6-6
+	5. Silcoon 5-5
+	6. Cascoon 5-5
+	7. Chikorita 6-6
+	8. Bulbasaur 6-6
+	9. Eevee 5-5
+	10. Slakoth 5-5
+	11. Jolteon 6-6
+	12. Celebi 30-30
+
+Rusturf Tunnel - Edited
+	1. Whismur 6-6
+	2. Zubat 7-7
+	3. Poochyena 6-6
+	4. Paras 6-6
+	5. Spinarak 7-7
+	6. Cleffa 7-7
+	7. Tyrogue 5-5
+	8. Geodude 8-8
+	9. Lickitung 5-5
+	10. Rattata 8-8
+	11. Mr. Mime 5-5
+	12. Umbreon 8-8
+
+Granite Cave 1F - Edited
+	1. Zubat 7-7
+	2. Makuhita 8-8
+	3. Machop 7-7
+	4. Meditite 8-8
+	5. Tyrogue 9-9
+	6. Abra 8-8
+	7. Onix 10-10
+	8. Paras 6-6
+	9. Geodude 7-7
+	10. Spinarak 8-8
+	11. Mawile 6-6
+	12. Ditto 9-9
+
+Granite Cave B1F - Edited
+	1. Zubat 9-9
+	2. Aron 10-10
+	3. Geodude 9-9
+	4. Onix 11-11
+	5. Spinarak 10-10
+	6. Abra 9-9
+	7. Makuhita 10-10
+	8. Meditite 11-11
+	9. Sableye 10-10
+	10. Mawile 10-10
+	11. Paras 9-9
+	12. Ditto 11-11
+
+Mt. Pyre 1F - Edited
+	1. Shuppet 27-27
+	2. Misdreavus 28-28
+	3. Rattata 26-26
+	4. Haunter 25-25
+	5. Hypno 29-29
+	6. Ariados 24-24
+	7. Drowzee 23-23
+	8. Spinarak 22-22
+	9. Duskull 29-29
+	10. Beldum 24-24
+	11. Raticate 29-29
+	12. Cubone 24-24
+
+Victory Road 1F - Edited
+	1. Golbat 40-40
+	2. Hariyama 40-40
+	3. Lairon 40-40
+	4. Loudred 40-40
+	5. Graveler 36-36
+	6. Machoke 36-36
+	7. Onix 38-38
+	8. Ariados 38-38
+	9. Machamp 39-39
+	10. Parasect 36-36
+	11. Steelix 36-36
+	12. Aerodactyl 36-36
+
+Safari Zone South - Edited
+	1. Oddish 25-25
+	2. Sunflora 27-27
+	3. Girafarig 25-25
+	4. Scyther 27-27
+	5. Natu 25-25
+	6. Doduo 25-25
+	7. Gloom 25-25
+	8. Wobbuffet 27-27
+	9. Pikachu 25-25
+	10. Beedrill 27-27
+	11. Porygon 27-27
+	12. Chansey 29-29
+
+Underwater Route 126 - Edited
+	1. Clamperl 20-30
+	2. Chinchou 20-30
+	3. Krabby 20-30 LOWER LEVEL
+	4. Relicanth 30-35
+	5. Omanyte 30-35
+
+Abandoned Ship Rooms B1F - Edited
+	1. Tentacool 5-35
+	2. Remoraid 5-35
+	3. Magikarp 5-35
+	4. Horsea 5-35
+	5. Tentacruel 30-35
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Remoraid 10-30
+	6. Horsea 25-30
+	7. Octillery 30-35
+	8. Seadra 30-35
+	9. Qwilfish 25-30
+	10. Tentacruel 20-25
+
+Granite Cave B2F - Edited
+	1. Zubat 10-10
+	2. Aron 11-11
+	3. Geodude 10-10
+	4. Onix 11-11
+	5. Spinarak 12-12
+	6. Abra 10-10
+	7. Sableye 10-10
+	8. Nosepass 11-11
+	9. Aerodactyl 12-12
+	10. Mawile 10-10
+	11. Paras 12-12
+	12. Steelix 10-10
+
+	1. Geodude 10-15
+	2. Nosepass 10-20
+	3. Shuckle 5-10
+	4. Kabuto 15-20
+	5. Omanyte 15-20
+
+Fiery Path - Edited
+	1. Numel 15-15
+	2. Koffing 15-15
+	3. Grimer 16-16
+	4. Machop 15-15
+	5. Torkoal 15-15
+	6. Slugma 15-15
+	7. Charmeleon 16-16
+	8. Cyndaquil 16-16
+	9. Charmander 14-14
+	10. Zubat 16-16
+	11. Magmar 14-14
+	12. Flareon 14-14
+
+Meteor Falls B1F 2R - Edited
+	1. Golbat 33-33
+	2. Ariados 35-35
+	3. Bagon 30-30
+	4. Solrock 35-35
+	5. Parasect 35-35
+	6. Lunatone 37-37
+	7. Cleffa 25-25
+	8. Solrock 39-39
+	9. Kabutops 38-38
+	10. Crobat 40-40
+	11. Espeon 38-38
+	12. Clefairy 40-40
+
+	1. Solrock 30-35
+	2. Lunatone 30-35
+	3. Golbat 25-35
+	4. Kabuto 15-25
+	5. Jirachi 35-35
+
+	1. Magikarp 5-10
+	2. Goldeen 5-10
+	3. Magikarp 10-30
+	4. Goldeen 10-30
+	5. Barboach 10-30
+	6. Omanyte 25-30
+	7. Anorith 30-35
+	8. Kabuto 30-35
+	9. Seaking 35-40
+	10. Armaldo 40-45
+
+Jagged Pass - Edited
+	1. Numel 21-21
+	2. Geodude 21-21
+	3. Machop 21-21
+	4. Mankey 20-20
+	5. Spoink 20-20
+	6. Ponyta 20-20
+	7. Quilava 21-21
+	8. Charmeleon 22-22
+	9. Houdour 22-22
+	10. Eevee 22-22
+	11. Flareon 22-22
+	12. Entei 40-40
+
+106 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Squirtle 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Wailmer 10-30
+	6. Qwilfish 25-30
+	7. Seaking 30-35
+	8. Squirtle 20-25
+	9. Mantine 35-40
+	10. Wartortle 40-45
+
+107 - Edited
+	1. Wailmer 5-35
+	2. Wingull 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Squirtle 25-30
+
+	1. Magikarp 5-10
+	2. Goldeen 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Wailmer 10-30
+	6. Krabby 25-30
+	7. Seaking 30-35
+	8. Squirtle 20-25
+	9. Octillery 35-40
+	10. Wartortle 40-45
+
+108 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Squirtle 15-25
+	4. Pelipper 25-30
+	5. Vaporeon 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Goldeen 10-30
+	5. Wailmer 10-30
+	6. Krabby 25-30
+	7. Seaking 30-35
+	8. Remoraid 20-25
+	9. Wartortle 35-40
+	10. Blastoise 40-45
+
+109 - Edited
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Squirtle 15-25
+	4. Pelipper 25-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Goldeen 10-30
+	5. Wailmer 10-30
+	6. Krabby 25-30
+	7. Squirtle 30-35
+	8. Remoraid 20-25
+	9. Wartortle 35-40
+	10. Kingler 40-45
+
+115 - Edited
+	1. Swablu 23-23
+	2. Slowpoke 23-23
+	3. Pidgeotto 25-25
+	4. Nidorina 24-24
+	5. Nidorino 25-25
+	6. Swellow 25-25
+	7. Jigglypuff 24-24
+	8. Persian 25-25
+	9. Wingull 24-24
+	10. Zangoose 24-24
+	11. Roselia 26-26
+	12. Mew 25-25
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Slowpoke 15-25
+	4. Pelipper 25-30
+	5. Slowking 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Krabby 25-30
+	7. Shellder 30-35
+	8. Goldeen 20-25
+	9. Slowbro 35-40
+	10. Cloyster 40-45
+
+New Mauville Inside - Edited
+
+	1. Voltorb 24-24
+	2. Magnemite 24-24
+	3. Flaafy 25-25
+	4. Electabuzz 25-25
+	5. Mareep 23-23
+	6. Porygon 23-23
+	7. Electrode 26-26
+	8. Magneton 26-26
+	9. Haunter 22-22
+	10. Pikachu 22-22
+	11. Gengar 26-26
+	12. Porygon 2 26-26
+
+119 - Edited
+	1. Zigzagoon 25-25
+	2. Linoone 25-25
+	3. Persian 27-27
+	4. Oddish 25-25
+	5. Venonat 27-27
+	6. Spinarak 26-26
+	7. Scyther 27-27
+	8. Bellsprout 24-24
+	9. Weepinbell 25-25
+	10. Tropius 26-26
+	11. Kecleon 27-27
+	12. Ivysaur 25-25
+
+	1. Goldeen 5-35
+	2. Magikarp 10-30
+	3. Carvanha 15-25
+	4. Swellow 25-30
+	5. Feebas 25-30
+
+	1. Goldeen 5-10
+	2. Carvanha 5-10
+	3. Goldeen 10-30
+	4. Magikarp 10-30
+	5. Feebas 10-30
+	6. Corphish 25-30
+	7. Carvanha 30-35
+	8. Croconaw 20-25
+	9. Gyarados 35-40
+	10. Feraligatr 40-45
+
+120 - Edited
+	1. Poochyena 25-25
+	2. Mightyena 25-25
+	3. Weepinbell 27-27
+	4. Oddish 25-25
+	5. Wooper 25-25
+	6. Mudkip 26-26
+	7. Tangela 27-27
+	8. Ivysaur 27-27
+	9. Venonat 25-25
+	10. Absol 27-27
+	11. Kecleon 25-25
+	12. Venomoth 25-25
+
+	1. Wooper 20-30
+	2. Mudkip 10-20
+	3. Quagsire 30-35
+	4. Barboach 5-10
+	5. Croconaw 20-30
+
+	1. Barboach 5-10
+	2. Wooper 5-10
+	3. Mudkip 10-30
+	4. Barboach 10-30
+	5. Wooper 10-30
+	6. Quagsire 25-30
+	7. Marshtomp 30-35
+	8. Totodile 20-25
+	9. Whiscash 35-40
+	10. Swampert 40-45
+
+121 - Edited
+	1. Poochyena 26-26
+	2. Shuppet 26-26
+	3. Mightyena 26-26
+	4. Granbull 28-28
+	5. Mr. Mime 28-28
+	6. Drowzee 26-26
+	7. Spearow 28-28
+	8. Gloom 28-28
+	9. Miltank 26-26
+	10. Murkrow 27-27
+	11. Chansey 28-28
+	12. Bayleef 25-25
+
+	1. Magikarp 5-35
+	2. Spearow 10-30
+	3. Wingull 15-25
+	4. Pelipper 25-30
+	5. Fearow 25-30
+
+	1. Magikarp 5-10
+	2. Krabby 5-10
+	3. Magikarp 10-30
+	4. Krabby 10-30
+	5. Shellder 10-30
+	6. Wailmer 25-30
+	7. Shellder 30-35
+	8. Staryu 20-25
+	9. Wailmer 35-40
+	10. Gyarados 40-45
+
+122 - Edited
+	1. Magikarp 5-35
+	2. Wingull 10-30
+	3. Gastly 15-25
+	4. Murkrow 25-30
+	5. Ho-Oh 60-60
+
+	1. Magikarp 5-10
+	2. Krabby 5-10
+	3. Magikarp 10-30
+	4. Krabby 10-30
+	5. Wailmer 10-30
+	6. Gyarados 30-35
+	7. Staryu 30-35
+	8. Shellder 25-30
+	9. Kingler 35-40
+	10. Starmie 40-45
+
+123 - Edited
+	1. Poochyena 26-26
+	2. Shuppet 26-26
+	3. Mightyena 26-26
+	4. Granbull 28-28
+	5. Mr. Mime 28-28
+	6. Natu 26-26
+	7. Oddish 28-28
+	8. Gloom 28-28
+	9. Miltank 26-26
+	10. Murkrow 27-27
+	11. Scyther 28-28
+	12. Scizor 25-25
+	
+	1. Wooper 5-35
+	2. Murkrow 10-30
+	3. Psyduck 15-25
+	4. Surskit 25-30
+	5. Xatu 25-30
+
+	1. Magikarp 5-10
+	2. Wooper 5-10
+	3. Magikarp 10-30
+	4. Wooper 10-30
+	5. Feebas 10-30
+	6. Quagsire 25-30
+	7. Psyduck 30-35
+	8. Goldeen 20-25
+	9. Gyarados 35-40
+	10. Golduck 40-45
+
+Mt. Pyre 2F - Edited
+	1. Shuppet 27-27
+	2. Misdreavus 28-28
+	3. Rattata 26-26
+	4. Haunter 25-25
+	5. Hypno 29-29
+	6. Ariados 24-24
+	7. Zubat 23-23
+	8. Spinarak 22-22
+	9. Duskull 29-29
+	10. Murkrow 24-24
+	11. Raticate 29-29
+	12. Vulpix 24-24
+
+Mt. Pyre 3F - Edited
+	1. Shuppet 27-27
+	2. Misdreavus 28-28
+	3. Rattata 26-26
+	4. Haunter 25-25
+	5. Hypno 29-29
+	6. Ariados 24-24
+	7. Drowzee 23-23
+	8. Spinarak 22-22
+	9. Duskull 29-29
+	10. Beldum 24-24
+	11. Raticate 29-29
+	12. Bellsprout 24-24
+
+Mt. Pyre 4F - Edited
+	1. Shuppet 27-27
+	2. Duskull 28-28
+	3. Haunter 26-26
+	4. Gastly 25-25
+	5. Misdreavus 29-29
+	6. Rattata 24-24
+	7. Venomoth 23-23
+	8. Spinarak 22-22
+	9. Ariados 27-27
+	10. Beldum 27-27
+	11. Raticate 25-25
+	12. Dusclops 29-29
+
+Mt. Pyre 5F - Edited
+	1. Shuppet 27-27
+	2. Duskull 28-28
+	3. Haunter 26-26
+	4. Gastly 25-25
+	5. Gengar 29-29
+	6. Misdreavus 24-24
+	7. Abra 23-23
+	8. Natu 22-22
+	9. Dusclops 27-27
+	10. Banette 27-27
+	11. Kadabra 25-25
+	12. Gengar 29-29
+
+Mt. Pyre 6F - Edited
+	1. Shuppet 27-27
+	2. Duskull 28-28
+	3. Haunter 26-26
+	4. Gastly 25-25
+	5. Gengar 29-29
+	6. Misdreavus 24-24
+	7. Natu 23-23
+	8. Abra 22-22
+	9. Dusclops 27-27
+	10. Banette 27-27
+	11. Xatu 25-25
+	12. Alakazam 29-29
+
+Mt. Pyre Exterior - Edited
+	1. Shuppet 27-27
+	2. Venonat 27-27
+	3. Duskull 28-28
+	4. Venomoth 29-29
+	5. Vulpix 29-29
+	6. Bellsprout 27-27
+	7. Misdreavus 29-29
+	8. Haunter 25-25
+	9. Natu 27-27
+	10. Fearow 27-27
+	11. Weepinbell 26-26
+	12. Victreebell 28-28
+
+Mt. Pyre Summit - Edited
+	1. Shuppet 28-28
+	2. Gastly 29-29
+	3. Duskull 27-27
+	4. Misdreavus 26-26
+	5. Weepinbell 30-30
+	6. Haunter 25-25
+	7. Natu 24-24
+	8. Vulpix 28-28
+	9. Fearow 26-26
+	10. Ninetales 30-30
+	11. Chimecho 28-28
+	12. Moltres 50-50
+
+Granite Cave Stephen's Room - Edited
+	1. Zubat 7-7
+	2. Makuhita 8-8
+	3. Machop 7-7
+	4. Geodude 8-8
+	5. Abra 9-9
+	6. Tyrogue 8-8
+	7. Onix 10-10
+	8. Paras 6-6
+	9. Aron 7-7
+	10. Mawile 8-8
+	11. Steelix 7-7
+	12. Deoxys 8-8
+
+125 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Seel 25-30
+	
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Seel 30-35
+	7. Krabby 30-35
+	8. Qwilfish 25-30
+	9. Octiller 35-40
+	10. Dewgong 40-45
+
+126 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Magikarp 15-25
+	4. Pelipper 25-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Sharpedo 30-35
+	7. Clamperl 30-35
+	8. Carvanha 25-30
+	9. Huntail 40-45
+	10. Corsola 40-45
+
+127 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Squirtle 15-25
+	4. Pelipper 325-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Squirtle 10-30
+	5. Wailmer 10-30
+	6. Shellder 30-35
+	7. Wartortle 30-35
+	8. Squirtle 25-30
+	9. Gorebyss 40-45
+	10. Blastoise 40-45
+
+128 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Luvdisc 15-25
+	4. Pelipper 25-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Luvdisc 10-30
+	5. Squirtle 10-30
+	6. Shellder 30-35
+	7. Wailmer 30-35
+	8. Corsola 30-35
+	9. Cloyster 35-40
+	10. Seaking 40-45
+
+129- Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Lapras 25-30
+	5. Wailord 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Sharpedo 30-35
+	7. Shellder 30-35
+	8. Krabby 25-30
+	9. Clamperl 35-40
+	10. Wailord 40-45
+
+130 - Edited
+	1. Pikachu 30-30
+	2. Wigglytuff 35-35
+	3. Jigglypuff 25-25
+	4. Clefable 40-40
+	5. Clefairy 20-20
+	6. Wigglytuff 45-45
+	7. Jigglypuff 15-15
+	8. Raichu 50-50
+	9. Pichu 10-10
+	10. Cleffa 5-5
+	11. Mewtwo 25-25
+	12. Igglybuff 5-5
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Vaporeon 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Sharpedo 30-35
+	7. Dratini 30-35
+	8. Remoraid 25-30
+	9. Mantine 35-40
+	10. Dragonair 40-45
+
+131 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Lapras 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Sharpedo 30-35
+	7. Dratini 30-35
+	8. Remoraid 25-30
+	9. Tentacruel 35-40
+	10. Cloyster 40-45
+
+132 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Goldeen 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Seaking 30-35
+	7. Corsola 30-35
+	8. Horsea 25-30
+	9. Tentacruel 35-40
+	10. Seadra 40-45
+
+133 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Goldeen 25-30 
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Goldeen 10-30
+	6. Seaking 30-35
+	7. Wailmer 30-35
+	8. Horsea 25-30
+	9. Seadra 35-40
+	10. Kingdra 40-45
+
+134 - Edited
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Magikarp 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Wailmer 10-30
+	6. Tentacruel 30-35
+	7. Corsola 30-35
+	8. Horsea 25-30
+	9. Seadra 35-40
+	10. Seaking 40-45
+
+Abandoned Ship Hidden Floor Corridors - EDITED
+	1. Tentacool 5-35
+	2. Remoraid 5-35
+	3. Magikarp 5-35
+	4. Horsea 5-35
+	5. Suicune 40-40
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Remoraid 10-30
+	6. Horsea 25-30
+	7. Octillery 30-35
+	8. Seadra 30-35
+	9. Qwilfish 25-30
+	10. Tentacruel 20-25
+
+Seafloor Cavern Room 1 - Edited
+	1. Zubat 30-30
+	2. Geodude 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Graveler 34-34
+	8. Golem 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Vaporeon 36-36
+
+Seafloor Cavern Room 2 - Edited
+	1. Zubat 30-30
+	2. Geodude 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Wartortle 34-34
+	8. Graveler 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Blastoise 36-36
+
+Seafloor Cavern Room 3 - Edited
+	1. Zubat 30-30
+	2. Geodude 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Graveler 34-34
+	8. Golem 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Vaporeon 36-36
+
+Seafloor Cavern Room 4 - Edited
+	1. Zubat 30-30
+	2. Geodude 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Wartortle 34-34
+	8. Graveler 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Blastoise 36-36
+
+Seafloor Cavern Room 5 - Edited
+	1. Zubat 30-30
+	2. Geodude 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Graveler 34-34
+	8. Seel 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Vaporeon 36-36
+
+Seafloor Cavern Room 6 - Edited
+	1. Zubat 30-30
+	2. Seel 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Wartortle 34-34
+	8. Geodude 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Dewgong 36-36
+
+	1. Seel 5-35
+	2. Zubat 5-35
+	3. Golbat 30-35
+	4. Crobat 30-35
+	5. Dewgong 30-35
+
+	1. Seel 5-10
+	2. Squirtle 5-10
+	3. Seel 10-30
+	4. Squirtle 10-30
+	5. Krabby 10-30
+	6. Shellder 25-30
+	7. Wartortle 30-35
+	8. Clamperl 20-25
+	9. Blastoise 35-40
+	10. Dewgong 40-45
+
+
+Seafloor Cavern Room 7 - Edited
+	1. Zubat 30-30
+	2. Seel 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Wartortle 34-34
+	8. Geodude 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Dewgong 33-33
+	12. Vaporeon 36-36
+
+	1. Seel 5-35
+	2. Zubat 5-35
+	3. Golbat 30-35
+	4. Dewgong 30-35
+	5. Crobat 30-35
+
+	1. Seel 5-10
+	2. Squirtle 5-10
+	3. Seel 10-30
+	4. Squirtle 10-30
+	5. Krabby 10-30
+	6. Shellder 25-30
+	7. Wartortle 30-35
+	8. Clamperl 20-25
+	9. Dewgong 35-40
+	10. Blastoise 40-45
+
+
+Seafloor Cavern Room 8 - Edited
+	1. Zubat 30-30
+	2. Seel 31-31
+	3. Krabby 32-32
+	4. Golbat 33-33
+	5. Squirtle 28-28
+	6. Shellder 29-29
+	7. Wartortle 34-34
+	8. Geodude 35-35
+	9. Onix 34-34
+	10. Eevee 35-35
+	11. Crobat 33-33
+	12. Dewgong 36-36
+
+Seafloor Cavern Entrance - Edited
+
+	1. Tentacool 5-35
+	2. Zubat 5-35
+	3. Golbat 30-35
+	4. Crobat 30-35
+	5. Squirtle 30-35
+
+	1. Squirtle 5-10
+	2. Tentacool 5-10
+	3. Squirtle 10-30
+	4. Tentacool 10-30
+	5. Krabby 10-30
+	6. Shellder 25-30
+	7. Wartortle 30-35
+	8. Clamperl 20-25
+	9. Blastoise 35-40
+	10. Dewgong 40-45
+
+Cave of Origin Entrance - Edited
+	1. Zubat 30-30
+	2. Graveler 31-31
+	3. Golbat 32-32
+	4. Seel 33-33
+	5. Geodude 28-28
+	6. Ditto 29-29
+	7. Kabuto 34-34
+	8. Omanyte 35-35
+	9. Omastar 34-34
+	10. Kabutops 35-35
+	11. Lileep 33-33
+	12. Aerodactyl 36-36
+
+Cave of Origin 1F - Edited
+	1. Golbat 30-30
+	2. Graveler 31-31
+	3. Crobat 32-32
+	4. Sableye 30-30
+	5. Mawile 32-32
+	6. Golem 34-34
+	7. Omanyte 33-33
+	8. Kabuto 34-34
+	9. Omastar 34-34
+	10. Kabutops 35-35
+	11. Anorith 33-33
+	12. Zapdos 50-50
+
+Map CoO Unused Map 1 - Map 3
+
+New Mauville Entrance - Edited
+	1. Voltorb 24-24
+	2. Mareep 24-24
+	3. Elekid 25-25
+	4. Flaafy 25-25
+	5. Pikachu 23-23
+	6. Jolteon 23-23
+	7. Electabuzz 26-26
+	8. Magneton 26-26
+	9. Haunter 22-22
+	10. Magnemite 22-22
+	11. Porygon 22-22
+	12. Raikou 40-40
+
+Safari Zone Southwest - Edited
+	1. Bellsprout 25-25
+	2. Sunflora 27-27
+	3. Girafarig 25-25
+	4. Scyther 27-27
+	5. Natu 25-25
+	6. Doduo 27-27
+	7. Gloom 25-25
+	8. Umbreon 27-27
+	9. Eevee 25-25
+	10. Chansey 27-27
+	11. Kangaskhan 27-27
+	12. Porygon 29-29
+
+	1. Totodile 20-30
+	2. Wooper 20-30
+	3. Quagsire 30-35
+	4. Croconaw 30-35
+	5. Masquerain 30-35
+
+	1. Totodile 5-10
+	2. Goldeen 5-10
+	3. Totodile 10-30
+	4. Dratini 10-25
+	5. Wooper 10-30
+	6. Poliwag 25-30
+	7. Croconaw 30-35
+	8. Quagsire 30-35
+	9. Seaking 35-40
+	10. Dragonair 25-30
+
+Safari Zone North - Edited
+	1. Phanpy 27-27
+	2. Ponyta 27-27
+	3. Tangela 29-29
+	4. Bellsprout 29-29
+	5. Natu 27-27
+	6. Gloom 29-29
+	7. Heracross 31-31
+	8. Pinsir 29-29
+	9. Xatu 29-29
+	10. Sudowoodo 27-27
+	11. Exeggcutor 31-31
+	12. Charizard 29-29
+
+	1. Geodude 10-15
+	2. Nosepass 5-10
+	3. Dunsparce 15-20
+	4. Shuckle 20-25
+	5. Omanyte 25-30
+
+Safari Zone Northwest - Edited
+	1. Torchic 27-27
+	2. Skiploom 27-27
+	3. Arbok 29-29
+	4. Primeape 29-29
+	5. Combusken 27-27
+	6. Vileplume 29-29
+	7. Bellossom 31-31
+	8. Bulbasaur 29-29
+	9. Jumpluff 29-29
+	10. Dodrio 27-27
+	11. Ivysaur 31-31
+	12. Blaziken 29-29
+
+	1. Lotad 20-30
+	2. Mudkip 20-30
+	3. Marshtomp 30-35
+	4. Poliwhirl 30-35
+	5. Masquerain 25-40
+
+	1. Poliwag 5-10
+	2. Mudkip 5-10
+	3. Poliwag 10-30
+	4. Marshtomp 10-25
+	5. Goldeen 10-30
+	6. Lombre 25-30
+	7. Poliwrath 30-35
+	8. Seaking 30-35
+	9. Swampert 35-40
+	10. Politoed 25-30
+
+Victory Road B1F - Edited
+	1. Golbat 40-40
+	2. Hariyama 40-40
+	3. Lairon 40-40
+	4. Crobat 40-40
+	5. Graveler 38-38
+	6. Onix 38-38
+	7. Golem 42-42
+	8. Aggron 42-42
+	9. Mawile 42-42
+	10. Parasect 38-38
+	11. Steelix 42-42
+	12. Aerodactyl 38-38
+
+	1. Graveler 30-40
+	2. Geodude 30-40
+	3. Dunsparce 35-40
+	4. Shuckle 35-40
+	5. Golem 35-40
+
+Victory Road B2F - Edited
+	1. Golbat 40-40
+	2. Sableye 40-40
+	3. Lairon 40-40
+	4. Graveler 40-40
+	5. Onix 42-42
+	6. Crobat 42-42
+	7. Steelix 44-44
+	8. Parasect 44-44
+	9. Lairon 42-42
+	10. Mawile 42-42
+	11. Aggron 44-44
+	12. Aerodactyl 44-44
+
+	1. Golbat 30-35
+	2. Dratini 25-30
+	3. Dragonair 35-40
+	4. Crobat 35-40
+	5. Armaldo 35-40
+
+	1. Magikarp 5-10
+	2. Dratini 5-10
+	3. Magikarp 10-30
+	4. Dratini 10-30
+	5. Barboach 10-30
+	6. Anorith 25-30
+	7. Omanyte 30-35
+	8. Kabuto 30-35
+	9. Whiscash 35-40
+	10. Gyarados 40-45
+
+Meteor Falls 1F 1R - Edited
+	1. Zubat 16-16
+	2. Spinarak 17-17
+	3. Jigglypuff 18-18
+	4. Togepi 15-15
+	5. Cleffa 14-14
+	6. Clefairy 16-16
+	7. Solrock 18-18
+	8. Lunatone 18-18
+	9. Nidorino 19-19
+	10. Nidorina 20-20
+	11. Paras 19-19
+	12. Espeon 20-20
+
+	1. Zubat 5-35
+	2. Lunatone 30-35
+	3. Solrock 25-35
+	4. Togetic 15-25
+	5. Slowpoke 5-15
+
+	1. Magikarp 5-10
+	2. Goldeen 5-10
+	3. Magikarp 10-30
+	4. Goldeen 10-30
+	5. Barboach 10-30
+	6. Anorith 25-30
+	7. Omanyte 30-35
+	8. Slowpoke 20-25
+	9. Seaking 35-40
+	10. Omastar 40-45
+
+Meteor Falls 1F 2R - Edited
+	1. Golbat 33-33
+	2. Parasect 35-35
+	3. Spinarak 33-33
+	4. Solrock 35-35
+	5. Paras 33-33
+	6. Lileep 37-37
+	7. Lunatone 35-35
+	8. Nidoqueen 39-39
+	9. Nidoking 38-38
+	10. Crobat 40-40
+	11. Kabutops 38-38
+	12. Cradily 40-40
+
+	1. Golbat 30-35
+	2. Lunatone 30-35
+	3. Solrock 25-35
+	4. Togetic 15-25
+	5. Dratini 5-15
+
+	1. Magikarp 5-10
+	2. Goldeen 5-10
+	3. Magikarp 10-30
+	4. Anorith 10-30
+	5. Barboach 10-30
+	6. Omanyte 25-30
+	7. Kabuto 30-35
+	8. Omastar 30-35
+	9. Whiscash 35-40
+	10. Armaldo 40-45
+
+Meteor Falls B1F 1R - Edited
+	1. Golbat 33-33
+	2. Parasect 35-35
+	3. Spinarak 33-33
+	4. Solrock 35-35
+	5. Lunatone 33-33
+	6. Nidorino 37-37
+	7. Nidorina 35-35
+	8. Lileep 39-39
+	9. Anorith 38-38
+	10. Crobat 40-40
+	11. Nidoking 42-42
+	12. Nidoqueen 40-40
+
+	1. Lunatone 30-35
+	2. Solrock 30-35
+	3. Togetic 25-35
+	4. Zubat 15-25
+	5. Feebas 5-15
+
+	1. Magikarp 5-10
+	2. Feebas 5-10
+	3. Magikarp 10-30
+	4. Feebas 10-30
+	5. Barboach 10-30
+	6. Wooper 25-30
+	7. Quaqsire 30-35
+	8. Gyarados 30-35
+	9. Whiscash 35-40
+	10. Milotic 40-45
+
+Shoal Cave Low Tide Stairs Room - Edited
+
+	1. Zubat 26-26
+	2. Shellder 26-26
+	3. Krabby 28-28
+	4. Spheal 28-28
+	5. Clamperl 30-30
+	6. Golbat 30-30
+	7. Sealeo 32-32
+	8. Swinub 32-32
+	9. Cloyster 32-32
+	10. Seel 32-32
+	11. Sneasel 32-32
+	12. Kingler 32-32
+
+Shoal Cave Low Tide Lower Room - Edited
+
+	1. Zubat 26-26
+	2. Spheal 26-26
+	3. Golbat 28-28
+	4. Seel 28-28
+	5. Krabby 30-30
+	6. Shellder 30-30
+	7. Clamperl 32-32
+	8. Swinub 32-32
+	9. Cloyster 32-32
+	10. Sealeo 32-32
+	11. Sneasel 32-32
+	12. Geodude 32-32
+
+Shoal Cave Low Tide Inner Room - Edited
+	
+	1. Zubat 26-26
+	2. Spheal 26-26
+	3. Golbat 28-28
+	4. Seel 28-28
+	5. Swinub 30-30
+	6. Krabby 30-30
+	7. Crobat 32-32
+	8. Sealeo 32-32
+	9. Shellder 32-32
+	10. Sneasel 32-32
+	11. Piloswine 32-32
+	12. Jynx 32-32
+
+	1. Tentacool 5-35
+	2. Zubat 5-35
+	3. Spheal 25-30
+	4. Seel 25-30
+	5. Sealeo 25-35
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Spheal 10-30
+	5. Seel 10-30
+	6. Seel 25-30
+	7. Spheal 30-35
+	8. Tentacool 20-25
+	9. Sealeo 35-40
+	10. Walrein 40-45
+
+Shoal Cave Low Tide Entrance Room - Edited
+
+	1. Zubat 26-26
+	2. Spheal 26-26
+	3. Golbat 28-28
+	4. Seel 28-28
+	5. Swinub 30-30
+	6. Krabby 30-30
+	7. Crobat 32-32
+	8. Sealeo 32-32
+	9. Shellder 32-32
+	10. Sneasel 32-32
+	11. Vaporeon 32-32
+	12. Jynx 32-32
+
+	1. Wailmer 5-35
+	2. Zubat 5-35
+	3. Seel 25-30
+	4. Spheal 25-30
+	5. Sealeo 25-35
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Seel 10-30
+	5. Spheal 10-30
+	6. Spheal 25-30
+	7. Seel 30-35
+	8. Wailmer 20-25
+	9. Sealeo 35-40
+	10. Dewgong 40-45
+
+Lilycove City - Edited
+
+	1. Staryu 5-35
+	2. Tentacool 10-30
+	3. Wingull 15-25
+	4. Pelipper 25-30
+	5. Lapras 25-30
+	
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Wailmer 10-30
+	5. Staryu 10-30
+	6. Wailmer 25-30
+	7. Tentacool 30-35
+	8. Staryu 25-30
+	9. Tentacruel 35-40
+	10. Starmie 40-45
+
+Dewford Town - Edited
+
+	1. Wingull 5-35
+	2. Wailmer 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Squirtle 25-30
+
+	1. Goldeen 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Remoraid 10-30
+	5. Wailmer 10-30
+	6. Mantine 25-30
+	7. Seaking 30-35
+	8. Remoraid 20-25
+	9. Wartortle 35-40
+	10. Blastoise 40-45
+
+Slateport City - Edited
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Wailmer 15-25
+	4. Pelipper 25-30
+	5. Squirtle 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Wailmer 10-30
+	5. Squirtle 10-30
+	6. Krabby 25-30
+	7. Mantine 30-35
+	8. Remoraid 20-25
+	9. Kingler 35-40
+	10. Blastoise 40-45
+
+Mossdeep City - Edited
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Seel 15-25
+	4. Pelipper 25-30
+	5. Squirtle 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Seel 10-30
+	5. Krabby 10-30
+	6. Shellder 30-35
+	7. Staryu 30-35
+	8. Qwilfish 25-30
+	9. Wartortle 35-40
+	10. Dewgong 40-45
+
+Pacifidlog Town - Edited
+
+	1. Wailmer 5-35
+	2. Wingull 10-30
+	3. Goldeen 15-25
+	4. Pelipper 25-30
+	5. Lapras 25-30
+
+	1. Magikarp 5-10
+	2. Wailmer 5-10
+	3. Magikarp 10-30
+	4. Goldeen 10-30
+	5. Wailmer 10-30
+	6. Krabby 30-35
+	7. Seaking 30-35
+	8. Shellder 25-30
+	9. Kingler 35-40
+	10. Corsola 40-45
+
+Ever Grande City - Edited
+
+	1. Tentacool 5-35
+	2. Wingull 10-30
+	3. Luvdisc 15-25
+	4. Pelipper 25-30
+	5. Wailmer 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Luvdisc 10-30
+	5. Squirtle 10-30
+	6. Shellder 30-35
+	7. Cloyster 30-35
+	8. Corsola 30-35
+	9. Seaking 35-40
+	10. Tentacruel 40-45
+
+Petalburg City - Edited
+
+	1. Marill 20-30
+	2. Surskit 10-20
+	3. Masquerain 30-35
+	4. Lotad 5-10
+	5. Poliwag 5-10
+
+	1. Poliwag 5-10
+	2. Goldeen 5-10
+	3. Poliwag 10-30
+	4. Corphish 10-30
+	5. Poliwag 10-30
+	6. Totodile 25-30
+	7. Corphish 30-35
+	8. Poliwhirl 20-25
+	9. Quagisre 35-40
+	10. Crawdaunt 40-45
+
+Underwater Route 124 - Edited
+
+	1. Clamperl 20-30
+	2. Chinchou 20-30
+	3. Cloyster 30-35
+	4. Relicanth 30-35
+	5. Lugia 60-60
+
+Shoal Cave Low Tide Ice Room - Edited
+	
+	1. Zubat 26-26
+	2. Spheal 26-26
+	3. Swinub 28-28
+	4. Seel 28-28
+	5. Sealeo 30-30
+	6. Eevee 30-30
+	7. Snorunt 26-26
+	8. Piloswine 32-32
+	9. Jynx 30-30
+	10. Sneasel 28-28
+	11. Glalie 32-32
+	12. Articuno 50-50
+
+Sky Pillar 1F - Edited
+	
+	1. Sableye 33-33
+	2. Golbat 34-34
+	3. Crobat 35-35
+	4. Baltoy 34-34
+	5. Claydol 36-36
+	6. Banette 37-37
+	7. Dusclops 38-38
+	8. Arcanine 36-36
+	9. Kangaskhan 37-37
+	10. Chansey 38-38
+	11. Flygon 37-37
+	12. Blissey 38-38
+
+Sootopolis City - Edited
+
+	1. Magikarp 5-35
+	2. Tentacool 10-30
+	3. Qwilfish 15-25
+	4. Wailmer 25-30
+	5. Wailord 25-30
+
+	1. Magikarp 5-10
+	2. Tentacool 5-10
+	3. Magikarp 10-30
+	4. Tentacool 10-30
+	5. Qwilfish 10-30
+	6. Magikarp 30-35
+	7. Huntail 30-35
+	8. Gyarados 35-40
+	9. Gorebyss 35-45
+	10. Lapras 5-45
+
+Sky Pillar 3F - Edited
+
+	1. Sableye 33-33
+	2. Golbat 34-34
+	3. Crobat 35-35
+	4. Mawile 34-34
+	5. Claydol 36-36
+	6. Dusclops 37-37
+	7. Banette 38-38
+	8. Arcanine 36-36
+	9. Kangaskhan 37-37
+	10. Chansey 38-38
+	11. Flygon 37-37
+	12. Blissey 38-38
+
+Sky Pillar 5F - Edited
+
+	1. Sableye 33-33
+	2. Golbat 34-34
+	3. Murkrow 35-35
+	4. Mawile 34-34
+	5. Claydol 36-36
+	6. Banette 37-37
+	7. Dusclops 38-38
+	8. Arcanine 36-36
+	9. Kangaskhan 37-37
+	10. Blissey 38-38
+	11. Flygon 39-39
+	12. Altaria 39-39
+
+Safari Zone Southeast - Edited
+	
+	1. Sunkern 33-33
+	2. Mareep 34-34
+	3. Pineco 35-35
+	4. Sunflora 36-36
+	5. Aipom 34-34
+	6. Chikorita 33-33
+	7. Hoothoot 35-35
+	8. Snubbull 34-34
+	9. Stantler 36-36
+	10. Bayleef 37-37
+	11. Gligar 39-39
+	12. Meganium 40-40
+
+	1. Wooper 25-30
+	2. Marill 25-30
+	3. Azurill 25-30
+	4. Azumarill 30-35
+	5. Quagsire 35-40
+
+	1. Marill 25-30
+	2. Goldeen 25-30
+	3. Azurill 25-30
+	4. Wooper 25-30
+	5. Remoraid 30-35
+	6. Barboach 25-30
+	7. Remoraid 25-30
+	8. Azumarill 30-35
+	9. Quagsire 30-35
+	10. Octillery 35-40
+
+Safari Zone Northeast - Edited
+
+	1. Aipom 33-33
+	2. Teddiursa 34-34
+	3. Ursaring 35-35
+	4. Ledian 36-36
+	5. Sunkern 34-34
+	6. Ledyba 33-33
+	7. Hoothoot 35-35
+	8. Pineco 34-34
+	9. Noctowl 36-36
+	10. Miltank 37-37
+	11. Houndour 39-39
+	12. Houndoom 40-40
+	
+	1. Ditto 25-30
+	2. Geodude 20-25
+	3. Dunsparce 30-35
+	4. Shuckle 30-35
+	5. Kabuto 35-40
+
+Magma Hideout 1F - Edited
+
+	1. Geodude 27-27
+	2. Torkoal 28-28
+	3. Numel 28-28
+	4. Houndour 30-30
+	5. Slugma 29-29
+	6. Graveler 30-30
+	7. Charmander 30-30
+	8. Cyndaquil 30-30
+	9. Torchic 30-30
+	10. Quilava 31-31
+	11. Charmeleon 32-32
+	12. Combusken 33-33
+
+Magma Hidehout 2F 1R - Edited
+
+	1. Koffing 27-27
+	2. Torkoal 28-28
+	3. Numel 28-28
+	4. Houndour 30-30
+	5. Slugma 29-29
+	6. Torchic 30-30
+	7. Charmander 30-30
+	8. Cyndaquil 30-30
+	9. Combusken 30-30
+	10. Quilava 31-31
+	11. Charmeleon 32-32
+	12. Blaziken 33-33
+
+Magma Hideout 2F 2R - Edited
+
+	1. Koffing 27-27
+	2. Torkoal 28-28
+	3. Numel 28-28
+	4. Houndour 30-30
+	5. Graveler 29-29
+	6. Slugma 30-30
+	7. Golem 30-30
+	8. Quilava 30-30
+	9. Charmeleon 30-30
+	10. Magby 31-31
+	11. Magcargo 32-32
+	12. Magmar 33-33
+
+Magma Hideout 3F 1R - Edited
+
+	1. Graveler 27-27
+	2. Torkoal 28-28
+	3. Koffing 28-28
+	4. Slugma 30-30
+	5. Numel 29-29
+	6. Quilava 30-30
+	7. Charmeleon 30-30
+	8. Golbat 30-30
+	9. Golem 30-30
+	10. Grimer 31-31
+	11. Onix 32-32
+	12. Weezing 33-33
+
+Magma Hideout 3F 2R - Edited
+
+	1. Numel 27-27
+	2. Torkoal 28-28
+	3. Slugma 28-28
+	4. Houndour 30-30
+	5. Geodude 29-29
+	6. Graveler 30-30
+	7. Golbat 30-30
+	8. Crobat 30-30
+	9. Quilava 30-30
+	10. Charmeleon 31-31
+	11. Typhlosion 32-32
+	12. Magcargo 33-33
+
+Magma Hideout 4F - Edited
+
+	1. Numel 27-27
+	2. Torkoal 28-28
+	3. Slugma 28-28
+	4. Camerupt 30-30
+	5. Houndour 29-29
+	6. Magmar 30-30
+	7. Graveler 30-30
+	8. Houndoom 30-30
+	9. Quilava 30-30
+	10. Charmeleon 31-31
+	11. Typhlosion 32-32
+	12. Charizard 33-33
+
+Magma Hideout 3F 2R - Edited
+
+	1. Numel 27-27
+	2. Torkoal 28-28
+	3. Slugma 28-28
+	4. Houndour 30-30
+	5. Quilava 29-29
+	6. Geodude 30-30
+	7. Graveler 30-30
+	8. Charmander 30-30
+	9. Charmeleon 30-30
+	10. Cyndaquil 31-31
+	11. Golem 32-32
+	12. Magmar 33-33
+
+Magma Hideout 2F 3R - Edited
+
+	1. Geodude 27-27
+	2. Torkoal 28-28
+	3. Numel 28-28
+	4. Houndour 30-30
+	5. Graveler 29-29
+	6. Zubat 30-30
+	7. Golbat 30-30
+	8. Golem 30-30
+	9. Charmeleon 30-30
+	10. Quilava 31-31
+	11. Slugma 32-32
+	12. Houndoom 33-33
+
+Mirage Tower 1F - Edited
+
+	1. Sandshrew 21-21
+	2. Trapinch 21-21
+	3. Nosepass 20-20
+	4. Shuckle 20-20
+	5. Dunsparce 20-20
+	6. Geodude 20-20
+	7. Onix 22-22
+	8. Gligar 22-22
+	9. Cacnea 23-23
+	10. Larvitar 23-23
+	11. Sandslash 24-24
+	12. Vibrava 24-24
+
+Mirage Tower 2F - Edited
+
+	1. Sandshrew 21-21
+	2. Trapinch 21-21
+	3. Geodude 20-20
+	4. Phanpy 20-20
+	5. Baltoy 20-20
+	6. Diglett 20-20
+	7. Cubone 22-22
+	8. Onix 22-22
+	9. Gligar 23-23
+	10. Nosepass 23-23
+	11. Sandslash 24-24
+	12. Larvitar 24-24
+
+Mirage Tower 3F - Edited
+
+	1. Sandshrew 21-21
+	2. Trapinch 21-21
+	3. Phanpy 20-20
+	4. Baltoy 20-20
+	5. Dunsparce 20-20
+	6. Nosepass 20-20
+	7. Diglett 22-22
+	8. Cubone 22-22
+	9. Gligar 23-23
+	10. Shuckle 23-23
+	11. Sandslash 24-24
+	12. Larvitar 24-24
+
+Mirage Tower 4F - Edited
+	
+	1. Sandshrew 21-21
+	2. Trapinch 21-21
+	3. Phanpy 20-20
+	4. Baltoy 20-20
+	5. Gligar 20-20
+	6. Diglett 20-20
+	7. Dunsparce 22-22
+	8. Cubone 22-22
+	9. Lileep 23-23
+	10. Anorith 23-23
+	11. Sandslash 24-24
+	12. Pupitar 24-24
+
+Desert Underpass - Edited
+	
+	1. Ditto 38-38
+	2. Larvitar 35-35
+	3. Unown 40-40
+	4. Dugtrio 40-40
+	5. Dunsparce 41-41
+	6. Diglett 36-36
+	7. Pupitar 38-38
+	8. Onix 42-42
+	9. Marowak 38-38
+	10. Gengar 43-43
+	11. Forretress 44-44
+	12. Tyranitar 45-45
+
+Artisan Cave B1F - Edited
+
+	1. Smeargle 40-40
+	2. Masquerain 41-41
+	3. Castform 42-42
+	4. Corsola 43-43
+	5. Clamperl 44-44
+	6. Ditto 45-45
+	7. Starmie 46-46
+	8. Vaporeon 47-47
+	9. Porygon 48-48
+	10. Umbreon 49-49
+	11. Espeon 50-50
+	12. Porygon2 50-50
+
+Artisan Cave 1F - Edited
+
+	1. Smeargle 40-40
+	2. Masquerain 41-41
+	3. Castform 42-42
+	4. Corsola 43-43
+	5. Clamperl 44-44
+	6. Ditto 45-45
+	7. Starmie 46-46
+	8. Vaporeon 47-47
+	9. Porygon 48-48
+	10. Umbreon 49-49
+	11. Espeon 50-50
+	12. Porygon2 50-50
+
+Altering Cave1 - Edited
+
+	1. Kecleon 10-10
+	2. Masquerain 12-12
+	3. Castform 8-8
+	4. Corsola 14-14
+	5. Clamperl 10-10
+	6. Masquerain 12-12
+	7. Vaporeon 16-16
+	8. Ditto 6-6
+	9. Corsola 8-8
+	10. Porygon 14-14
+	11. Staryu 8-8
+	12. Castform 14-14
+
+Meteor Falls Stevens Cave - Edited
+
+	1. Scyther 33-33
+	2. Onix 35-35
+	3. Zubat 33-33
+	4. Metang 35-35
+	5. Beldum 33-33
+	6. Golem 37-37
+	7. Golbat 35-35
+	8. Crobat 39-39
+	9. Steelix 38-38
+	10. Scizor 40-40
+	11. Lunatone 38-38
+	12. Solrock 40-40
+
+Battle Pyramid then Battle Pike??

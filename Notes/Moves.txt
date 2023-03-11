@@ -1,0 +1,103 @@
+Move Changes -
+	Razor Wind 80 to 150 Power
+	Cut 95 to 100 Accuracy with 50% Chance to Lower Attack
+	Bind 75 to 90 Accuracy
+	Double Kick 30 to 40 Power
+	Wrap 15-60 Power 85 to 80 Accuracy
+	Twinneedle 25 to 55 Power
+	Fire Spin 70 to 90 Accuracy
+	Rage 20 to 40 Power
+	Waterfall 80 to 100 Power
+	Bide 10 to 20 PP
+	Clamp 75 to 100 Accuracy 10 to 15 PP 35-55 Power
+	Poison Gas Poison to Toxic Effect 55 to 75 Accuracy
+	Leech Life 20 to 50 Power
+	Crabhammer 85 to 95 Accuracy
+	Substitute 10 to 15 PP
+	Thief 10 to 25 PP
+	Spite 10 to 15 PP
+	Mud Slap 10 to 20 PP
+	Octazooka 65 to 95 Power 85 to 100 Accuracy
+	Giga Drain 5 to 10 PP
+	Encore 5 to 10 PP
+	Pursuit 20 to 30 PP
+	Iron Tail 75 to 95 Accuracy
+	Morning Sun 5 to 15 PP
+	Synthesis 5 to 15 PP
+	Moonlight 5 to 15 PP
+	Cross Chop 5 to 10 PP
+	Rain Dance 5 to 10 PP
+	Sunny Day 5 to 10 PP
+	Extremespeed 5 to 10 PP
+	Ancient Power 5 to 10 PP
+	Rock Smash 50 to 75 Secondary Effect Chance
+	Beat Up 10 to 20 Power
+	Uproar 50 to 80 Power
+	Will o Wisp 75 to 85 Power
+	Knock Off 20 to 50 Power
+	Luster Purge 70 to 100 Power 5 to 10 PP
+	Mist Ball 70 to 100 Power 5 to 10 PP
+	Silver Wind 5 to 10 PP
+	Metal Sound 85 to 100 Accuracy
+	Grasswhistle 55 to 85 Accuracy 15 to 10 PP
+	Muddy Water 85 to 100 PP 10 to 20 PP
+	Bullet Seed 10 to 18 Power 30 to 20 PP
+	Icicle Spear 10 to 18 Power 30 to 20 PP
+	Bounce 5 to 10 PP
+	Rock Blast 85 to 95 Accuracy
+	Doom Desire 85 to 100 Accuracy
+	Jump Kick 70-80 Power
+	Fury Attack 80-95 Accuracy
+	Wrap 18-40 Power
+	Pin Missile 14-25 Power 85-95 Accuracy
+	Disable 55-100 Accuracy
+	Surf 95-70 Power 15-20 PP
+	Ice Beam 95-100 Power
+	Blizzard 120-140 Power 70-90 Accuracy
+	Aurora Beam 65-75 Power 20-15 PP
+	Submission 80-100 Power
+	Counter 20-35 PP
+	Strength 80-100 Power 15-10 PP
+	Solarbeam 120-140 Power
+	Petal Dance 70-120 Power 15-10 PP
+	Wing Attack Defense Down Chance Set at 50
+	Fire Spin 15-40 Base Power
+	Gust 40-30 Base Power
+	Bind 15-40 Power 80-100 Accuracy
+	Slam 80-120 Power 75-70 Accuracy 20-10 PP
+	String Shot 95-100 Accuracy
+	Earthquake 100-80 Power
+	Toxic 85-90 Accuracy
+	Bide is Priority 2 Attack Before Quick Attacks but after Protects
+	Metronome 10-20PP
+	Spike Cannon 20-25 Power
+	Constrict 10-20 Power 10-50 Secondary Effect Chance
+	Kinesis 80-100 Accuracy
+	Hi-Jump Kick 85-120 Accuracy 20-15 PP
+	Glare 75-100 Accuracy
+	Barrage 18-15 Power 80-100 Accuracy
+	Flash 70-100 Accuracy
+	Psywave 80-100 Accuracy
+	Fury Swipes 80-90 Accuracy
+	Snore 40-50 Power Secondary Effect Chance 30-50
+	Cotton Spore 85-100 Accuracy
+	Giga Drain 60-75 Power
+	Fury Cutter 10-20 Power
+	Steel Wing 70-120 Power
+	Metal Claw 50-60 Power
+	Iron Tail 100-150 Power
+	Future Sight 90-100 Power Accuracy 90-100
+	Rock Smash 20-40
+	Whirlpool 15-40 Power 70-90 Accuracy
+	Smellingsalt 60-70 Power
+	Nature Power 95-100 Accuracy
+	Superpower 5-10 PP
+	Arm Thrust 15-18 Power
+	Luster Purge 100-150 Power 100-90 Accuracy 10-5 PP
+	Meteor Mash 100-150 Power
+	Astonish 30-50 Secondary Effect Chance
+	Weather Ball 50-100 Power
+	Sand Tomb 15-40 Power 70-90 Accuracy
+	Bounce 85-100 Power
+	Doom Desire 120-200 Power
+	

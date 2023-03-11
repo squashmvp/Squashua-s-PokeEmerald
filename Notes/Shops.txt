@@ -1,0 +1,669 @@
+Oldale Store Before Dex
+	Stick
+	Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Awakening
+	Devo Stone
+	Scope Lens
+	Macho Brace
+	Exp Share
+	TM05 Roar
+	TM11 Sunny Day
+	TM45 Attract
+	TM46 Thief
+	Heart Scale
+
+Oldale Store After Dex
+	Poke Ball
+	Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Awakening
+	Devo Stone
+	Scope Lens
+	Macho Brace
+	Exp Share
+	TM05 Roar
+	TM11 Sunny Day
+	TM45 Attract
+	TM46 Thief
+	Heart Scale
+
+Petalburg Store Before Defeating Norman?
+	Poke Ball
+	Potion
+	Antidote
+	Paralyze Heal
+	Awakening
+	Escape Rope
+	Repel
+	X Speed
+	X Attack
+	X Defend
+	Orange Mail
+	TM 21 Frustration
+	TM27 Return
+	Fluffy Tail
+	Everstone
+	Devo Stone
+
+Petalburg Store Before After Norman?
+	Poke Ball
+	Great Ball
+	Potion
+	Super Potion
+	Antidote
+	Paralyze Heal
+	Awakening
+	Escape Rope
+	Repel
+	X Speed
+	X Attack
+	X Defend
+	Orange Mail
+	TM 21 Frustration
+	TM27 Return
+	Fluffy Tail
+	Everstone
+	Devo Stone
+	Leaf Stone
+
+Rustboro Before Meeting Devon Employee
+	Poke Ball
+	Premier Ball
+	Potion
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Escape Rope
+	Repel
+	X Speed
+	X Attack
+	X Defend
+	Black Glasses
+	Silk Scarf
+	Twisted Spoon
+	Devo Stone
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+	Poke Doll
+
+Rustboro After Meeting Devon Employee
+	Poke Ball
+	Premier Ball
+	Timer Ball
+	Repeat Ball
+	Luxury Ball
+	Potion
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Escape Rope
+	Repel
+	X Speed
+	X Attack
+	X Defend
+	Black Glasses
+	Silk Scarf
+	Twisted Spoon
+	Devo Stone
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+	Poke Doll
+
+Slateport City Mart
+	Poke Ball
+	Great Ball
+	Potion
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Ether
+	Escape Rope
+	Repel
+	Super Repel
+	Harbor Mail
+	Fresh Water
+	Devo Stone
+	Sun Stone
+	Heart Scale
+	TM07 Hail
+	TM11 Sunny Day
+	TM18 Rain Dance
+	TM37 Sandstorm
+
+Slateport City Energy Guru
+	Protein
+	Iron
+	Carbos
+	Zinc
+	Calcium
+	HP Up
+	PP Up
+	PP Max
+	Rare Candy
+	Pomeg Berry
+	Kelpsy Berry
+	Qualot Berry
+	Hondew Berry
+	Grepa Berry
+	Tamato Berry
+
+Slateport City Decor Shop
+	Red Brick
+	Blue Brick
+	Yellow Brick
+	Red Balloon
+	Blue Balloon
+	Yelloow Balloon
+	C Low Note Mat
+	D Note Mat
+	E Note Mat
+	F Note Mat
+	G Note Mat
+	A Note Mat
+	B Note Mat
+	C High Note Mat
+	Tire
+	Mud Ball
+	Breakable Door
+	Sand Ornament
+	Regirock Doll
+	Regice Doll
+	Registeel Doll
+
+Slateport TM Shop
+	TM10 Hiddep Power
+	TM16 Light Screen
+	TM17 Protect
+	TM33 Reflect
+	TM43 Secret Power
+
+Mauville Mart 
+	Poke Ball
+	Great Ball
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Awakening
+	X Speed
+	X Attack
+	X Defend
+	Guard Spec
+	Dire Hit
+	X Accuracy
+	TM12 Taunt
+	TM41 Torment
+	TM49 Snatch
+	Devo Stone
+	Thunder Stone
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+
+Verdanturf Mart
+	Great Ball
+	Nest Ball
+	Net Ball
+	Luxury Ball
+	Timer Ball
+	Repeat Ball
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Awakening
+	Burn Heal
+	Ice Heal
+	Repel
+	Super Repel
+	X Special
+	Fluffy Tail
+	TM03 Water Pulse
+	TM09 Bullet Seed
+	TM34 Shock Wave
+	TM39 Rock Tomb
+	TM40 Aerial Ace
+	TM47 Steel Wing
+	White Herb
+	Mental Herb
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+
+Fallarbor
+	Great Ball
+	Super Potion
+	Revive
+	Antidote
+	Paralyze Heal
+	Escape Rope
+	Super Repel
+	X Special
+	X Speed
+	X Attack
+	X Defend
+	Dire Hit
+	Guard Spec
+	Ether
+	Elixir
+	TM04 Calm Mind
+	TM08 Bulk Up
+	TM44 Rest
+	TM48 Skill Swap
+	Devo Stone
+	Moon Stone
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+
+Lavaridge Town Mart
+	Great Ball
+	Super Potion
+	Antidote
+	Paralyze Heal
+	Awakening
+	Burn Heal
+	Revive
+	Super Repel
+	X Speed
+	Quick Claw
+	King's Rock
+	Smoke Ball
+	Soft Sand
+	Hard Stone
+	Devo Stone
+	Fire Stone
+	Lava Cookie
+	Fresh Water
+	Soda Pop
+
+Lavaridge Herb Shop
+	Energy Powder
+	Energy Root
+	Heal Powder
+	Revival Herb
+	White Herb
+	Mental Herb
+	Figy Berry
+	Wiki Berry
+	Mago Berry
+	Aguav Berry
+	Iapapa Berry
+
+Fortree Mart
+	Great Ball
+	Ultra Ball
+	Super Potion
+	Hyper Potion
+	Antidote
+	Paralyze Heal
+	Awakening
+	Revive
+	Super Repel
+	Wood Mail
+	TM06 Toxic
+	TM28 Dig
+	TM32 Double Team
+	Soda Pop
+	Lemonade
+	Moomoo Milk
+	Pearl
+	Big Pearl
+	Nugget
+	Amulet Coin
+
+Fortree Decor Desks
+	Small Desk
+	Pokemon Desk
+	Heavy Desk
+	Ragged Desk
+	Comfort Desk
+	Brick Desk
+	Camp Desk
+	Hard Desk
+	Blue Tent
+	Red Tent
+	TV
+	Solid Board
+	Fence Length
+	Fence Width
+
+	Small Chair
+	Pokemon Chair
+	Heavy Chair
+	Ragged Chair
+	Comfort Chair
+	Brick Chair
+	Camp Chair
+	Hard Chair
+	Lotad Doll
+	Seedot Doll
+	Wailmer Doll
+	Rhydon Doll
+	Venusaur Doll
+	Charizard Doll
+	Blastoise Doll
+
+Lilycove Mart Floor 2
+	Poke Ball
+	Great Ball
+	Ultra Ball
+	Timer Ball
+	Repeat Ball
+	Dive Ball
+	Nest Ball
+	Net Ball
+	Luxury Ball
+	Master Ball
+	Escape Rope
+	Razz Berry
+	Bluk Berry
+	Nanab Berry
+	Wepear Berry
+	Pinap Berry
+	Cornn Berry
+	Magost Berry
+	Rabuta Berry
+	Nomel Berry
+	Spelon Berry
+	Pamtre Berry
+	Watmel Berry
+	Durin Berry
+	Belue Berry
+	Poke Doll
+	Fluffy Tail
+
+	Potion
+	Super Potion
+	Hyper Potion
+	Max Potion
+	Revive
+	Max Revive
+	Full Heal
+	Antidote
+	Paralyze Heal
+	Burn Heal
+	Ice Heal
+	Awakening
+	Repel
+	Super Repel	
+	Max Repel
+	Escape Rope
+	Wave Mail	
+	Mech Mail
+	Devo Stone
+	Fire Stone
+	Water Stone
+	Leaf Stone
+	Thunder Stone
+	Sun Stone
+	Moon Stone
+	
+
+Lilycove Mart Floor 3
+	Protein
+	Calcium
+	Iron
+	Zinc
+	Carbos
+	HP Up
+	PP Up
+	PP Max
+	X Speed
+	X Special
+	X Attack
+	X Defend
+	Dire Hit
+	Guard Spec
+	X Accuracy
+
+	Metal Coat
+	Soft Sand
+	Hard Stone
+	Miracle Seed
+	Black Glasses
+	Black Belt
+	Magnet
+	Mystic Water
+	Sharp Beak
+	Poison Barb
+	Never Melt Ice
+	Spell Tag
+	Twisted Spoon
+	Dragon Fang
+	Silk Scarf
+
+Lilycove Mart Floor 4
+	Focus Punch
+	Dragon Claw
+	Giga Drain	
+	Iron Tail
+	Thunderbolt
+	Psychic
+	Shadow Ball
+	Flamethrower
+	Sludge Bomb
+	Facade
+
+	Hidden Power
+	Light Screen
+	Protect
+	Safeguard
+	Frustration
+	Return
+	Reflect
+	Secret Power
+
+Lilycove Mart Floor 5
+	Pichu Doll
+	Pikachu Doll
+	Marill Doll
+	Jigglypuff Doll
+	Duskull Doll
+	Wynaut Doll
+	Baltoy Doll
+	Kecleon Doll
+	Azurill Doll
+	Skitty Doll
+	Swablu Doll
+	Gulpin Doll
+	Togepi Doll
+	Cyndaquil Doll
+	Chikorita Doll
+	Totodile Doll
+	Meowth Doll
+	Clefairy Doll
+	Ditto Doll
+	Snorlax Doll
+	Lapras Doll
+
+	Pika Cushion
+	Round Cushion
+	Zigzag Cushion
+	Spin Cushion
+	Diamond Cushion
+	Ball Cushion
+	Grass Cushion
+	Fire Cushion
+	Water Cushion
+	Cute TV
+	Round TV
+	
+	Ball Poster
+	Green Poster
+	Red Poster
+	Blue Poster
+	Cute Poster
+	Pika Poster
+	Long Poster
+	Sea Poster
+	Sky Poster
+	Sand Ornament
+
+	Surf Mat
+	Thunder Mat
+	Fire Blast Mat
+	Powder Snow Mat
+	Attract Mat
+	Fissure Mat
+	Spikes Mat
+	Glitter Mat
+	Jump Mat
+	Spin Mat
+	Slide
+	Stand
+
+Mossdeep 
+	Ultra Ball
+	Net Ball
+	Dive Ball
+	Hyper Potion	
+	Full Heal
+	Revive
+	Max Repel
+	Escape Rope
+	X Attack
+	X Defend
+	X Special
+	Guard Spec
+	Max Ether
+	Devo Stone
+	Water Stone
+	Star Piece
+	Stardust
+	Focus Band
+	Choice Band
+	Soothe Bell
+
+Sootopolis Mart
+	Ultra Ball
+	Hyper Potion
+	Max Potion
+	Full Heal
+	Revive
+	Max Repel
+	Escape Rope
+	X Attack
+	X Defend
+	X Speed
+	Dire Hit
+	Bright Powder
+	Silver Powder
+	Metal Powder
+	Lucky Punch
+	Lucky Egg
+	Shadow Mail
+
+Evergrande 
+	Ultra Ball
+	Master Ball
+	Hyper Potion
+	Max Potion
+	Full Restore
+	Full Heal
+	Revive
+	Max Revive
+	Max Repel
+	Rare Candy
+	Liechi Berry
+	Ganlon Berry
+	Salac Berry
+	Petaya Berry
+	Apicot Berry
+	Lansat Berry
+	Starf Berry
+
+Battle Frontier Shop
+	Ultra Ball
+	Master Ball
+	Hyper Potion
+	Max Potion
+	Full Restore
+	Full Heal
+	Revive
+	Max Revive
+	Max Repel
+	TM14 Blizzard
+	TM15 Hyper Beam
+	TM22 Solarbeam
+	TM25 Thunder
+	TM26 Earthquake
+	TM38 Fire Blast
+	TM50 Overheat
+	Lum Berry
+	Leppa Berry
+	Sitrus Berry
+	
+
+Item List
+	Heart Scale
+	Devo Stone
+	Leaf Stone
+	Water Stone
+	Fire Stone
+	ThunderStone
+	Moon Stone
+	Sun Stone
+	
+	Repel, Sper Repel, Max Repel
+	Escape Rope
+	Fluffy Tail
+	PokE Doll
+
+	X Attack, Defend, Special, Guard Spec. Speed, Accuracy
+	Dire H
+
+	HP Up, Protein, Iron, Carbos, Calcium, Zinc
+	PP Up, PP Max
+	Rare Candy
+
+	Ether, Max Ether
+	Elixir, Max Elixir
+	Energy Root
+	EnergyPowder
+	Heal Powder
+	Revival Herb
+	Moomoo Milk
+	Lemonade
+	Soda Pop
+	Fresh Water
+	
+	Potion, Super Potion, Hyper Potion, Max Potion
+	Full Restore
+	Full Heal
+	Parayz Heal
+	Full Restore
+	Awakening
+	Ice Heal
+	Burn Heal
+	Antidote
+	Revive, Max Revive
+
+	Poke Ball
+	Great Ball
+	Ultra Ball
+	Master Ball
+	Premier Ball
+	Luxury Ball
+	Timer Ball
+	Repeat Ball
+	Nest Ball
+	Dive Ball
+	Net Ball
+
+
+	BattleFrontier_Mart
+	EverGrandeCity_Pokemon_Center_1st_Floor
+	Lilycove Department Store
+	MossdeepCity_Mart
+	SootopolisCity_Mart

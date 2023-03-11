@@ -1,0 +1,28 @@
+In Game Trades + Fixes to Mail
+	Seedot: Get Sudowoodo(25,25,25,20,20,25) w/ Stick Named "TREE" for Nincada
+	Plusle: Get Togepi(31, 25, 28, 28, 28, 28) w/ Wood Mail Named "Pastry" for Elekid
+	Horsea: Get Snorlax(30, 28, 25, 25, 30, 20) w/ Wave Mail Named "Massiv" for Wailord
+	Meowth: Get Dunsparce(31, 31, 31, 25, 31, 25) w/ Retro Mail Named "Noko" for Heracross
+
+Move Tutors Removed Set Flags
+SootopolisGym Statue Text Add
+
+Capitaization Fixes Applied
+	Names(Ability, Trainer and Class, Move, Items,)
+	Descriptions(Attacks, Move, Items, Gift Ribbon, Ribbon)
+	Match Call Messages
+	Trade Text
+	Union Room Text
+	Easy Chat
+	Pokemon Names
+	Pokedex (Entries, Descriptions)
+	Region Map
+	Trainer Names
+	Battle Frontier Trainers, Apprentice, Mons,
+	Contest Trainers, Mons
+	Menus(UIs, HUD Elements, Messages, Options)
+	Pokenav Stuff
+	Wonder Card Stuff
+	Signs
+	Misc. Strings (Stuff like UIs, HUD elements, Messages, etc.)
+	Abandoned Ship - VictoryRoadB2F

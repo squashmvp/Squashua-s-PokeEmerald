@@ -1,0 +1,1001 @@
+Reference Legendaries
+Mew - Route 115 Walking 1%
+Mewtwo - Mirage Island Walking 1%
+Articuno - Shoal Cave Low Tide Ice Room Walking 1%
+Zapdos - Cave of Origin 1F Walking 1%
+Moltres - Mt. Pyre Summite Walking 1%
+Suicune - Inside Abandoned Ship Hidden Floor Corridors Walking 1%
+Raikou - New Mauville Entrance Walking 1%
+Entei - Jagged Pass Walking 1%
+Celebi - Petalburg Woods 1%
+Ho-Oh - Route 122 Surfing 1%
+Lugia - Underwater Route 124 Surfing 1%
+Jirachi - Meteor Falls B1F 2R Surfing 1%
+Deoxys - Granite Cave Stephen's Room Walking 1%
+
+Starters
+	Treecko to Eevee
+	Umbreon to Torchic
+	Espeon to Mudkip
+
+All Future Evolutions can Devolve
+
+Evolution
+	All Future Evolutions can Devolve
+	Poliwhirl to Politoed - Evolve by Move Bounce
+	Kadabra to Alakazam - Evolve by Move Future Sight
+	Machoke to Machamp - Evolve by Move Cross Chop
+	Graveler to Golem - Evolve by Move Explosion
+	Haunter to Gengar - Evolve by Move Nightmare
+	Onix to Steelix - Evolve by Move Iron Defense
+	Seadra to Kingdra - Evolve by Move Dragon Dance
+	Scyther to Scizor - Evolve by Move Steel Wing
+	Eevee to Espeon - Evolve by Item Sun Stone
+	Eevee to Umbreon - Evolve by Item Moon Stone
+	Clamperl to Huntail - Evolve by Move Dive
+	Clamperl to Gorebyss - Evolve by Move Waterfall
+	Eevee to Espeon Evolves by Move Morning Sun
+	Eevee to Umbreon Evolves by Move Moonlight 
+	Porygon to Porygon 2 Evolves by Move Conversion 2
+	Porygon 2 to Porygon Evolves by Move Sharpen
+	
+
+Changed Abilities
+	Bulbasaur - Chlorophyll
+	Ivysaur - Chlorophyll
+	Venusaur - Chlorophyll
+	Charmander - Inner Focus
+	Charmeleon - Inner Focus
+	Charizard - Inner Focus
+	Squirtle - Rain Dish
+	Wartortle - Rain Dish
+	Blastoise - Rain Dish
+	Caterpie - Run Away
+	Metapod - Shed Skin
+	Butterfree - Effect Spore
+	Weedle - Run Away
+	Kakuna - Shed Skin
+	Beedrill - Levitate
+	Pidgey - Guts
+	Pidgeotto - Guts
+	Pidgeot - Guts
+	Rattata - Hustle, Guts
+	Raticate - Hustle, Guts
+	Spearow - Early Bird
+	Fearow - Early Bird
+	Ekans - Limber
+	Arbok - Limber
+	Pikachu - Lightning Rod
+	Raichu - Lightning Rod
+	Sandshrew - Shell Armor
+	Sandslash - Shell Armor
+	Nidoran - Hustle
+	Nidorina - Hustle
+	Nidoqueen - Thick Fat
+	Nidoran - Hustle
+	Nidorino - Hustle
+	Nidoking - Intimidate
+	Clefairy - Serene Grace
+	Clefable - Serene Grace
+	Vulpix - Drought
+	Ninetales - Drought
+	Jigglypuff - Serene Grace
+	Wigglytuff - Serene Grace
+	Zubat - Swarm
+	Golbat - Swarm
+	Oddish - Run Away
+	Gloom - Stench
+	Vileplume - Effect Spore
+	Paras - Rain Dish
+	Parasect - Rain Dish
+	Venonat - Run Away
+	Venomoth - Serene Grace
+	Diglett - Sand Stream
+	Dugtrio - Sand Stream
+	Meowth - Own Tempo
+	Persian - Own Tempo
+	Psyduck - Swift Swim, Cloud Nine
+	Golduck - Swift Swim, Cloud Nine
+	Mankey - Guts
+	Primeape - Guts
+	Growlithe - Drought
+	Arcanine - Drought
+	Poliwag - Swift Swim
+	Poliwhirl - Swift Swim
+	Poliwrath - Swift Swim
+	Abra - Truant, Trace
+	Kadabra - Truant, Trace Evolution by Happiness
+	Alakazam - Truant, Trace
+	Machop - Limber
+	Machoke - Limber
+	Machamp - Limber
+	Bellsprout - Overgrow
+	Weepinbell - Overgrow
+	Victreebell - Overgrow
+	Tentacool - Rain Dish
+	Tentacruel - Rain Dish
+	Geodude - Sand Veil, Sturdy
+	Graveler - Sand Veil, Sturdy, Evolution by Happiness
+	Golem - Sand Veil, Sturdy
+	Ponyta - Flame Body, Flash Fire
+	Rapidash - Flame Body, Flash Fire
+	Slowpoke - Natural Cure, Level up for Slowbrow, or Level up with Shellder in Party
+	Slowbro - Natural Cure
+	Magnemite - Minus, Sturdy
+	Magneton - Plus, Sturdy
+	Farfetch'd - Intimidate
+	Doduo - Keen Eye
+	Dodrio - Keen Eye
+	Seel - Marvel Scale
+	Dewgong - Marvel Scale
+	Grimer - Poison Point
+	Muk - Poison Point
+	Shellder - Drizzle
+	Cloyster - Drizzle
+	Gastly - Air Lock
+	Haunter - Shadow Tag, Evolve by Happiness
+	Gengar - Pressure
+	Onix - Shell Armor, Sturdy, Evolves by Knowing Iron Tail
+	Drowzee - Inner Focus
+	Hypno - Inner Focus
+	Krabby - Hustle
+	Kingler - Hustle
+	Voltorb - Volt Absorb
+	Electrode - Volt Absorb
+	Exeggcute - Wonder Guard
+	Exeggcutor - Wonder Guard
+	Cubone - Battle Armor
+	Marowak - Battle Armor
+	Hitmonlee - Hustle
+	Hitmonchan - Inner Focus
+	Lickitung - Cloud Nine
+	Koffing - Air Lock
+	Weezing - Air Lock
+	Rhyhorn - Sand Veil, Rock Head
+	Rhydon - Sand Veil, Rock Head
+	Chansey - Cute Charm, Serene Grace
+	Tangela - Overgrow
+	Kangaskhan - Inner Focus
+	Horsea - Damp
+	Seadra - Damp, Evolve if knows Dragon Dance
+	Goldeen - Lightningrod
+	Seaking - Lightningrod
+	Staryu - Color Change
+	Starmie - Color Change
+	Mr. Mime - Synchronize
+	Scyther - Speed Boost, Evolve if knows Steel Wing
+	Jynx - Rough Skin
+	Electabuzz - Vital Spirit
+	Magmar - Vital Spirit
+	Pinsir - Shed Skin
+	Tauros - Hustle
+	Magikarp - Water Veil
+	Gyarados - Water Veil
+	Lapras - Torrent
+	Ditto - Color Change
+	Eevee - Pickup
+	Vaporeon - Color Change
+	Jolteon - Speed Boost
+	Flareon - Serene Grace
+	Porygon - Color Change
+	Omanyte - Clear Body
+	Omastar - Clear Body
+	Kabuto - Hyper Cutter, Battle Armor
+	Kabutops - Hyper Cutter, Battle Armor
+	Aerodactyl - Intimidate
+	Snorlax - Oblivious, Thick Fat
+	Articuno - Clear Body
+	Zapdos - Static
+	Moltres - Flame Body
+	Dratini - Marvel Scale
+	Dragonair - Marvel Scale
+	Dragonite - Marvel Scale
+	Mewtwo - Intimidate
+	Mew - Serene Grace
+	Chikorita - Natural Cure
+	Bayleef - Natural Cure
+	Meganium - Effect Spore
+	Cyndaquil - Flash Fire
+	Quilava - Flash Fire
+	Typhlosion - White Smoke
+	Totodile - Rough Skin
+	Croconaw - Rough Skin
+	Feraligatr - Battle Armor
+	Sentret - Pure Power, Keen Eye
+	Furret - Pure Power, Keen Eye
+	Hoothoot - Compound Eyes, Keen Eye
+	Noctowl - Compound Eyes, Keen Eye
+	Ledyba - Sturdy, Early Bird
+	Ledian - Battle Armor, Early Bird
+	Spinarak - Intimidate
+	Ariados - Intimidate
+	Crobat - Limber
+	Chinchou - Second Ability: Water Absorb
+	Lanturn - Second Ability: Water Absorb
+	Pichu - Lightningrod
+	Cleffa - Serene Grace
+	Igglybuff - Serene Grace
+	Togepi - Cute Charm
+	Togetic - Cloud Nine
+	Natu - Shadow Tag
+	Xatu - Shadow Tag
+	Mareep - Plus
+	Flaafy - Plus
+	Ampharos - Plus
+		Bellowssom - Own Tempo
+	Marill - Torrent
+	Azumarill - Torrent
+	Sudowoodo - Sand Stream
+	Politoed - Drizzle
+	Hoppip - Water Absorb
+	Skiploom - Water Absorb
+	Jumpluff - Water Absorb
+	Aipom - Pure Power
+	Sunkern - Early Bird
+	Sunflora - Early Bird
+	Yanma - Sand Veil
+	Wooper - Oblivious
+	Quagsire - Oblivious
+	Espeon - Natural Cure
+	Umbreon - Inner Focus
+	Murkrow - Hustle
+	Slowking - Natural Cure, Truant
+	Misdreavus - Pressure
+	Unown - Inner Focus
+	Wobbuffet - Inner Focus
+	Girafarig - Serene Grace
+	Pineco - Shell Armor
+	Forretress - Shell Armor
+	Dunsparce - Second Ability: Hustle
+	Gligar - Immunity
+	Steelix - Shell Armor
+	Snubbull - Rattled
+	Granbull - Rattled
+	Qwilfish - Intimidate
+	Scizor - Light Metal
+	Shuckle - Shell Armor
+	Heracross - Shed Skin
+	Sneasel - Speed Boost
+	Teddiursa - Cute Charm
+	Ursaring - Intimidate
+	Slugma - Flash Fire
+	Magcargo - Shell Armor
+	Swinub - Thick Fat
+	Piloswine - Thick Fat
+	Corsola - Color Change
+	Remoraid - Torrent
+	Octillery - Torrent
+	Delibird - Insomnia
+	Mantine - Water Veil
+	Skarmory - Rough Skin
+	Houndour - Blaze
+	Houndoom - Blaze
+	Kingdra - Damp
+	Phanpy - Sand Veil
+	Donphan - Sand Veil
+	Porygon2 - Analytic
+	Stantler - Pure Power
+	Smeargle - Serene Grace
+	Tyrogue - Vital Spirit
+	Hitmontop - Speed Boost
+	Smoochum - Cute Charm
+	Elekid - Vital Spirit
+	Magby - Vital Spirit
+	Miltank - Cute Charm
+	Blissey - Cute Charm
+	Raikou - Volt Absorb
+	Entei - Flash Fire
+	Suicune - Water Absorb
+	Larvitar - Sand Veil
+	Pupitar - Shed Skin
+	Tyranitar - Battle Armor
+	Lugia - Marvel Scale
+	Ho-Oh - Guts
+	Celebi - Color Change
+	Treecko - Limber
+	Grovyle - Limber
+	Sceptile - Lightning Rod
+	Torchic - Speed Boost
+	Combusken - Speed Boost
+	Blaziken - Speed Boost
+	Mudkip - Damp
+	Marshtomp - Damp
+	Swampert - Swift Swim
+	Poochyena - Cute Charm
+	Mightyena - Own Tempo
+	Zigzagoon - Sand Veil
+	Linoone - Sand Veil
+	Wurmple - Run Away
+	Silcoon - Shed Skin
+	Beautifly - Serene Grace
+	Cascoon - Shed Skin
+	Dustox - Compound Eyes
+	Lotad - Own Tempo
+	Lombre - Own Tempo
+	Ludicolo - Own Tempo
+	Seedot - Shell Armor
+	Nuzleaf - Overgrow
+	Shiftry - Overgrow
+	Taillow - Early Bird
+	Swellow - Early Bird
+	Wingull - Rain Dish, Drizzle
+	Pelipper - Rain Dish, Drizzle
+	Ralts - Pickup
+	Kirlia - Serene Grace
+	Gardevoir - Serene Grace
+	Surskit - Rain Dish
+	Masquerain - Color Change
+	Shroomish - Water Absorb
+	Breloom - Water Absorb
+	Slakoth - Truant
+	Vigoroth - Vital Spirit
+	Slaking - Truant
+	Nincada - Shed Skin
+	Ninjask - Compound Eyes
+	Shedinja - Wonder Guard
+	Whismur - Intimidate
+	Loudred - Intimidate
+	Exploud - Intimidate
+	Makuhita - Hustle
+	Hariyama - Hustle
+	Azurill - Sap Sipper
+	Nosepass - Sand Stream
+	Skitty - Limber
+	Delcatty - Limber
+	Sableye - Insomnia
+	Mawile - Huge Power
+	Aron - Rough Skin
+	Lairon - Rough Skin
+	Aggron - Rough Skin
+	Meditite - Pure Power, Inner Focus
+	Medicham - Pure Power, Inner Focus
+	Electrike - Intimidate
+	Manectric - Intimidate
+	Plusle - Plus, Lightningrod
+	Minun - Minus, Volt Absorb
+	Volbeat - Compound Eyes
+	Illumise - Compound Eyes
+	Roselia - Overgrow
+	Gulpin - Pickup
+	Swalot - Thick Fat
+	Carvanha - Speed Boost
+	Sharpedo - Speed Boost
+	Wailmer - Pressure
+	Wailord - Pressure
+	Numel - Own Tempo
+	Camerupt - Drought
+	Torkoal - Shell Armor, Drought
+	Spoink - Cute Charm
+	Grumpig - Cute Charm
+	Spinda - Serene Grace
+	Trapinch - Rock Head
+	Vibrava - Compound Eyes, Levitate
+	Flygon - Compound Eyes, Levitate
+	Cacnea - Water Absorb
+	Cacturne - Water Absorb
+	Swablu - Cloud Nine
+	Altaria - Cloud Nine
+	Zangoose - Hyper Cutter
+	Seviper - Intimidate
+	Lunatone - Levitate, Air Lock
+	Solrock - Levitate, Air Lock
+	Barboach - Hydration
+	Whiscash - Hydration
+	Corphish - Immunity
+	Crawdaunt - Immunity
+	Baltoy - Synchronize
+	Claydol - Synchronize
+	Lileep - Water Absorb
+	Cradily - Water Absorb
+	Anorith - Swift Swim
+	Armaldo - Swift Swim
+	Feebas - Adaptability
+	Milotic - Cute Charm
+	Castform - Forecast, Color Change
+	Kecleon - Sticky Hold
+	Shuppet - Trace
+	Banette - Trace
+	Duskull - Intimidate
+	Dusclops - Intimidate
+	Tropius - Pickup
+	Chimecho - Levitate
+	Absol - Hyper Cutter
+	Wynaut - Telepathy
+	Snorunt - Own Tempo
+	Glalie - Clear Body
+	Spheal - Oblivious
+	Sealeo - Oblivious
+	Walrein - Oblivious
+	Clamperl - Color Change
+	Huntail - Water Veil
+	Gorebyss - Hydration
+	Relicanth - Sturdy
+	Luvdisc - Run Away
+	Bagon - Sheer Force
+	Shelgon - Battle Armor
+	Salamence - Guts
+	Beldum - Inner Focus
+	Metang - Inner Focus
+	Metagross - Inner Focus
+	Regirock - Sturdy
+	Regice - Pressure
+	Registeel - Lightning Rod
+	Latias - Levitate
+	Latios - Levitate
+	Kyogre - Drizzle
+	Groudon - Drought
+	Rayquaza - Air Lock
+	Jirachi - Serene Grace
+	Deoxys - Pressure
+
+
+Changed Moves
+
+Dodrio
+	Jump Kick 31
+	Swords Dance 54
+Poliwag
+	Bounce 28
+
+Poliwhirl
+	Bounce 31
+
+Sharpedo 
+	Super Fang 41
+
+Flygon
+	Dragon Dance 38
+
+Eevee 
+	Tackle 1
+	Tail Whip 1
+	Helping Hand 1
+	Sand Attack 8
+	Growl 8
+	Double Kick 12
+	Water Sport 14
+	Mud Sport 14
+	False Swipe 16
+	Quick Attack 20
+	Agility 24
+	Conversion 24
+	Weather Ball 27
+	Bite 30
+	Body Slam 33
+	Baton Pass 36
+	Assist 39
+	Take Down 42
+	Tri Attack 45
+	Swords Dance 50
+	Conversion 55
+	Superpower 60
+
+Espeon
+	Tackle 1
+	Tail Whip 1
+	Safeguard 1
+	Magic Coat 8
+	Confusion 8
+	Magical Leaf 12
+	Teleport 14
+	Detect 16
+	Mist Ball 20
+	Luster Purge 20
+	Calm Mind 24
+	Glare 27
+	Psybeam 30
+	Morning Sun 33
+	Reflect 36
+	Light Screen 36
+	Flatter 39
+	Psych Up 42
+	Aurora Beam 45
+	Psychic 50
+	Extrasensory 50
+	Recycle 55
+	Future Sight 60
+	Destiny Bond 60
+
+Umbreon 
+	Tackle 1
+	Tail Whip 1
+	Refresh 1
+	Substitute 8
+	Thief 8
+	Will o Wisp 12
+	Barrier 14
+	Amnesia 14
+	Bide 16
+	Disable 20
+	Counter 24
+	Mirror Coat 24
+	Supersonic 27
+	Pursuit 30
+	Faint Attack 30
+	Moonlight 33
+	Torment 36
+	Taunt 36
+	Scary Face 39
+	Psych Up 42
+	Brick Break 45
+	Confuse Ray 50
+	Perish Song 55
+	Mean Look 60
+
+Stat Changes
+	Diglett - Attack: 55 to 65
+	Dugtrio - Attack: 80 to 100
+	Abra    -  Sp Def: 55 to 65
+	Ekans   -  Attack 60 to 65 Defense: 44 to 54
+	Arbok   -  Attack: 85 to 95 Defense: 69 to 79
+	Electrode - Speed: 140 to 150
+	Kadabra -  Sp Def: 70 to 85
+	Alakazam - Sp Def: 85 to 95
+	Exeggcute - Sp Def: 45 to 55
+	Exeggutor - Sp Def: 65 to 75
+	Farfetch'd - Attack: 65 to 90
+	Doduo   - Speed: 75 to 85
+	Dodrio  - Speed: 100 to 110
+	Sentret -  Attack: 46 to 40 Defense 34 to 30
+	Furret  -  Attack: 76 to 70 Defense 64 to 60
+	Hoothoot - Sp Att: 36 to 50
+	Noctowl - Sp Att: 76 to 90
+	Spinarak - Defense: 40 to 50 Sp Def: 40 to 50
+	Ariados - Defense: 70 to 75 Sp Def: 60 to 75
+	Aipom   -  Attack: 70 to 60 Defense 55 to 50 Speed 80 to 90
+	Qwilfish - Defense: 75 to 85 Sp Def: 55 to 65
+	Slugma  - HP 40 to 50 Sp Att: 70 to 80
+	Magcargo - HP: 50 to 60 Sp Att: 80 to 90
+	Mantine - HP: 65 to 85
+	Delcatty - Defense: 65 to 80 Sp Def: 55 to 70 Speed: 70 to 90
+	Swellow - Attack: 85 to 90 Sp Att: 50 to 75 
+	Wingull - Sp Att: 55 to 65
+	Pelipper - Sp Att: 85 to 95
+	Surskit - Speed: 65 to 85 Sp Att: 50 to 60
+	Masquerain - Speed: 60 to 80 Sp Att: 80 to 100
+	Illumise - Defense: 55 to 85 Sp Def: 75 to 95
+	Volbeat - Defense: 55 to 85 Sp Def: 75 to 95
+	Chimecho - HP: 65 to 75, Defense: 70 to 80 Sp Def: 80 to 90
+	Corsola - HP: 55 to 65, Defense: 85 to 105 Sp Def: 85 to 100
+	Lunatone - HP: 70 to 90
+	Solrock - HP: 70 to 90
+
+Hold Item Changes
+	Bulbasaur - Common: Pecha Berry Rare: Miracle Seed
+	Ivysaur - Common: Pecha Berry Rare: Miracle Seed
+	Venusaur - Common: Chesto Berry Rare: Miracle Seed
+	Charmander - Common: Rare: Lava Cookie
+	Charmeleon - Common: Rare: Lava Cookie
+	Squirtle - Common: Heart Scale Rare: Pearl
+	Wartortle - Common: Heart Scale Rare: Pearl
+	Blastoise - Common: Deep Sea Scale Rare: Big Pearl
+	Caterpie - Common: Rare: Silver Powder
+	Metapod - Common: Rare: Silver Powder
+	Butterfree - Common: Rare: Silver Powder
+	Weedle - Common: Rare: Poison Barb
+	Kakuna - Common: Rare: Poison Barb
+	Beedrill - Common: Rare: Poison Barb
+	Pidgey - Common: Salac Berry Rare: Revival Herb
+	Pidgeotto - Common: Salac Berry Rare: Revival Herb
+	Pidgeot - Common: Salac Berry Rare: Revival Herb
+	Rattata - Common: Leftovers Rare: Nugget
+	Raticate - Common: Leftovers Rare: Nugget
+	Spearow - Common: Liechi Berry Rare: Stick
+	Fearow - Common: Liechi Berry
+	Nidoran_F - Common: Sitrus Berry Rare: Poison Barb
+	Nidorina - Common: Sitrus Berry Rare: Poison Barb
+	Nidoqueen - Common: Sitrus Berry Rare: Moon Stone
+	Nidoran_M - Common: Iapapa Berry Rare: Sitrus Berry
+	Nidorino - Common: Iapapa Berry Rare: Sitrus Berry
+	Nidoking - Common: Sitrus Berry Rare: Kings Rock
+	Vulpix - Common: Rawst Berry Rare: Wiki Berry
+	Ninetales - Common: Rawst Berry Rare: Fire Stone
+	Jigglypuff - Common: Leppa Berry Rare: Poke Doll
+	Wigglytuff - Common: Leppa Berry Rare: Soothe Bell
+	Zubat - Common: Rare: Pecha Berry
+	Golbat - Common: Rare: Pecha Berry
+	Oddish - Common: Apicot Berry Rare: Oran Berry
+	Gloom - Common: Apicot Berry Rare: Lax Incense
+	Venonat - Common: Rare: Bright Powder
+	Venomoth - Common: Silverpowder Rare: Silverpowder
+	Diglett - Common: Aguav Berry Rare: Soft Sand
+	Dugtrio - Common: Aguav Berry Rare: Soft Sand
+	Meowth - Common: Nugget Rare: Amulet Coin
+	Persian - Common: Nugget Rare: Amulet Coin
+	Psyduck - Common: Persim Berry Rare: Nomel Berry
+	Golduck - Common: Persim Berry Rare: Sea Incense
+	Vileplume - Common: Apicot Berry Rare: Apicot Berry
+	Mankey - Common: Chesto Berry Rare: Chesto Berry
+	Primeape - Common: Chesto Berry Rare: Chesto Berry
+	Arcanine - Common: Rare: Everstone
+	Poliwag - Common: Qualot Berry Rare: Mago Berry
+	Poliwhirl - Common: Mago Berry
+	Poliwrath - Common: Mago Berry
+	Machop - Common: Lansat Berry Rare: Black Belt
+	Machoke - Common: Lansat Berry Rare: Black Belt
+	Machamp - Common: Lansat Berry Rare: Black Belt
+	Bellsprout - Common: Rare: Mental Herb
+	Weepinbell - Common: Rare: Mental herb
+	Victreebel - Common: Rare: Mental Herb
+	Tentacool - Common: Rare: Poison Barb
+	Tentacruel - Common: Rare: Poison Barb
+	Graveler - Common: Hard Stone 
+	Golem - Common: Hard Stone
+	Farfetch'd - Common: Hondew Berry
+	Gastly - Common: Cleanse Tag Rare: Spell Tag
+	Haunter - Common: Spell Tag
+	Onix - Common: Hard Stone Rare: Metal Coat
+	Drowzee - Common: Petaya Berry Rare: Chesto
+	Hypno - Common: Petaya Berry Rare: Chesto
+	Krabby - Common: Shoal Shell Rare: Shoal Salt
+	Kingler - Common: Shoal Shell Rare: Shoal Salt
+	Voltorb - Common: Poke Ball Rare: Premier Ball
+	Electrode - Common: Great Ball Rare: Ultra Ball
+	Exeggcute - Common: Rare: Grepa Berry
+	Hitmonlee - Common: Black Belt Rare: Black Belt
+	Hitmonchan - Common: Black Belt Rare: Choice Band
+	Lickitung - Common: Lum Berry Rare: Sitrus Berry
+	Chansey - Common: Lucky Punch
+	Kangaskhan - Common: Pecha Berry Rare: Rawst Berry
+	Scyther - Common: Ganlon Berry Rare: Metal Coat
+	Electabuzz - Common: Chery Berry Rare: Cheri Berry
+	Pinsir - Common: Watmel Berry Rare: Watmel Berry
+	Tauros - Common: Oran Berry Rare: Persim Berry
+	Ditto - Common: Bright Powder
+	Eevee - Common: Rare: Silk Scarf
+	Vaporeon - Common: Rare: Water Stone
+	Jolteon - Common: Rare: Thunder Stone
+	Flareon - Common: Rare: Fire Stone
+	Porygon - Common: Rare: Scope Lens
+	Snorlax - Common: Rare: Pamtre Berry
+	Articuno - Common: Blue Flute Rare: Blue Flute
+	Zapdos - Common: Yellow Flute Rare: Yellow Flute
+	Moltres - Common: Red Flute Rare: Red Flute
+	Mewtwo - Common: Master Ball Rare: Master Ball
+	Mew - Common: Poke Doll Rare: Poke Doll
+	Chikorita - Common: Oran Berry Rare: Miracle Seed
+	Bayleef - Common: Oran Berry Rare: Miracle Seed
+	Meganium - Common: Sitrus Berry Rare: Miracle Seed
+	Cyndaquil - Common: Rare: Lava Cookie
+	Quilava - Common: Lava Cookie Rare: Charcoal
+	Typhlosion - Common: Charcoal Rare: Charcoal
+	Totodile - Common: Aspear Berry Rare: Deep Sea Tooth
+	Croconaw - Common: Aspear Berry Rare: Deep Sea Tooth
+	Feraligatr - Common: Aspear Berry Rare: Deep Sea Tooth
+	Sentret - Common: Heart Scale, Rare: Oran Berry
+	Furret - Common: Oran Berry Rare: Sitrus Berry
+	Noctowl - Common: Rare: Sharp Beak
+	Ledyba - Common: Bright Powder Rare: Bright Powder
+	Ledian - Common: Bright Powder Rare: Bright Powder
+	Spinarak - Common: Rare: Poison Barb
+	Ariados - Common: Rare: Poison Barb
+	Crobat - Common: Pecha Berry Rare: Pecha Berry
+	Chinchou - Common: Green Shard Rare: Yellow Shard
+	Lanturn - Common: Green Shard Rare: Yellow Shard
+	Togepi - Common: Pinap Berry Rare: Razz Berry
+	Togetic - Common: Pinap Berry Rare: Razz Berry
+	Natu - Common: Starf Berry Rare: Spell Tag
+	Xatu - Common: Starf Berry Rare: Spell Tag
+	Mareep - Common: Petaya Berry Rare: Cheri Berry
+	Flaaffy - Common: Petaya Berry Rare: Cheri Berry
+	Ampharos - Common: Petaya Berry Rare: Cheri Berry
+	Bellossom - Common: Apicot Berry Rare: Ganlon Berry
+	Marill - Common: Rare: Sea Incense
+	Azumarill - Common: Rare: Sea Incense
+	Sudowoodo - Common: Miracle Seed Rare: Stick
+	Politoed - Common: Mago Berry
+	Hoppip - Common: Rare: White Herb
+	Skiploom - Common: Rare: White Herb
+	Jumpluff - Common: White Herb Rare: White Herb
+	Aipom - Common: Great Ball Rare: Lemonade
+	Sunkern - Common: Rare: Miracle Seed
+	Sunflora - Common: Miracle Seed Rare: Sun Stone
+	Wooper - Common: Rare: Iapapa Berry
+	Quagsire - Common: Iapapa Berry Rare: Iapapa Berry
+	Espeon - Common: Rare: Spell Tag
+	Umbreon - Common: Rare: Bright Powder
+	Murkrow - Common: Nugget Rare: Big Pearl
+	Girafarig - Common: Salac Berry
+	Forretress - Common: Rare: Metal Coat
+	Dunsparce - Common: Hondew Berry Rare: Tamato Berry
+	Gligar - Common: Quick Claw Rare: Poison Barb
+	Snubbul - Common: Aguav Berry Rare: Aguav Berry
+	Granbull - Common: Aguav Berry Rare: Aguav Berry
+	Qwilfish - Common: Rare: Poison Barb
+	Scizor - Common: Rare: Metal Coat
+	Shuckle - Common: Rare: Sitrus Berry
+	Heracross - Common: Belue Berry Rare: Belue Berry
+	Sneasel - Common: Quick Claw Rare: Never Melt Ice
+	Teddiursa - Common: Figy Berry Rare: Figy Berry
+	Ursaring - Common: Figy Berry Rare: Figy Berry
+	Slugma - Common: Rare: Charcoal
+	Swinub - Common: Shoal Salt Rare: Shoal Salt
+	Piloswine - Common: Shoal Salt Rare: Shoal Salt
+	Corsola - Common: Blue Shard
+	Octillery - Common: Red Shard Rare: Big Pearl
+	Delibird - Common: Macho Brace Rare: Exp Share
+	Mantine - Common: Yellow Shard Rare: Mystic Water
+	Skarmory - Common: Magost Berry Rare: Ganlon Berry
+	Houndour - Common: Lava Cookie Rare: Lava Cookie
+	Houndoom - Common: Lava Cookie Rare: Lava Cookie
+	Phanpy - Common: Nanab Berry Rare: Nanab Berry
+	Donphan - Common: Nanab Berry Rare: Nanab Berry
+	Porygon2 - Common: Rare: Upgrade
+	Stantler - Common: Cornn Berry Rare: Cornn Berry
+	Smeargle - Common: Heart Scale Rare: Poke Doll
+	Tyrogue - Common: Focus Band Rare: Choice Band
+	Hitmontop - Common: Black Belt Rare: Focus Band
+	Elekid - Common: Cheri Berry Rare: Cheri Berry
+	Blissey - Common: Lucky Punch
+	Raikou - Common: Yellow Scarf Rare: Yellow Scarf
+	Entei - Common: Red Scarf Rare: Red Scarf
+	Suicune - Common: Blue Scarf Rare: Blue Scarf
+	Larvitar - Common: Tamato Berry Rare: Tamato Berry
+	Pupitar - Common: Tamato Berry Rare: Tamato Berry
+	Tyranitar - Common: Tamato Berry Rare: Kings Rock
+	Lugia - Common: Blue Scarf Rare: Blue Scarf
+	Celebi - Common: Green Scarf Rare: Green Scarf
+	Treecko - Common: Leppa Berry Rare: Miracle Seed
+	Grovyle - Common: Leppa Berry Rare: Miracle Seed
+	Sceptile - Common: Leppa Berry Rare: Miracle Seed
+	Torchic - Common: Rare: Lava Cookie
+	Combusken - Common: Rare: Lava Cookie
+	Blaziken - Common: Lava Cookie Rare: Lava Cookie
+	Mudkip - Common: Liechi Berry Rare: Mystic Water
+	Marshtomp - Common: Liechi Berry Rare: Mystic Water
+	Swampert - Common: Liechi Berry Rare: Mystic Water
+	Poochyena - Common: Grepa Berry
+	Mightyena - Common: Grepa Berry
+	Zigzagoon - Common: Oran Berry, Rare: Leppa Berry
+	Wurmple - Common: Bright Powder Rare: Silver Powder
+	Silcoon - Common: Rare: Silver Powder
+	Beautifly - Common: Rare: Silver Powder
+	Cascoon - Common: Rare: Bright Powder
+	Dustox - Common: Rare: Bright Powder
+	Lotad - Common: Durin Berry Rare: Mystic Water
+	Lombre - Common: Durin Berry Rare: Mystic Water
+	Ludicolo - Common: Durin Berry Rare: Water Stone
+	Seedot - Common: Spelon Berry Rare: Miracle Seed
+	Nuzleaf - Common: Spelon Berry Rare: Miracle Seed
+	Shiftry - Common: Spelon Berry Rare: Leaf Stone
+	Taillow - Common: Rabuta Berry Rare: Nugget
+	Swellow - Common: Rabuta Berry Rare: Nugget
+	Shroomish - Common: Cheri Berry Rare: Liechi Berry
+	Spinda - Common: Persim Berry Rare: Iapapa Berry
+	Wingull - Common: Kelpsy Berry Rare: Pearl
+	Pelipper - Common: Kelpsy Berry Rare: Big Pearl
+	Surskit - Common: Rare: Silver Powder
+	Wailmer - Common: Rare: Mystic Water
+	Wailord - Common: Rare: Mystic Water
+	Skitty - Common: Wepear Berry
+	Delcatty - Common: Wepear Berry
+	Kecleon - Common: Starf Berry
+	Baltoy - Common: Rare: Magnet
+	Claydol - Common: Rare: Magnet
+	Nosepass - Common: Hard Stone Rare: Magnet
+	Torkoal - Common: Lava Cookie Rare: Charcoal
+	Sableye - Common: Hard Stone Rare: Star Piece
+	Barboach - Common: Soft Sand Rare: Mystic Water
+	Whiscash - Common: Soft Sand Rare: Mystic Water
+	Luvdisc - Common: Heart Scale Rare: Heart Scale
+	Corphish - Common: Pearl
+	Crawdaunt - Common: Pearl Rare: Big Pearl
+	Milotic - Common: Rare: Deep Sea Scale
+	Vibrava - Common: Soft Sand Rare: Dragon Scale
+	Flygon - Common: Dragon Scale Rare: Dragon Fang
+	Makuhita - Common: Rare: Choice Band
+	Hariyama - Common: Choice Band
+	Electrike - Common: Kelpsy Berry Rare: Kelpsy Berry
+	Manectric - Common: Kelpsy Berry Rare: Magnet
+	Numel - Common: Rare: Lava Cookie
+	Spheal - Common: Rabuta Berry Rare: Mystic Water
+	Sealeo - Common: Rabuta Berry Rare: Never Melt Ice
+	Walrein - Common: Never Melt Ice Rare: Mystic Water
+	Cacnea - Common: Tamato Berry
+	Cacturne - Common: Tamato Berry
+	Snorunt - Common: Aspear Berry Rare: Apicot Berry
+	Glalie - Common: Apicot Berry Rare: Never Melt Ice
+	Lunatone - Common: Star Dust
+	Solrock - Common: Star Dust
+	Spoink - Common: Pamtre Berry Rare: Pamtre Berry
+	Grumpig - Common: Pamtre Berry Rare: Pamtre Berry
+	Plusle - Common: Wepear Berry Rare: Wepear Berry
+	Minun - Common: Wepear Berry Rare: Wepear Berry
+	Mawile - Common: Heart Scale Rare: Star Piece
+	Meditite - Common: Twisted Spoon Rare: Black Belt
+	Medicham - Common: Twisted Spoon Rare: Black Belt
+	Swablu - Common: Magost Berry Rare: Lum Berry
+	Altaria - Common: Lum Berry Rare: Wiki Berry
+	Wynaut - Common: Wiki Berry Rare: Wiki Berry
+	Duskull - Common: Cleanse Tag
+	Roselia - Common: Mental Herb
+	Slakoth - Common: Figy Berry Rare: Bluk Berry
+	Vigoroth - Common: Figy Berry Rare: Bluk Berry
+	Slaking - Common: Figy Berry Rare: Bluk Berry
+	Gulpin - Common: Leftovers
+	Swalot - Common: Leftovers
+	Tropius - Common: Nanab Berry Rare: Nanab Berry
+	Whismur - Common: Belue Berry
+	Loudred - Common: Belue Berry
+	Clamperl - Common: Pearl Rare: Big Pearl
+	Huntail - Common: Blue Shard Rare: Deep Sea Tooth
+	Gorebyss - Common: Red Shard Rare: Deep Sea Scale
+	Absol - Common: Liechi Berry Rare: Mental Herb
+	Shuppet - Common: Cleanse Tag
+	Seviper - Common: Lansat Berry Rare: Sitrus Berry
+	Zangoose - Common: Rare: Quick Claw
+	Relicanth - Common: Yellow Shard
+	Aron - Common: Everstone
+	Lairon - Common: Hard Stone Rare: Metal Coat
+	Aggron - Common: Metal Coat Rare: Hard Stone
+	Castform - Common: Mystic Water Rare: Never Melt Ice
+	Volbeat - Common: Qualot Berry Rare: Bright Powder
+	Illumise - Common: Grepa Berry Rare: Silver Powder
+	Lileep - Common: Miracle Seed Rare: Everstone
+	Cradily - Common: Miracle Seed Rare: Everstone
+	Anorith - Common: Mystic Water Rare: Everstone
+	Armaldo - Common: Mystic Water Rare: Everstone
+	Ralts - Common: Rare: Silk Scarf
+	Kirlia - Common: Rare: Silk Scarf
+	Gardevoir - Common: Rare: Silk Scarf
+	Bagon - Common: Dragon Fang
+	Shelgon - Common: Dragon Fang
+	Salamence - Common: Dragon Fang
+	Regirock - Common Rare Candy Rare: Rare Candy
+	Regice - Common Rare Candy Rare: Rare Candy
+	Registeel - Common: Rare Candy Rare: Rare Candy
+	Latias - Common Soul Dew Rare: Soul Dew
+	Latios - Common: Soul Dew Rare: Soul Dew
+	Chimecho - Common: Soothe Bell Rare: Shell Bell
+
+Catch Rates
+	Bulbasaur 45 to 120
+	Ivysaur 45 to 80
+	Charmander 45 to 120
+	Charmeleon 45 to 80
+	Squirtle 45 to 120
+	Wartortle 45 to 80
+	Hitmonlee 45 to 190
+	Hitmonchan 45 to 190
+	Lickitung 45 to 120
+	Chansey 30 to 120
+	Mr Mime 45 to 120
+	Scyther 45 to 120
+	Jynx 45 to 120
+	Electabuzz 45 to 120
+	Magmar 45 to 120
+	Pinsir 45 to 120
+	Tauros 45 to 120
+	Lapras 45 to 120
+	Ditto 35 to 120
+	Eevee 45 to 190
+	Porygon 45 to 100
+	Omanyte 45 to 180
+	Kabuto 45 to 180
+	Aerodactyl 45 to 90
+	Snorlax 25 to 45
+	Dratini 45 to 180
+	Dragonair 45 to 120
+	Mew 45 to 3
+	Chikorita 45 to 120
+	Bayleef 45 to 80
+	Cyndaquil 45 to 120
+	Quilava 45 to 80
+	Totodile 45 to 120
+	Croconaw 45 to 80
+	Murkrow 30 to 120
+	Heracross 45 to 80
+	Hitmontop 45 to 80
+	Celebi 45 to 3
+	Treecko 45 to 120
+	Grovyle 45 to 80
+	Torchic 45 to 120
+	Combusken 45 to 80
+	Mudkip 45 to 120
+	Marshtomp 45 to 80
+	Beldum 3 to 45
+
+SAFARI ZONE CATCH RATES CHANGED (gotta organize)
+N
+	Oddish 4
+	Sunflora 2
+	Girafarig 4
+	Scyther 8
+	Natu 6
+	Doduo 8
+	Gloom 3
+	Wobbuffet 4
+	Pikachu 6
+	Beedrill 4
+	Porygon 4
+	Chansey 8
+
+SW
+	Bellsprout 4
+	Umbreon 8
+	Eevee 5
+	Kangaskhan 4
+	
+	Totodile 4
+	Wooper 4
+	Quagsire 6
+	Croconaw 6
+	Masquerain 6
+	
+	Goldeen 4
+	Dratini 8
+	Poliwag 4
+	Seaking 6
+	Dragonair 6
+	
+	N
+	Phanpy 6
+	Ponyta 8
+	Tangela 6
+	Heracross 6
+	Pinsir 6
+	Xatu 8
+	Sudowoodo 10
+	Exeggcutor 10
+	Charizard 10
+	
+	Geodude 4
+	Nosepass 4
+	Dunsparce 8
+	Shuckle 4
+	Omanyte 4
+	
+	NW
+	Torchic 6
+	Skiploom 4
+	Arbok 8
+	Primeape 2
+	Combusken 2
+	Vileplume 2
+	Bulbasaur 4
+	Jumpluff 8
+	Dodrio 10
+	Ivysaur 6
+	Blaziken 4
+	
+	Lotad 4
+	Mudkip 4
+	Marshtomp 6
+	Poliwhirl 6
+	Swampert 10
+	Politoed 10
+	
+SE	
+	Sunkern 3
+	Mareep 3
+	Pineco 1
+	Sunflora 2
+	Aipom 8
+	Chikorita 4
+	Hoothoot 6
+	Snubbull 6
+	Stantler 6
+	Bayleef 3
+	Gligar 4
+	Meganium 2
+	
+	Marill 6
+	Azurill 8
+	Azumarill 4
+	
+	Remoraid 10
+	Barboach 6
+	Octillery 2
+	
+	NE
+	Teddiursa 8
+	Ursaring 4
+	Ledian 4
+	Noctowl 4
+	Miltank 6
+	Houndour 4
+	Houndoom 3
+	
+	Ditto 2
+	Dunsparce 8
+	Kabuto 4

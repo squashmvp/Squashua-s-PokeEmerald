@@ -1,0 +1,505 @@
+BRENDAN-MUDKIP ALL IVs = 255 EXCEPT: 
+	103: [NO ITEMS DEFAULT] - UMBREON 5
+	110: JOLTEON 18, CHARMELEON 18, Spheal 18, HITMONTOP 20, Beedrill 20, UMBREON 20
+	119: JOLTEON 32, CHARIZARD 34, Sealeo 32, HITMONTOP 32,  Beedrill 32, UMBREON 34 
+	RUSTBORO: Eevee 13, Charmander 13, Spheal 14, Tyrogue 14, Kakuna 15, Umbreon 15
+	LILYCOVE: Beedrill 38, HITMONTOP 38, Charizard 38, Walrein 40, ZAPDOS 40, UMBREON 42
+BRENDAN-TREECKO
+	103: [NO ITEMS DEFAULT] - ESPEON 5
+	110: Taillow 18, Nidorino 18, Magmar 18, Carvanha 20, Nincada 18, Espeon 20
+	119: Swellow, Nidoking, Magmar, Sharpedo, Shedinja, Espeon
+	RUSTBORO: Taillow, Nidoran Male, Magby, Carvanha, Nincada, Espeon
+	LILYCOVE: Swellow, Nidoking, Entei, Sharpedo, Ninjask, Espeon
+BRENDAN-TORCHIC
+	103: [NO ITEMS DEFAULT] - EEVEE 5
+	110: Flareon, Croconaw, Surskit, Machop, Phanpy, Eevee
+	119: Flareon 32, Feraligatr 34, Masquerain 32, Machoke 34, Donphan 32, Eevee 34
+	RUSTBORO: Eevee, Totodile, Surskit, Machop, Phanpy, Eevee
+	LILYCOVE: Feraligatr, Masquerain, Machamp, Donphan, Moltres, Eevee
+
+MAY-MUDKIP
+	103: [NO ITEMS DEFAULT] - UMBREON 5
+	110: Electabuzz 18, Eevee 20, Oddish 18, Marshtomp 18, Beautifly 20, UMBREON 20
+	119: Electabuzz 32, Flareon 34, Gloom 34, Swampert 32, Beautifly 34, Umbreon 34
+	RUSTBORO: Elekid 13, Eevee 14, Oddish 13, Mudkip 14, Beautifly 15, Umbreon 15
+	LILYCOVE: Flareon 38, Bellossom 38, Swampert 38, Beautifly 40, Raikou 40, Umbreon 42
+MAY-TREECKO
+	103: [NO ITEMS DEFAULT] - ESPEON 5
+	110: Spearow 18, Nidorina 18, Vaporeon 18, Numel 20, Anorith 20, Espeon 20 
+	119: Fearow 32, Nidoqueen 34, Vaporeon 32, Camerupt 34, Anorith 32, Espeon 34
+	RUSTBORO: Spearow 13, Nidoran F 13, Eevee 14, Numel 14, Anorith 15, Espeon 15
+	LILYCOVE: Fearow 38, Nidoqueen 38, Camerupt 38, Armaldo 40, Suicune 40, Espeon 42
+MAY-TORCHIC
+	103: [NO ITEMS DEFAULT] - EEVEE 5
+	110: Marill 20, Lileep 18, Scyther 18, Clamperl 18, Noctowl 22, Eevee 22
+	119: Azumarill 32, Lileep 32, Scizor 32, Clamperl 34, Shuppet 34, Eevee 36
+	RUSTBORO: Azurill 13, Lileep 14, Scyther 13, Clamperl 15, Hoothoot 14, Eevee 15 
+	LILYCOVE: Cradily 40, Scyther 38, Gorebyss 38, Banette 40, Articuno 40, Eevee 42
+
+Wally VR
+	1: [No ITEMS-CUSTOM] - Altaria 44, Jirachi 45, Roselia 44, Milotic 43, Manectric 43, Gardevoir 45
+
+ROXANNE
+	1: [ITEMS CUSTOM] - GEODUDE 12, SHUCKLE 12, ONIX 12, AERODACTYL 13, LARVITAR 14, NOSEPASS 15
+	2: [ITEMS CUSTOM] - Golem 32, Aerodactyl 33, Onix 33, Sudowoodo 35, Corsola 35, Nosepass 35
+	3: [ITEMS CUSTOM] - Rhyhorn 44, Golem 44, Shuckle 44, Cradily 44, Nosepass 44, Armaldo 44
+	4: [ITEMS CUSTOM] - Aggron 58, Magcargo 58, Corsola 58, Aerodactyl 58, Nosepass 58, Rhydon 58
+	5: [ITEMS CUSTOM] - Tyranitar 70, Cradily 70, Armaldo 70, Omastar 70, Aerodactyl 70, Nosepass 72
+
+BRAWLY
+	1: [ITEMS CUSTOM] - MACHOP 16, MEDITITE 16, TYROGUE 18, HERACROSS 16, HITMONLEE 20, MAKUHITA 19
+	2: [ITEMS CUSTOM] - Pinsir 33, Combusken 33, Hitmonchan 33, Machoke 33, Poliwrath 33, Breloom 33
+	3: [ITEMS CUSTOM] - Hitmontop 46, Hariyama 46, Breloom 46, Primeape 46, Medicham 46, Machamp 46
+	4: [ITEMS CUSTOM] - Pinsir 63, Hitmonchan 60, Breloom 60, Hitmonlee 60, Hitmontop 60, Primeape 63
+	5: [ITEMS CUSTOM] - Blaziken 72, Medicham 74, Machamp 74, Poliwrath 72, Heracross 72, Hariyama 74, Medicham 74
+
+WATTSON
+	1: [ITEMS CUSTOM] - VOLTORB 20, ELECTRIKE 20, MAGNETON 22, ELECTABUZZ 21, FLAAFFY 24, MANECTRIC 24
+	2: [ITEMS CUSTOM] - Jolteon 36, Manectric 36, Electrode 36, Magneton 36, Lanturn 36, Raichu 36 
+	3: [ITEMS CUSTOM] - Plusle 48, Minun 48, Manectric 48, Ampharos 48, Magneton 48, Lanturn 48
+	4: [ITEMS CUSTOM] - Electrode 62, Ampharos 62, Electabuzz 62, Manectric 62, Magneton 62, Raichu 62
+	5: [ITEMS CUSTOM] - Lanturn 74, Raichu 74, Magneton 74, Manectric 74, Electrode 74, Jolteon 74 
+
+FLANNERY
+	1: {ITEMS CUSTOM] - PONYTA 24, COMBUSKEN 24, CAMERUPT 26, SLUGMA 24, ARCANINE 27, TORKOAL 29
+	2: [ITEMS CUSTOM] - Torkoal 38, Houndoom 38, Flareon 38, Typhlosion 40, Charizard 40, Blaziken 40
+	3: [ITEMS CUSTOM] - Typhlosion 52, Ninetales 51, MagCargo 51, Camerupt 53, Flareon 53, Arcanine 52
+	4: [ITEMS CUSTOM] - Torkoal 66, Magcargo 64, Blaziken 66, Rapidash 65, Camerupt 66, Magmar 64	
+	5: [ITEMS CUSTOM] - Ninetales 77, Charizard 78, Houndoom 76, Torkoal 78, Arcanine 76, Flareon 78
+
+NORMAN
+	1: [ITEMS CUSTOM] - SPINDA 27, DUNSPARCE 30, LINOONE 29, VIGOROTH 27, PERSIAN 31, SLAKING 31
+	2: [ITEMS CUSTOM] - Slaking 40, Girafarig 40, Porygon 40, Lickitung 40, Ditto 40, Kangaskhan 40
+	3: [ITEMS CUSTOM] - Stantler 52, Exploud 54, Kecleon 52, Zangoose 54, Smeargle 52, Slaking 54
+	4: [ITEMS CUSTOM] - Dunsparce 68, Girafarig 66, Slaking 68, Delcatty 68, Ursaring 66, Tauros 66 
+	5: [ITEMS CUSTOM] - Slaking 80, Blissey 78, Wigglytuff 79, Snorlax 80, Porygon 2 79, Eevee 82
+
+WINONA
+	1: [ITEMS CUSTOM] - NINJASK 29, TROPIUS 29, NOCTOWL 30, SKARMORY 31, CHARIZARD 32, ALTARIA 33
+	2: [ITEMS CUSTOM] - Pelipper 42, Yanma 42, Tropius 45, Skarmory 44, Butterfree 42, Ledian 45
+	3: [ITEMS CUSTOM] - Masquerain 54, Gyarados 55, Farfetch'd 55, Altaria 56, Charizard 56, Gligar 54
+	4: [ITEMS CUSTOM] - Togetic 66, Dodrio 66, Noctowl 66, Pidgeot 66, Fearow 66, Altaria 66
+	5: [ITEMS CUSTOM] - Pidgeot 80, Crobat 80, Scyther 80, Jumpluff 80, Dodrio 80, Dragonite 80
+
+TATE & LIZA
+	1: [ITEMS CUSTOM] - CLAYDOL 41, XATU 41, SLOWKING 42, ALAKAZAM 41, LUNATONE 42, SOLROCK 42
+	2: [ITEMS CUSTOM] - Solrock 46, Lunatone 46, Slowking 45, Medicham 44, Espeon 46, Xatu 45
+	3: [ITEMS CUSTOM] - Gardevoir 57, Alakazam 58, Wobbuffet 56, Claydol 58, Lunatone 58, Solrock 58 
+	4: [ITEMS CUSTOM] - Girafarig 67, Espeon 67, Mr Mime 67, Solrock 67, Lunatone 67, Jynx 67
+	5: [ITEMS CUSTOM] - Metagross 80, Starmie 80, Solrock 80, Lunatone 80, Gardevoir 80, Espeon 80
+
+JUAN
+	1: [ITEMS CUSTOM] - POLITOED 42, FERALIGATR 43, WAILORD 42, SEAKING 44, GOREBYSS 45, MILOTIC 46
+	2: [ITEMS CUSTOM] - Sharpedo 46, Kingler 46, Dewgong 48, Ludicolo 48, Crawdaunt 51, Quagsire 51
+	3: [ITEMS CUSTOM] - Vaporeon 59, Blastoise 60, Golduck 58, Politoed 58, Tentacruel 60, Azumarill 59
+	4: [ITEMS CUSTOM] - Relicanth 69, Feraligatr 69, Whiscash 69, Mantine 69, Seaking 69, Slowbro 69
+	5: [ITEMS CUSTOM] - Cloyster 80, Milotic 80, Qwilfish 80, Walrein 80, Lapras 80, Vaporeon 80
+
+Sidney
+	Added Murkrow 47
+Phoebe
+	Dusclops, Sableye, Haunter, Misdreavus, Banette, Gengar
+Glacia
+	Cloyster, Dewgong, Glalie, Piloswine, Lapras, Walrein
+Drake
+	Added Latios and Latias
+
+Trainers to Edit(MATCH CALL)
+	Beauty Thalia Abandoned Ship - Mature Water Types
+		1: NO ITEMS DEFAULT MOVES - Wailmer 25, Staryu 25, Horsea 25
+		2: NO ITEMS DEFAULT MOVES - Wailmer 34, Starmie 34, Seaking 34, Seadra 34
+		3: NO ITEMS DEFAULT MOVES - Luvdisc 38, Wailord 40, Starmie 38, Seaking 38, Seadra 40
+		4: NO ITEMS DEFAULT MOVES - Luvdisc 44, Wailord 44, Starmie 44, Seaking 45, Vaporeon 45, Seadra 45
+		5: NO ITEMS DEFAULT MOVES - Luvdisc 50, Wailord 48, Starmie 46, Seaking 47, Vaporeon 49, Kingdra 50
+	Young Couple Kira and Dan - Lovey-Dovey PKMN
+		1: NO ITEMS DEFAULT MOVES - Volbeat 25, Illumise 25
+		2: NO ITEMS DEFAULT MOVES - Volbeat 30, Illumise 30
+		3: NO ITEMS CUSTOM MOVES - Volbeat 35, Illumise 35
+		4: NO ITEMS CUSTOM MOVES - Volbeat 40, Illumise 40
+		5: NO ITEMS CUSTOM MOVES - Volbeat 45, Illumise 45
+	Picnicker Diana Jagged Pass - All Pokemon
+		1: NO ITEMS DEFAULT MOVES - Shroomish 19, Oddish 19, Swablu 19, Sandshrew 20
+		2: NO ITEMS DEFAULT MOVES - Shroomish 25, Gloom 25, Swablu 25, Sandslash 25, Cacnea 25
+		3: NO ITEMS DEFAULT MOVES - Breloom 33, Magmar 33, Gloom 33, Swablu 33, Sandslash 33, Cacturne 33 
+		4: NO ITEMS DEFAULT MOVES - Breloom 40, Magmar 40, Gloom 41, Altaria 40, Sandslash 42, Cacturne 40
+		5: NO ITEMS DEFAULT MOVES - Breloom 45, Magmar 45, Vileplume 47, Altaria 48, Sandslash 48, Cacturne 48
+	Camper Ethan Jagged Pass - All Pokemon
+		1: NO ITEMS DEFAULT MOVES - Zigzagoon 20, Spoink 20, Taillow 20
+		2: NO ITEMS DEFAULT MOVES - Linoone 26, Spoink 26, Swinub 26, Pineco 26, Swellow 26
+		3: NO ITEMS DEFAULT MOVES - Linoone 34, Grumpig 34, Piloswine 34, Ponyta 34, Forretree
+		4: NO ITEMS DEFAULT MOVES - Linoone 40, Grumpig 41, Piloswine 40, Rapidash 42, Forretress 40, Swellow 42
+		5: NO ITEMS DEFAULT MOVES - Linoone 46, Grumpig 47, Piloswine 45, Rapidash 48, Forretress 45, Swellow 47
+	Old Couple John & Jay - Old Pokemon
+		1: NO ITEMS CUSTOM MOVES - Medicham 39, Hariyama 39
+		2: NO ITEMS CUSTOM MOVES - Medicham 45, Hariyama 45 
+		3: NO ITEMS CUSTOM MOVES - Medicham 51, Hariyama 51
+		4: NO ITEMS CUSTOM MOVES - Medicham 56, Hariyama 56
+		5: NO ITEMS CUSTOM MOVES - Medicham 60, Hariyama 60
+	Dragon Tamer Nicolas Meteor Falls - Dragon Pokemon
+		1: NO ITEMS DEFAULT MOVES - Bagon 37, Altaria 37, Dragonair 37, Altaria 37, Vibrava 37
+		2: NO ITEMS DEFAULT MOVES - Shelgon 46, Altaria 47, Dragonair 46, Charizard 45, Altaria 47, Vibrava 46
+		3: NO ITEMS DEFAULT MOVES - Altaria 53, Charizard 54, Dragonair 53, Flygon 53, Shelgon 55, Altaria 55
+		4: NO ITEMS DEFAULT MOVES - Altaria 60, Charizard 60, Dragonite 60, Flygon 60, Altaria 60, Salamence 60
+		5: ITEMS DEFAULT MOVES - Sceptile 65, Altaria 65, Charizard 65, Dragonite 65, Flygon 65, Salamence 65
+	Hiker Sawyer Mt. Chimney - Hot Pokemon
+		1: NO ITEMS DEFAULT MOVES - Geodude 21, Slugma 22
+		2: NO ITEMS DEFAULT MOVES - Graveler 28, Slugma 28, Onix 28, Machoke 28, Numel 28
+		3: NO ITEMS DEFAULT MOVES - Torkoal 34 Onix 34, Camerupt 34, Machoke 34, Slugma 34, Graveler 34
+		4: NO ITEMS DEFAULT MOVES - Torkoal 41, Onix 41, Camerupt 41, Machamp 41, Magcargo 41, Golem 41
+		5: NO ITEMS DEFAULT MOVES - Machamp 48, Torkoal 50, Onix 47, Magcargo 48, Camerupt 50, Golem 49, 
+	Expert Shelby Mt. Chimney - Fighting Type Pokemon
+		1: NO ITEMS DEFAULT MOVES - Meditite 21, Makuhita 21
+		2: NO ITEMS DEFAULT MOVES - Medicham 34, Heracross 34, Hariyama 34
+		3: NO ITEMS DEFAULT MOVES - Medicham 42, Poliwrath 41 Heracross 42, Heriyama 42
+		4: NO ITEMS DEFAULT MOVES - Medicham 49, Hitmonlee 47, Primeape 48, Hariyama 49, Poliwrath 47, Heracross 47 
+		5: NO ITEMS DEFAULT MOVES - Medicham 56, Hariyama 56, Hitmonlee 54, Primeape 54, Poliwrath 53, Heracross 53
+	PKMN Breeder Gabrielle Mt. Pyre - Fun to Raise Pokemon
+		1: NO ITEMS DEFAULT MOVES - Skitty 26, Poochyena 26, Zigzagoon 26, Lotad 26, Seedot 26, Taillow 26
+		2: NO ITEMS DEFAULT MOVES - Skitty 32, Poochyena 32, Zigzagoon 32, Lotad 32, Seedot 32, Taillow 32
+		3: NO ITEMS DEFAULT MOVES - Delcatty 40, Mightyena 40, Linoone 40, Lombre 40, Nuzleaf 40, Swellow 40
+		4: NO ITEMS DEFAULT MOVES - Delcatty 46, Mightyena 46, Linoone 46, Ludicolo 46, Shiftry 46, Swellow 46
+		5: NO ITEMS DEFAULT MOVES - Delcatty 52, Mightyena 52, Linoone 52, Ludicolo 52, Shiftry 52, Swellow 52
+	Hex Maniac Valerie Mt. Pyre - Scary at Night
+		1: NO ITEMS DEFAULT MOVES - Sableye 32
+		2: NO ITEMS DEFAULT MOVES - Sableye 38, Arbok 38, Duskull 38, Grumpig 38 
+		3: NO ITEMS DEFAULT MOVES - Arbok 44, Sableye 44, Duskull 44, Venomoth 44, Grumpig 44
+		4: NO ITEMS DEFAULT MOVES - Duskull 50, Arbok 50, Venomoth 50, Sableye 50, Grumpig 50
+		5: NO ITEMS DEFAULT MOVES - Duskull 58, Arbok 58, Banette 58, Venomoth 58, Sableye 58, Grumpig 58
+	Bug Catcher James Petalburg Woods - Bug Pokemon
+		1: NO ITEMS DEFAULT MOVES - Nincada 6, Nincada 6
+		2: NO ITEMS DEFAULT MOVES - Nincada 27, Ninjask 27, Shedinja 27
+		3: NO ITEMS DEFAULT MOVES - Ninjask 34, Beedrill 34, Nincada 34, Pinsir 34
+		4: NO ITEMS DEFAULT MOVES - Surskit 40, Nincada 41, Beedrill 40, Pinsir 39, Ninjask 41
+		5: NO ITEMS DEFAULT MOVES - Surskit 46, Ninjask 47, Dustox 48, Ninjask 48, Pinsir 46, Beedrill 47
+	Youngster Calvin - Different Types
+		1: NO ITEMS DEFAULT MOVES - Poochyena 5
+		2: NO ITEMS DEFAULT MOVES - Taillow 25, Ralts 25, Zigzagoon 25, Poochyena 25
+		3: NO ITEMS DEFAULT MOVES - Snubbull 33, Kirlia 33, Zigzagoon 33, Meowth 33, Swellow 33, Mightyena 33
+		4: NO ITEMS DEFAULT MOVES - Granbull 41, Gardevoir 40, Mightyena 42, Persian 40, Swellow 42, Linoone 42
+		5: NO ITEMS DEFAULT MOVES - Swellow 50, Gardevoir 45, Granbull 46, Linoone 50, Mightyena 50, Persian 47
+	Amy and Liv - Train Together
+		1: NO ITEMS DEFAULT MOVES - Plusle 15, Minun 15
+		2: NO ITEMS DEFAULT MOVES - Plusle 27 Minun 27
+		3: NO ITEMS DEFAULT MOVES - Plusle 9, Minun 9
+		4: NO ITEMS DEFAULT MOVES - Plusle 37, Minun 37, Ampharos 37, Magneton 37
+		5: NO ITEMS CUSTOM MOVES - Ampharos 49, Minun 49, Plusle 49, Magneton 49
+		6: NO ITEMS CUSTOM MOVES - Ampharos 53, Minun 53, Plusle 53, Magneton 53
+	Pokefan Miguel Route 103 - Pokemon raised with Love
+		1: ITEMS DEFAULT MOVES - Skitty 15
+		2: ITEMS DEFAULT MOVES - Skitty 29, Cleffa 29, Magby 29, Igglybuff 29, Elekid 29
+		3: ITEMS DEFAULT MOVES - SKitty 37, Clefairy 37, Jigglypuff 38, Magmar 36, Electabuzz 36, Chansey 37
+		4: ITEMS DEFAULT MOVES - Delcatty 44, Magmar 45, Blissey 43, Electabuzz 45, Clefable 43, Wigglytuff 46
+		5: ITEMS DEFAULT MOVES - Delcatty 52, Magmar 51, Clefable 51, Wigglytuff 51, Electabuzz 50, Blissey 52
+	Lady Cindy Route 104 - Gorgeous Type
+		1: ITEMS CUSTOM MOVES - Zigzagoon 7
+		2: ITEMS CUSTOM MOVES - Zigzagoon 23, Eevee 23, Snubbul 23, Bayleef 23
+		3: ITEMS CUSTOM MOVES - Linoone 32, Bayleef 32, Flareon 31, Milotic 32, Granbull 29, Masquerain 30
+		4: ITEMS CUSTOM MOVES - Linoone 38, Masquerain 35, Flareon 36, Meganium 36, Granbull 34, Milotic 36
+		5: ITEMS CUSTOM MOVES - Linoone 46, Masquerain 45, Flareon 44, Meganium 46, Granbull 44, Milotic 46
+		6: ITEMS CUSTOM MOVES - Linoone 56, Masquerain 54, Flareon 55, Meganium 56, Milotic 55, Granbull 54
+	Lass Haley Route 104 - Cute Pokemon
+		1: ITEMS DEFAULT MOVES - Lotad 6, Shroomish 6
+		2: ITEMS DEFAULT MOVES - Lombre 26, Swinub 26, Shroomish 26, Sandslash 26
+		3: ITEMS DEFAULT MOVES - Swellow 32, Sandslash 32, Breloom 32, Raichu 32, Lombre 32, Piloswine 32
+		4: ITEMS DEFAULT MOVES - Swellow 40, Sandslash 40, Lombre 40, Piloswine 40, Breloom 40, Raichu 40
+		5: ITEMS DEFAULT MOVES - Swellow 48, Piloswine 46 Lombre 48, Sandslash 46 Breloom 48, Raichu 46
+	Rich Boy Winston Route 104 - Expensive Pokemon
+		1: ITEMS DEFAULT MOVES - Zigzagoon 7
+		2: ITEMS DEFAULT MOVES - Linoone 27, Seedot 28, Shuckle 25, Porygon 25
+		3: ITEMS DEFAULT MOVES - Porygon 2 34, Seedot 34, Linoone 34, Blaziken 34, Shuckle 34
+		4: ITEMS DEFAULT MOVES - Linoone 40, Porygon 2 40, Vibrava 40, Seedot 40, Shuckle 40, Blaziken 40
+		5: ITEMS CUSTOM MOVES - Linoone 48, Porygon2 47, Shuckle 47, Flygon 47, Shiftry 48, Blaziken 48
+	Ruin Maniac Andres Route 105 - Ruin Exploration Partners
+		1: NO ITEMS DEFAULT MOVES - Sandshrew 25, Sandshrew 25
+		2: NO ITEMS DEFAULT MOVES - Onix 34, Sandslash 34, Onix 34, Sandslash 34
+		3: NO ITEMS DEFAULT MOVES - Dugtrio 45, Onix 45, Sandslash 45, Nosepass 45, Steelix 46, Sandslash 46
+		4: NO ITEMS DEFAULT MOVES - Sandslash 53, Dugtrio 53, Steelix 53, Sandslash 53, Nosepass 53, Onix 53 
+		5: NO ITEMS DEFAULT MOVES - Onix 61, Nosepass 60, Dugtrio 60, Sandslash 60, Sandslash 62, Steelix 61
+	Fisherman Elliot Route 106 - Water Pokemon Patience
+		1: NO ITEMS DEFAULT MOVES - Magikarp 10, Tentacool 7, Magikarp 10
+		2: NO ITEMS DEFAULT MOVES - Clamperl 25, Magikarp 30, Magikarp 30, Tentacool 28, Carvanha 27
+		3: NO ITEMS DEFAULT MOVES - Magikarp 35, Clamperl 35, Carvanha 35, Tentacool 35, Gyarados 35
+		4: NO ITEMS DEFAULT MOVES - Gyarados 44, Huntail 44, Sharpedo 44, Tentacruel 44, Gyarados 44
+		5: NO ITEMS DEFAULT MOVES - Gyarados 52, Huntail 52, Sharpedo 51, Gyarados 52, Tentacruel 52, Mantine 51
+	Swimmer Tony Route 107 - Funky Water Types
+		1: NO ITEMS DEFAULT MOVES - Carvanha 26
+		2: NO ITEMS DEFAULT MOVES - Sharpedo 33, Qwilfish 33, Starmie 33, Vaporeon 33 
+		3: NO ITEMS DEFAULT MOVES - Qwilfish 43, Starmie 43, Cloyster 43, Vaporeon 42, Sharpedo 45
+		4: NO ITEMS DEFAULT MOVES - Vaporeon 52, Sharpedo 53, Kingler 50, Cloyster 51, Starmie 51, Qwilfish 52
+		5: NO ITEMS DEFAULT MOVES - Starmie 61, Sharpedo 62, Cloyster 59, Qwilfish 62, Vaporeon 62, Kingler 60
+	Sailor Cory Route 108 - Water Pokemon
+		1: NO ITEMS DEFAULT MOVES - Wingull 24, Machop 24, Tentacool 24
+		2: NO ITEMS DEFAULT MOVES - Lapras 32, Pelipper 32, Machoke 34, Tentacool 33
+		3: NO ITEMS DEFAULT MOVES - Cradily 42, Lapras 42, Machoke 42, Pelipper 42, Tentacruel 42
+		4: NO ITEMS DEFAULT MOVES - Mantine 51, Tentacruel 51, Pelipper 52, Cradily 50, Machoke 53, Lapras 51
+		5: NO ITEMS DEFAULT MOVES - Pelipper 59, Machoke 60, Tentacruel 58, Lapras 58, Mantine 60, Cradily 60
+	Tuber Lola Route 109 - Good Swimming Pokemon
+		1: NO ITEMS DEFAULT MOVES - Azurill 12, Azurill 12
+		2: NO ITEMS DEFAULT MOVES - Totodile 25, Azurill 32, Poliwag 25, Marill 25
+		3: NO ITEMS DEFAULT MOVES - Marill 36, Snorlax 33, Golduck 33, Croconaw 33, Azumarill 34, Poliwhirl 33
+		4: NO ITEMS DEFAULT MOVES - Snorlax 41, Azumarill 41, Golduck 41, Feraligatr 42, Poliwrath 40, Azumarill 42
+		5: NO ITEMS DEFAULT MOVES - Poliwrath 50, Golduck 50, Feraligatr 53, Snorlax 53, Azumarill 51, Azumarill 54
+	Tuber Ricky Route 109 - Water Pokemon
+		1: NO ITEMS CUSTOM MOVES - Zigzagoon 13
+		2: NO ITEMS DEFAULT MOVES - Pelipper 27, Linoone 27, Mawile 27, Pikachu 27 
+		3: NO ITEMS DEFAULT MOVES - Mawile 36, Linoone 35, Lairon 35, Pelipper 36, Pikachu 37
+		4: NO ITEMS DEFAULT MOVES - Pelipper 45, Rhydon 45, Mawile 45, Pikachu 45, Aggron 45, Linoone 45
+		5: NO ITEMS DEFAULT MOVES - Pelipper 55, Aggron 56, Mawile 56, Pikachu 55, Rhydon 54, Linoone 55
+	Triathlete Abigail Route 110 - Defensive Pokemons
+		1: NO ITEMS DEFAULT MOVES - Magnemite 16
+		2: NO ITEMS DEFAULT MOVES - Magnemite 28, Onix 28, Umbreon 28
+		3: NO ITEMS DEFAULT MOVES - Forretress 37, Onix 37, Blissey 37, Umbreon 37, Magneton 37, Hariyama 37
+		4: NO ITEMS DEFAULT MOVES - Forretress 46, Blissey 46, Magneton 46, Hariyama 46, Onix 46, Umbreon 46
+		5: NO ITEMS DEFAULT MOVES - Forretress 56, Blissey 56, Magneton 56, Umbreon 56, Onix 56, Hariyama 56
+	Triathlete Benjamin Route 110 - Steel Pokemon
+		1: NO ITEMS DEFAULT MOVES - Magnemite 16
+		2: NO ITEMS DEFAULT MOVES - Magnemite 28, Steelix 28, Mawile 28
+		3: NO ITEMS DEFAULT MOVES - Forretress 37, Mawile 37, Scizor 37, Steelix 37, Magneton 37
+		4: NO ITEMS DEFAULT MOVES - Forretress 46, Aggron 46, Mawile 46, Steelix 46, Magneton 46, Scizor 46
+		5: NO ITEMS DEFAULT MOVES - Forretress 56, Steelix 56, Magneton 56, Scizor 56, Aggron 56, Mawile 56
+	Collector Edwin Route 110 - Rare Pokemon
+		1: NO ITEMS DEFAULT MOVES - Lombre 14, Nuzleaf 14
+		2: NO ITEMS DEFAULT MOVES - Magmar 27, Lombre 27, Onix 27, Nuzleaf 27
+		3: NO ITEMS DEFAULT MOVES - Togetic 35, Onix 35, Lombre 35, Magmar 35, Nuzleaf 35
+		4: NO ITEMS DEFAULT MOVES - Shiftry 44, Magmar 44, Ludicolo 44, Steelix 44, Jolteon 44, Togetic 44
+		5: NO ITEMS DEFAULT MOVES - Shiftry 54, Magmar 54, Ludicolo 54, Steelix 54, Jolteon 54, Togetic 54
+	Pokefan Isabel Route 110 - No likes or Dislikes
+		1: ITEMS DEFAULT MOVES - Plusle 14, Minun 14
+		2: ITEMS DEFAULT MOVES - Plusle 35, Minun 35
+		3: ITEMS DEFAULT MOVES - Plusle 50, Minun 50
+		4: ITEMS DEFAULT MOVES - Plusle 60, Minun 60
+		5: ITEMS DEFAULT MOVES - Plusle 65, Minun 65
+	Cooltrainer Brooke Route 111 - Balanced
+		1: NO ITEMS DEFAULT MOVES - Wingull 17, Numel 17, Roselia 17
+		2: NO ITEMS DEFAULT MOVES - Numel 28, Roselia 28, Pelipper 28, Scizor 28
+		3: NO ITEMS DEFAULT MOVES - Aerodactyl 39, Camerupt 39, Roselia 39, Pelipper 39, Scizor 39
+		4: NO ITEMS DEFAULT MOVES - Hitmontop 49, Aerodactyl 49, Camerupt 49, Roselia 49, Pelipper 49, Scizor 49
+		5: NO ITEMS DEFAULT MOVES - Camerupt 58, Aerodactyl 58, Hitmontop 58, Pelipper 58, Scizor 58, Roselia 58
+	Ruin Maniac Dusty Route 111 - Craggy Rock Pokemon
+		1: NO ITEMS CUSTOM MOVES - Sandslash 23
+		2: NO ITEMS CUSTOM MOVES - Larvitar 33, Sandslash 33, Forretress 33, Ariados 33
+		3: NO ITEMS CUSTOM MOVES - Sandslash 42, Forretress 42, Ariados 42, Pupitar 42, Golem 42
+		4: NO ITEMS CUSTOM MOVES - Sandslash 51, Forretress 51, Golem 51, Pupitar 51, Ariados 51, Armaldo 51
+		5: NO ITEMS CUSTOM MOVES - Tyranitar 62, Ariados 62, Forretress 60, Sandslash 61, Armaldo 60, Golem 61
+	Cooltrainer Wilton Route 111 - Upset opponent
+		1: NO ITEMS DEFAULT MOVES - Electrike 17, Wailmer 17, Makuhita 17
+		2: NO ITEMS DEFAULT MOVES - Jumpluff 29, Manectric 28, Hypno 28, Wailmer 30, Hariyama 29 
+		3: NO ITEMS DEFAULT MOVES - Wailord 40, Hypno 38, Manectric 38, Hariyama 38, Jumpluff 39
+		4: NO ITEMS DEFAULT MOVES - Hariyama 49, Stantler 49, Hypno 50, Manectric 50, Jumpluff 49, Wailord 48
+		5: NO ITEMS DEFAULT MOVES - Stantler 59, Hypno 59, Jumpluff 59, Manectric 59, Wailord 59, Hariyama 59
+	Hiker Trent Route 112 - Hard Bodied Pokemon
+		1: NO ITEMS DEFAULT MOVES - Geodude 16, Geodude 16, Geodude 16
+		2: NO ITEMS DEFAULT MOVES - Graveler 27, Golem 27, Onix 27, Golem 27
+		3: NO ITEMS DEFAULT MOVES - Golem 38, Lileep 38, Golem 38, Onix 38, Golem 38
+		4: NO ITEMS DEFAULT MOVES - Pupitar 48, Golem 48, Onix 48, Golem 48, Golem 48, Cradily 48
+		5: NO ITEMS DEFAULT MOVES - Cradily 58, Golem 58, Tyranitar 58, Golem 58, Onix 58, Golem 58
+	Ninja Boy Lao Route 113 - Poisonous Pokemon
+		1: NO ITEMS CUSTOM MOVES - Koffing 17, Koffing 17, Koffing 17, Gastly 17
+		2: NO ITEMS CUSTOM MOVES - Venonat 27, Koffing 27, Quilava 27, Koffing 27, Gastly 17
+		3: NO ITEMS CUSTOM MOVES - Muk 38, Weezing 38, Typhlosion 38, Venomoth 38, Arbok 38, Weezing 38 
+		4: NO ITEMS CUSTOM MOVES - Muk 48, Weezing 48, Arbok 48, Venomoth 48, Ariados 48, Gastly 48 
+		5: NO ITEMS CUSTOM MOVES - Venomoth 59, Muk 59, Typhlosion 58, Weezing 60, Ariados 58, Arbok 58
+	Parasol Lady Madeline Route 113 - No Preferences
+		1: NO ITEMS CUSTOM MOVES - Numel 19
+		2: NO ITEMS CUSTOM MOVES - Roselia 29, Tropius 29, Numel 29, Snorlax 29 
+		3: NO ITEMS CUSTOM MOVES - Ludicolo 40, Roselia 41, Quagsire 42, Snorlax 40
+		4: NO ITEMS CUSTOM MOVES - Quagsire 50, Snorlax 50, Ludicolo 50, Roselia 50, Camerupt 50, Tropius 50
+		5: NO ITEMS CUSTOM MOVES - Camerupt 60, Tropius 60, Ludicolo 60, Quagsire 60, Snorlax 60, Roselia 60
+	Kindler Bernie Route 114 - Burn Inducing Pokemon
+		1: NO ITEMS DEFAULT MOVES - Slugma 18, Wingull 18 
+		2: NO ITEMS DEFAULT MOVES - Ninetales 28, Magcargo 29, Flareon 28, Magmar 29
+		3: NO ITEMS DEFAULT MOVES - Ninetales 39, Magcargo 39, Flareon 39, Magmar 39, Pelipper 39, Blastoise 39
+		4: NO ITEMS DEFAULT MOVES - Pelipper 49, Blastoise 49, Ninetales 49, Magcargo 49, Flareon 49, Magmar 49
+		5: NO ITEMS DEFAULT MOVES - Ninetales 59, Magmar 59, Magcargo 59, Flareon 59, Pelipper 59, Blastoise 59
+	Pokemaniac Steve Route 114 - Powerful, Rare Pokemon
+		1: NO ITEMS DEFAULT MOVES - Aron 19
+		2: NO ITEMS DEFAULT MOVES - Lairon 30, Kangaskhan 30, Kadabra 30
+		3: NO ITEMS DEFAULT MOVES - Lairon 40, Armaldo 42, Kangaskhan 41, Rhydon 42, Alakazam 40
+		4: NO ITEMS DEFAULT MOVES - Cradily 50, Aggron 52, Alakazam 50, Rhydon 52, Armaldo 50, Kangaskhan 51
+		5: NO ITEMS DEFAULT MOVES - Aggron 61, Cradily 60, Alakazam 60, Rhydon 62, Kangaskhan 60, Armaldo 60
+	Battle Girl Cyndy Route 115 - Speedy Fighting Types
+		1: NO ITEMS DEFAULT MOVES - Meditite 18, Mankey 18, Makuhita 18
+		2: NO ITEMS DEFAULT MOVES - Breloom 29, Meditite 29, Hariyama 29, Hitmonchan 29, Mankey 29
+		3: NO ITEMS DEFAULT MOVES - Hariyama 39, Hitmonchan 39, Medicham 39, Breloom 39, Primeape 39
+		4: NO ITEMS DEFAULT MOVES - Hitmonchan 49, Breloom 49, Primeape, Medicham 49, Blaziken, Hariyama 49
+		5: NO ITEMS DEFAULT MOVES - Medicham 58, Primeape 58, Blaziken 58, Breloom 58, Hariyama 58, Hitmonchan 58
+	Black Belt Nob Route 115 - Fighting Type Pummelings
+		1: NO ITEMS DEFAULT MOVES - Machop 19
+		2: NO ITEMS DEFAULT MOVES - Tyrogue 30, Machoke 30, Machamp 30
+		3: NO ITEMS DEFAULT MOVES - Primeape 40, Machoke 40, Machamp 40
+		4: NO ITEMS DEFAULT MOVES - Primeape 49, Machoke 49, Hitmontop 49, Hitmonlee 49, Hitmonchan 49, Machamp 49
+		5: ITEMS DEFAULT MOVES - Machoke 58, Hitmonchan 58, Hitmonlee 58, Hitmontop 58, Primeape 58, Machamp 58
+	Expert Timothy Route 115 - Essence of FIghting
+		1: NO ITEMS DEFAULT MOVES - Hariyama 27
+		2: NO ITEMS CUSTOM MOVES - Medicham 38, Wobbuffet 38, Hariyama 38, Heracross 38
+		3: NO ITEMS CUSTOM MOVES - Wobbuffet 46, Hariyama 46, Breloom 46, Medicham 46, heracross 46
+		4: NO ITEMS CUSTOM MOVES - Blaziken 54, Breloom 54, Wobbuffet 54, Hariyama 54, Medicham 54, Heracross 54
+		5: NO ITEMS CUSTOM MOVES - Hariyama 62, Blaziken 62, Wobbuffet 62, Breloom 62, Heracross 62, Medicham 62
+	School Kid Jerry Route 116 - Any Smart Pokemon
+		1: NO ITEMS DEFAULT MOVES - Ralts 9
+		2: NO ITEMS DEFAULT MOVES - Ralts 26, Nincada 26, Furret 26
+		3: NO ITEMS DEFAULT MOVES - Kirlia 34, Furret 34
+		4: NO ITEMS DEFAULT MOVES - Kirlia 42, Nincada 42, Banette 42, Furret 42, Medicham 42
+		5: NO ITEMS DEFAULT MOVES - Kirlia 49, Banette 50, Medicham 49, Shedinja 50, Furret 49, Bellossom 49
+	School Kid Karen Route 116 - No Preferences
+		1: NO ITEMS DEFAULT MOVES - Shroomish 9
+		2: NO ITEMS DEFAULT MOVES - Shroomish 26, Dunsparce 26
+		3: NO ITEMS DEFAULT MOVES - Breloom 34, Nincada 34, Dunsparce 34
+		4: NO ITEMS DEFAULT MOVES - Dunsparce 42, Alakazam 42, Breloom 42, Exploud 42
+		5: NO ITEMS DEFAULT MOVES - Breloom 49, Exploud 49, Ninjask 50, Alakazam 49, Dunsparce 48, Crobat 49
+	Sr. and Jr. Anna and Meg Route 117 - Agreed between both
+		1: NO ITEMS CUSTOM MOVES - Zigzagoon 15, Makuhita 17 
+		2: NO ITEMS CUSTOM MOVES - Linoone 28, Hariyama 30, Pineco 28, Pidgeotto 30
+		3: NO ITEMS CUSTOM MOVES - Forretress 37, Pidgeot 39, Linoone 37, Hariyama 39
+		4: NO ITEMS CUSTOM MOVES - Espeon 47, Umbreon 49, Forretress 47, Pidgeot 49, Linoone 47, Hariyama 49
+		5: NO ITEMS CUSTOM MOVES - Linoone 56, Espeon 56, Forretress 56, Umbreon 57, Pidgeot 57, Hariyama 57
+	Triathlete Dylan Route 117 - Fast Running Pokemon
+		1: NO ITEMS DEFAULT MOVES - Doduo 17
+		2: NO ITEMS DEFAULT MOVES - Raticate 28, Doduo 28, Jolteon 28
+		3: NO ITEMS DEFAULT MOVES - Ninjask 37, Jolteon 37, Dodrio 37, Raticate 37
+		4: NO ITEMS DEFAULT MOVES - Sneasel 47, Raticate 47, Ninjask 47, Dodrio 47, Jolteon 47
+		5: NO ITEMS DEFAULT MOVES - Dodrio 57, Ninjask 57, Sneasel 57, Rapidash 57, Raticate 57, Jolteon 57
+	PKMN Breeder Isaac Route 117 - Full-on Attack with fun to raise pokes
+		1: NO ITEMS DEFAULT MOVES - Whismur 11, Zigzagoon 11, Aron 11, Poochyena 11, Taillow 11, Makuhita 11
+		2: NO ITEMS DEFAULT MOVES - Whismur 22, Zigzagoon 22, Aron 22, Poochyena 22, Taillow 22, Makuhita 22
+		3: NO ITEMS DEFAULT MOVES - Loudred 33, Linoone 33, Aron 33, Mightyena 33, Swellow 33, Hariyama 33
+		4: NO ITEMS DEFAULT MOVES - Loudred 44, Linoone 44, Lairon 44, Mightyena 44, Swellow 44, Hariyama 44
+		5: NO ITEMS DEFAULT MOVES - Exploud 55, Linoone 55, Aggron 55, Mightyena 55, Swellow 55, Hariyama 55
+	PKMN Breeder Lydia Route 117 - Fuller-onner Attack with fun to raise pokes
+		1: NO ITEMS DEFAULT MOVES - Wingull 11, Shroomish 11, Marill 11, Roselia 11, Skitty 11, Goldeen 11
+		2: NO ITEMS DEFAULT MOVES - Wingull 22, Shroomish 22, Marill 22, Roselia 22, Skitty 22, Goldeen 22
+		3: NO ITEMS DEFAULT MOVES - Pelipper 33, Breloom 33, Azumarill 33, Roselia 33, Delcatty 33, Seaking 33
+		4: NO ITEMS DEFAULT MOVES - Pelipper 44, Breloom 44, Azumarill 44, Roselia 44, Delcatty 44, Seaking 44
+		5: NO ITEMS DEFAULT MOVES - Pelipper 55, Breloom 55, Azumarill 55, Roselia 55, Delcatty 55, Seaking 55
+	Triathlete Maria Route 117 - Speedy Pokemon
+		1: NO ITEMS DEFAULT MOVES - Doduo 17
+		2: NO ITEMS DEFAULT MOVES - Linoone 28, Doduo 28, Raichu 28
+		3: NO ITEMS DEFAULT MOVES - Scizor 37, Raichu 37, Dodrio 37, Linoone 37
+		4: NO ITEMS DEFAULT MOVES - Exeggutor 47, Linoone 47, Scizor 47, Dodrio 47, Raichu 47
+		5: NO ITEMS DEFAULT MOVES - Dodrio 57, Scizor 57, Raichu 57, Linoone 57, Blaziken 57, Exeggutor 57
+	Guitarist Dalton Route 118 - Shocking Electric Pokes
+		1: NO ITEMS DEFAULT MOVES - Magnemite 15, Whismur 15
+		2: NO ITEMS DEFAULT MOVES - Mareep 24, Loudred 26, Electabuzz 25, Magnemite 26
+		3: NO ITEMS DEFAULT MOVES - Jolteon 35, Electabuzz 35, Loudred 35, Flaaffy 35, Magneton 35
+		4: NO ITEMS DEFAULT MOVES - Exploud 45, Magneton 56, Jolteon 45, Ampharos 45, Electabuzz 45, Manectric 45
+		5: NO ITEMS DEFAULT MOVES - Magneton 56, Exploud 56, Jolteon 56, Manectric 56, Ampharos 56, Electabuzz 56
+	Aroma Lady Rose Route 118 - Fragrant Grass Pokemon
+		1: NO ITEMS DEFAULT MOVES - Roselia 14, Shroomish 14, Roselia 14, Paras 15
+		2: NO ITEMS DEFAULT MOVES - Roselia 25, Oddish 26, Roselia 25, Breloom 26
+		3: NO ITEMS DEFAULT MOVES - Bayleef 35, Roselia 35, Gloom 35, Breloom 35, Roselia 35
+		4: NO ITEMS DEFAULT MOVES - Parasect 46, Roselia 46, Meganium 46, Vileplume 46, Roselia 46, Tropius 46
+		5: NO ITEMS DEFAULT MOVES - Breloom 56, Vileplume 56, Roselia 56, Parasect 56, Meganium 56, Tropius 56
+	PKMN Ranger Catherine Route 119 - Powerful, Rare Pokemon
+		1: NO ITEMS DEFAULT MOVES - Gloom 26, Roselia 26
+		2: NO ITEMS DEFAULT MOVES - Gloom 36, Roselia 36, Wartortle 36, Combusken 36
+		3: NO ITEMS DEFAULT MOVES - Togetic 43, Roselia 43, Blastoise 43, Blaziken 43, Bellossom 43
+		4: NO ITEMS DEFAULT MOVES - Arcanine 52, Blastoise 52, Bellossom 52, Togetic 52, Roselia 52, Blaziken 52
+		5: NO ITEMS DEFAULT MOVES - Bellossom 61, Roselia 61, Blastoise 61, Blaziken 61 Togetic 61, Arcanine 61
+	PKMN Ranger Jackson Route 119 - Powerful,  Rare Pokemon
+		1: NO ITEMS DEFAULT MOVES - Breloom 27
+		2: NO ITEMS DEFAULT MOVES - Ivysaur 36, Breloom 36, Marshtomp 36, Quilava 36 
+		3: NO ITEMS DEFAULT MOVES - Kacleon 44, Breloom 44, Swampert 44, Typhlosion 44, Venusaur 44
+		4: NO ITEMS DEFAULT MOVES - Breloom 55, Swampert 52, Venusaur 52, Typhlosion 52, Heracross 52, Kecleon 52
+		5: NO ITEMS DEFAULT MOVES - Kecleon 62, Breloom 62, Swampert 62, Venusaur 62, Typhlosion 62, Heracross 62
+	Bug Maniac Jeffrey Route 120 - Bug Pokemon Waves
+		1: NO ITEMS DEFAULT MOVES - Surskit 27, Surskit 27, Surskit 27
+		2: NO ITEMS DEFAULT MOVES - Surskit 36, Masquerain 36, Surskit 36, Beedrill 36
+		3: NO ITEMS DEFAULT MOVES - Beautifly 44, Masquerain 44, Beedrill 44, Surskit 44
+		4: NO ITEMS DEFAULT MOVES - Dustox 52, Beautifly 52 Surskit 52, Beedrill 52, Masquerain 52, Butterfree 52,
+		5: ITEMS DEFAULT MOVES - Beautifly 62, Butterfree 62, Surskit 62, Dustox 62, Masquerain 62, Beedrill 62
+	Bird Keeper Robert Route 120 - Elegant Birds
+		1: NO ITEMS DEFAULT MOVES - Swablu 29
+		2: NO ITEMS DEFAULT MOVES - Noctowl 37, Skarmory 37, Altaria 37
+		3: NO ITEMS DEFAULT MOVES - Xatu 45, Swellow 45, Altaria 45, Skarmory 45, Noctowl 45
+		4: NO ITEMS DEFAULT MOVES - Swellow 53, Noctowl 53, Fearow 53, Skarmory 53, Altaria 53, Xatu 53
+		5: NO ITEMS DEFAULT MOVES - Fearow 63, Skarmory 63, Altaria 63, Noctowl 63, Xatu 63, Swellow 63
+	Cooltrainer Cristin Route 121 - Mixed
+		1: NO ITEMS DEFAULT MOVES - Loudred 29, Vigoroth 29
+		2: NO ITEMS DEFAULT MOVES - Spinda 37, Exploud 37, Slaking 37
+		3: NO ITEMS DEFAULT MOVES - Slaking 45, Spinda 45, Ditto 45, Exploud 45
+		4: NO ITEMS DEFAULT MOVES - Porygon 2 53, Slaking 53, Ditto 53, Spinda 53, Exploud 53
+		5: NO ITEMS DEFAULT MOVES - Ditto 63, Spinda 63, Exploud 63, Porygon 2 63, Kangaskhan 63, Slaking 63,
+	Beauty Jessica Route 121 - Attractive Pokemon
+		1: NO ITEMS CUSTOM MOVES - Kecleon 29, Seviper 29
+		2: NO ITEMS DEFAULT MOVES - Bellossom 37, Kecleon 37, Seviper 37, Milotic 37
+		3: NO ITEMS DEFAULT MOVES - Milotic 45, Bellossom 45, Seviper 45, Kecleon 45
+		4: NO ITEMS DEFAULT MOVES - Kecleon 53, Skarmory 53, Milotic 53, Bellossom 53, Seviper 53
+		5: NO ITEMS DEFAULT MOVES - Skarmory 63, Kecleon 63, Masquerain 63, Milotic 63, Bellossom 63, Seviper 63
+	Gentleman Walter Route 121 - Distinct Pokemon
+		1: NO ITEMS DEFAULT MOVES - Manectric 29
+		2: NO ITEMS DEFAULT MOVES - Linoone 37, Donphan 37, Cacturne 37, Manectric 37
+		3: NO ITEMS CUSTOM MOVES - Arcanine 45, Golduck 45, Donphan 45, Cacturne 45, Manectric 45
+		4: NO ITEMS CUSTOM MOVES - Manectric 53, Donphan 53, Linoone 53, Golduck 53, Cacturne 53, Arcanine 53
+		5: NO ITEMS CUSTOM MOVES - Linoone 63, Golduck 63, Arcanine 63, Manectric 63, Cacturne 63, Donphan 63
+	Psychic Cameron Route 123 - Daze and Confuse
+		1: NO ITEMS DEFAULT MOVES - Solrock 31
+		2: NO ITEMS DEFAULT MOVES - Kadabra 39, Hypno 39, Solrock 39
+		3: NO ITEMS DEFAULT MOVES - Butterfree 48, Hypno 48, Solrock 48, Mr. Mime 48, Alakazam 48
+		4: NO ITEMS DEFAULT MOVES - Mr Mime 56, Alakazam 56, Clefable 56, Butterfree 56, Solrock 56, Hypno 56
+		5: NO ITEMS DEFAULT MOVES - Clefable 64, Mr Mime 64, Solrock 64, Butterfree 64, Alakazam 64, Hypno 64
+	Guitarist Fernando Route 123 - Electric and Sound Combos
+		1: NO ITEMS DEFAULT MOVES - Electrike 30, Loudred 30
+		2: NO ITEMS DEFAULT MOVES - Manectric 38, Exploud 38, Lanturn 38, Ursaring 38, Ampharos 38
+		3: NO ITEMS DEFAULT MOVES - Ursaring 47, Manectric 47, Lanturn 47, Exploud 47, Manectric 47, Ampharos 47
+		4: NO ITEMS DEFAULT MOVES - Exploud 55, Lanturn 55, Manectric 55, Manectric 55, Ampharos 55, Ursaring 55
+		5: NO ITEMS DEFAULT MOVES - Manectric 64, Exploud 64, Ampharos 64, Ursaring 64, Manectric 64, Lanturn 64
+	Psychic Jacki Route 123 - Full Power Mystery
+		1: NO ITEMS DEFAULT MOVES - Kadabra 30, Lunatone 30
+		2: NO ITEMS DEFAULT MOVES - Kadabra 39, Jynx 39, Lunatone 39
+		3: NO ITEMS DEFAULT MOVES - Golduck 47, Jynx 48, Alakazam 48, Espeon 47, Lunatone 48
+		4: NO ITEMS DEFAULT MOVES - Espeon 55, Wigglytuff 55, Golduck 55, Jynx 55, Alakazam 55, Lunatone 55
+		5: NO ITEMS DEFAULT MOVES - Golduck 63, Lunatone 64, Wigglytuff 63 Alakazam 64, Espeon 63, Jynx 64
+	Swimmer Jenny Route 124 - Cute water Pokemon
+		1: NO ITEMS DEFAULT MOVES - Wailmer 34
+		2: NO ITEMS DEFAULT MOVES - Wailord 50
+		3: NO ITEMS DEFAULT MOVES - Wailord 50, Luvdisc 50, Slowbro 50, Lapras 50, Starmie 50, Vaporeon 50
+		4: NO ITEMS DEFAULT MOVES - Lapras 58, Vaporeon 58, Wailord 58, Slowbro 58, Luvdisc 58, Starmie 58
+		5: NO ITEMS DEFAULT MOVES - Luvdisc 65, Vaporeon 65, Slowbro 65, Wailord 65, Starmie 65, Lapras 65
+	Sis and Bro Lila And Roy Route 124 - Friendly Pokemon
+		1: NO ITEMS DEFAULT MOVES - Chinchou 34, Carvanha 33
+		2: NO ITEMS DEFAULT MOVES - Huntail 42, Gorebyss 42, Lanturn 42, Sharpedo 42
+		3: NO ITEMS DEFAULT MOVES - Qwilfish 50, Gorebyss 50, Sharpedo 50, Huntail 50, Gyarados 50, Lanturn 50
+		4: NO ITEMS DEFAULT MOVES - Gyarados 58, Lanturn 58, Qwilfish 58, Huntail 58, Gorebyss 58, Sharpedo 58
+		5: NO ITEMS DEFAULT MOVES - Lanturn 65, Sharpedo 65, Gorebyss 65, Huntail 65, Qwilfish 65, Gyarados 65
+	Sailor Ernest Route 125 - Water and Fighting Types
+		1: NO ITEMS DEFAULT MOVES - Wingull 33, Machoke 33
+		2: NO ITEMS DEFAULT MOVES - Pelipper 41, Machoke 41, Poliwrath 41
+		3: NO ITEMS DEFAULT MOVES - Pelipper 49, Poliwrath 49, Primeape 49, Machoke 49, Tentacruel 49, Hitmontop 49
+		4: NO ITEMS DEFAULT MOVES - Pelipper 57, Tentacruel 57, Hitmontop 57, Primeape 57, Poliwrath 57, Machoke 57
+		5: NO ITEMS DEFAULT MOVES - Pelipper 65, Poliwrath 65, Hitmontop 65, Machoke 65, Tentacruel 65, Primeape 65
+	Triathlete Pablo Route 126 - Toughened Water Pokemon
+		1: NO ITEMS DEFAULT MOVES - Staryu 33, Staryu 33
+		2: NO ITEMS DEFAULT MOVES - Pelipper 41, Staryu 41, Quagsire 41, Starmie 41
+		3: NO ITEMS DEFAULT MOVES - Pelipper 49, Lanturn 49, Swampert 49, Starmie 49, Quagsire 49, Starmie 49
+		4: NO ITEMS DEFAULT MOVES - Pelipper 57, Starmie 57, Quagsire 57, Lanturn 57, Swampert 57, Starmie 57
+		5: NO ITEMS DEFAULT MOVES - Pelipper 65, Starmie 65, Lanturn 65, Starmie 65, Swampert 65, Quagsire 65
+	Black Belt Koji Route 127 - Training Partners
+		1: NO ITEMS DEFAULT MOVES - Machoke 34, Tauros 34
+		2: NO ITEMS DEFAULT MOVES - Blissey 52, Hitmonchan 52
+		3: NO ITEMS DEFAULT MOVES - Hariyama 58, Machamp 58
+		4: NO ITEMS DEFAULT MOVES - Machamp 58, Tauros 58, Blissey 58, Hariyama 58, Hitmonchan 58, Machamp 58
+		5: NO ITEMS DEFAULT MOVES - Tauros 65, Hariyama 65, Machamp 65, Blissey 65, Hitmonchan 65, Machamp 65
+	Triathlete Isaiah Route 128 - Fast Water Types
+		1: NO ITEMS DEFAULT MOVES - Staryu 35
+		2: NO ITEMS DEFAULT MOVES - Dewgong 43, Starmie 43, Politoed 43, Sharpedo 43
+		3: NO ITEMS DEFAULT MOVES - Politoed 52, Kabutops 51, Starmie 51, Sharpedo 51, Dewgong 52
+		4: NO ITEMS DEFAULT MOVES - Sharpedo 58, Politoed 58, Dewgong 58, Starmie 59, Kabutops 59, Tentacruel 59 
+		5: NO ITEMS DEFAULT MOVES - Starmie 65, Dewgong 65, Politoed 65, Kabutops 65, Tentacruel 65, Sharpedo 65
+	Triathlete Katelyn Route 128 - Water Pokemon Strong
+		1: NO ITEMS DEFAULT MOVES - Staryu 35
+		2: NO ITEMS DEFAULT MOVES - Sealeo 43, Starmie 43, Slowking 43, Octillery 43
+		3: NO ITEMS DEFAULT MOVES - Slowking 52, Omastar 51, Starmie 51, Octillery 51, Walrein 52
+		4: NO ITEMS DEFAULT MOVES - Octillery 58, Poliwrath 58, Walrein 58, Starmie 59, Omastar 59, Slowking 59 
+		5: NO ITEMS DEFAULT MOVES - Starmie 65, Walrein 65, Poliswrath 65, Omastar 65, Slowbro 65, Octillery 65
+	Reporters GabbyandTy
+		1: NO ITEMS DEFAULT MOVES - Magnemite 17, Whismur 17
+		2: NO ITEMS DEFAULT MOVES - Plusle 30, Minun 30, Loudred 30, Magneton 30
+		3: NO ITEMS DEFAULT MOVES - Manectric 35, Ampharos 35, Exploud 35, Magneton 35
+		4: NO ITEMS DEFAULT MOVES - Magneton 44, Ampharos 44, Exploud 44, Manectric 44, Plusle 44, Minun 44
+		5: NO ITEMS DEFAULT MOVES - Plusle 54, Magneton 54, Ampharos 54, Minun 54, Manectric 54, Exploud 54
+		6: NO ITEMS CUSTOM MOVES - Plusle 65, Magneton 65, Ampharos 65, Minun 65, Manectric 65, Exploud 65
+
+
+Cameo 
+Psychic Joshua
+	Fearow 41, Shuckle 41, Cacturne 41, Onix 41, Houndoom 41, Dunsparce 41
