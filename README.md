@@ -30,7 +30,7 @@ Other disassembly and/or decompilation projects:
 
 You can find those people on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://web.libera.chat/?#pret).
 
-This repository includes all of my changes to original code, some code by other developers, and that's it. The goal with this project is to overhaul the playstyle of the pokemon player through unconventional methods without compromising the pokemon spirit within them. My personal goal with this project is to develop a better understanding of decompilation in games. Changes below.
+This repository includes all of my changes to original code, some code by other developers, and that's it. The goal with this project is to overhaul the playstyle of the pokemon player through unconventional methods without compromising the pokemon spirit within them. My personal goal with this project is to develop a better understanding of decompilation in games. Changes below. Notes folder contains more specific information.
 
 # CHANGES BY ME (SQUASHUA GONZALEZ)
 
