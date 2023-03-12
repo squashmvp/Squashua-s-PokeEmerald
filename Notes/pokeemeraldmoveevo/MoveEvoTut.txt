@@ -85,5 +85,9 @@ That's it.
 We implemented the evo method, we made sure the game knew what
 we were talking about, then we used method in game.
 Hopefully this helps with gaining a better grasp on evos 
-and such. Enjoy. Thanks for reading!
+and such. Feel free to email me if you run into any issues.
+
+Thanks for reading!
+
+Have a nice day.
 	
