@@ -1,0 +1,209 @@
+The Devo Stone is an item that evolves pokemon
+into their previous evolution. In essence, this
+can be considered de-evolution. There are many 
+reasons as to why you would want to de-evolve
+your pokemon. Reasons include: making pkmn easier
+to raise, being able to teach different moves, or
+using certain abilities or type combinations to
+full effectiveness. Adding this mechanic to the
+game by itself is simple. 
+
+In src/data/pokemon/evolution.h
+
+Choose a pokemon. Here's Clerfairy.
+
+[SPECIES_CLEFAIRY]   = {{EVO_ITEM, ITEM_MOON_STONE, SPECIES_CLEFABLE}),
+
+Clefairy evolves from Cleffa. Lets make it so we can devolve it.
+
+[SPECIES_CLEFAIRY]   = {{EVO_ITEM, ITEM_MOON_STONE, SPECIES_CLEFABLE},
+                        {EVO_ITEM, ITEM_DEVO_STONE, SPECIES_CLEFFA}},
+
+Now if we use an item called Devo Stone on Clefairy,
+it will evolve into Cleffa. You can replace Devo Stone 
+with any of the evolution stones. In fact, you can replace
+the Moon Stone with a different stone. It should work, 
+no problem; use a Fire Stone to evolve Clefairy into 
+Clefable or something. Let's not for now. I will note
+that this is where I started when I first wanted
+to implement the idea.
+
+Let's talk about that Devo Stone.
+
+It's an item exactly like the other evolution stones. 
+The process for creating this is the same as creating 
+any other evolution item. This means we may use this 
+as a basis on how to add other items.
+
+First we must define the item. 
+
+In include/constants/items.h
+
+Place ITEM_DEVO_STONE in any of the
+unused Item slots. I added it right 
+after the Leaf Stone for convenience.
+
+Here is what that section looks like for me after
+adding it.
+
+#define ITEM_WATER_STONE 97
+#define ITEM_LEAF_STONE 98
+#define ITEM_DEVO_STONE 99
+#define ITEM_064 100
+#define ITEM_065 101
+#define ITEM_066 102
+
+// Unusable
+#define ITEM_TINY_MUSHROOM 103
+
+Take note of that name you replaced. I replaced 
+ITEM_063, so I have to remember that for the next
+step.
+
+In src/data/item_icon_table.h
+
+Find ITEM_LEAF_STONE. Copy paste below code, replacing
+the line for ITEM_063. Do this ONLY if you used the 
+same item slot as I did. If you used a different slot, 
+find the respective item slot and place the below code there.
+
+[ITEM_DEVO_STONE] = {gItemIcon_DevoStone, gItemIconPalette_DevoStone},
+
+This code gives the Item its icon and a palette. The game doesn't know
+what exactly that icon and palette is yet. Let's tell it.
+
+in src/data/graphics/items.h
+
+Find gItemIconPalette_LeafStone and copy this below it.
+Location doesn't matter, let's continue being consistent 
+though.
+
+const u32 gItemIcon_DevoStone[] = INCBIN_U32("graphics/items/icons/everstone.4bpp.lz");
+const u32 gItemIconPalette_DevoStone[] = INCBIN_U32("graphics/items/icon_palettes/everstone.gbapal.lz");
+
+This gives the Devo Stone the Everstone icon and palette. Feel 
+free to change it to a different image if you wish. Now that 
+those new variables for graphics were added to the game, lets 
+assure the game includes them. 
+
+In include/graphics.h
+
+Find gItemIconPalette_LeafStone. Copy this just below
+it for the consistency.
+
+extern const u32 gItemIcon_DevoStone[];
+extern const u32 gItemIconPalette_DevoStone[];
+
+Graphics defined. Now the actual physical item.. cause
+the item still isn't an item yet.
+
+In src/data/items.h
+
+Find ITEM_063. Or your respective Item slot.
+
+We want to replace the info there with the below code.
+    [ITEM_DEVO_STONE] =
+    {
+        .name = _("Devo Stone"),
+        .itemId = ITEM_DEVO_STONE,
+        .price = 3000,
+        .description = sDevoStoneDesc,
+        .pocket = POCKET_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_EvolutionStone,
+    },
+
+The price can be whatever, that's just what I use. The field
+Use Func is what lets the Devo Stone be used from bag but
+only when you're not in battle. The type, ITEM_USE_PARTY_MENU, 
+lets it have the same usage behavior as other stones. Pocket 
+is location it is stored in bag. Notice that description 
+parameter. We'll need to create that. BUT FIRST! The effect.
+Feel free to scroll through the list and observe how other
+items are implemented while you're there. It's enlightening stuff.
+
+In src/data/pokemon/item_effects.h 
+
+You have to tie the Devo Stone to the Evo Stone effect.
+You do this by giving the Devo Stone effect the Evo Stone
+effect. Then you must tell the game that the Devo Stone item
+should use the Devo Stone effect as its effect. It's silly.
+
+Find gItemEffect_LeafStone and copy this below it.
+
+const u8 gItemEffect_DevoStone[6] = {
+    [4] = ITEM4_EVO_STONE,
+};
+
+So that it looks like this
+
+const u8 gItemEffect_LeafStone[6] = {
+    [4] = ITEM4_EVO_STONE,
+};
+
+const u8 gItemEffect_DevoStone[6] = {
+    [4] = ITEM4_EVO_STONE,
+};
+
+const u8 gItemEffect_CheriBerry[6] = {
+    [3] = ITEM3_PARALYSIS,
+};
+
+Find ITEM_LEAF_STONE and copy this below it
+
+    [ITEM_DEVO_STONE - ITEM_POTION]    = gItemEffect_DevoStone,
+
+So it looks like this
+
+    [ITEM_WATER_STONE - ITEM_POTION]   = gItemEffect_WaterStone,
+    [ITEM_LEAF_STONE - ITEM_POTION]    = gItemEffect_LeafStone,
+    [ITEM_DEVO_STONE - ITEM_POTION]    = gItemEffect_DevoStone,
+    [ITEM_CHERI_BERRY - ITEM_POTION]   = gItemEffect_CheriBerry,
+
+Consistency. And now the Devo Stone is an Evo Stone. Lastly we have to give it
+that description we mentioned before.
+
+In src/data/text/item_descriptions.h
+
+Find sLeafStoneDesc[] and consistently
+insert below code underneath.
+
+static const u8 sDevoStoneDesc[] = _(
+    "Makes certain\n"
+    "species of POKéMON\n"
+    "de-evolve.");
+
+This is the Devo Stone Description. Order
+on this page doesn't matter. Best practice
+is to make sure your code is easy to find for
+both you and your enemies. Consistency in the
+code allows this happen naturally. 
+
+Everything in our code has been defined. Let's
+assure we have an example. If you don't have 
+easy access to Clefairy, you can change your 
+starter.
+
+In src/starter_choose.c
+
+Find sStarterMon and change the species name
+to a different starter. Like Clefairy! Or the
+one you decided to use at the beginning of this
+tutorial. Otherwise your earliest choice in the 
+wild is Silcoon/Cascoon in Petalburg Woods.
+
+Give someone the Devo Stone. The
+Oldale Mart is a good spot. Check data/maps
+for more options. Insert ITEM_DEVO_STONE in
+a similar fashion to the other items
+in scripts.inc files. Make and Test.
+
+The edited files are appropriately organized
+in the folders in this folder just in case.
+ 
+Feel free to email me if you run into any 
+issues.
+ 
+Thanks for reading!
+
+Have a nice day.
