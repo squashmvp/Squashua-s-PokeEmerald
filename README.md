@@ -158,4 +158,6 @@ Trainer AI's
 
 Check Pulled/Added Features
 
+Title Screen Title Faded a Bit
+
 ## CURRENTLY THIS PROJECT IS INCOMPLETE
