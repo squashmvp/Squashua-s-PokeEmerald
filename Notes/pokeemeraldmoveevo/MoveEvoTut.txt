@@ -1,0 +1,89 @@
+This is a tutorial for adding any code
+necessary to allow your pokemons to evolve
+when they have a specific move in the first
+slot. You only need to edit 3 files, at most. 
+
+In src/pokemon.c
+
+In GetEvolutionTargetSpecies
+
+At the top of this function, add
+
+    u16 evoMove;
+
+In a new line after "u8 level" and before 
+"u16 friendship;". Like so
+
+    u32 personality = GetMonData(mon, MON_DATA_PERSONALITY, 0);
+    u8 level;
+    u16 evoMove;
+    u16 friendship;
+    u8 beauty = GetMonData(mon, MON_DATA_BEAUTY, 0);
+
+in case EVO_MODE_NORMAL
+
+Add 
+    evoMove = GetMonData(mon, MON_DATA_MOVE1, 0);
+
+on new line after "level = GetMonData(...);"
+and "before friendship = GetMonData(...);" Like so
+
+        level = GetMonData(mon, MON_DATA_LEVEL, 0);
+        evoMove = GetMonData(mon, MON_DATA_MOVE1, 0);
+        friendship = GetMonData(mon, MON_DATA_FRIENDSHIP, 0);
+
+Add this line of code at bottom of EVO_MODE_NORMAL Switch Statement
+
+case EVO_MOVE_KNOWN:
+    if (gEvolutionTable[species][i].method == EVO_MOVE_KNOWN
+        && gEvolutionTable[species][i].param == evoMove)
+            targetSpecies = gEvolutionTable[species][i].targetSpecies;
+        break;
+
+At Level up: The game will check to see if your pokemang
+has met the condition to evolve. In this case, if you have
+a specified move in the first slot in your pokemons move
+set, they will evolve into the specified pokemon. How is this
+specified?
+
+In the case for the line at the top of EVO_MODE_NORMAL,
+we are telling the game that the first move in the pokemons
+move slot is the move we use for the evoMove value. If
+the move that would evolve a pokemon is in a different 
+slot, its not in the right slot, so it doesn't evolve being 
+the current value of evoMove is not equal to the specified 
+move for evolving that pokemon. Which pokemon a pokemon is
+determined to evolve into is decided by the game through
+normal means so we don't really need to think about it. 
+It may be unnecessary but there is a check to assure 
+that the pokemon can in fact evolve using the Evo_Move 
+process, similar to how EVO_MODE_ITEM_CHECK checks to 
+see if pokemon has EVO_ITEM as evo method. 
+
+In include/constants/pokemon.h
+
+Find EVO_BEAUTY. Add this line after that one 
+to define the evo method.
+
+	#define EVO_MOVE_KNOWN      16
+
+If you have other evo methods there, adjust the number
+at the end of the line accordingly. On a vanilla decomp, 
+with no additional evo methods, this is 16.
+
+Finally tell the game which pokemon use that evo method.
+Here's an example of its use:
+
+[SPECIES_ZIGZAGOON]  = {{EVO_LEVEL, 20, SPECIES_LINOONE}
+                        (EVO_MOVE_KNOWN, MOVE_TACKLE, SPECIES_LANTURN)},
+
+Zigzagoon will now evolve into Lanturn when it levels up while they have
+Tackle in its first Move slot if you build the game with these params.
+
+That's it.
+
+We implemented the evo method, we made sure the game knew what
+we were talking about, then we used method in game.
+Hopefully this helps with gaining a better grasp on evos 
+and such. Enjoy. Thanks for reading!
+	
