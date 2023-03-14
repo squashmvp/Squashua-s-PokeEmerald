@@ -74,73 +74,75 @@ Reusable Move Tutors
 
 ### Features Pulled/Copied from Other Branches/Tutorials (Would like to label with authors) - All below work but only Minor Testing was done
 
-Faster HP Drain in Battle
+Faster HP Drain in Battle - https://github.com/pret/pokeemerald/wiki/Faster-HP-Drain
 
-Improved V Sync
+Improved V Sync - https://github.com/pret/pokeemerald/wiki/Improving-the-WaitForVBlank-function
 
-Re-Use Repels
+Fixed RTC - https://www.pokecommunity.com/showpost.php?p=10211666&postcount=155
 
-Consecutive OoB Healing + Rare Candy
+Re-Use Repels - https://github.com/pret/pokeemerald/wiki/Prompt-for-reusing-Repels
 
-Remove Extra Save Confirmation
+Consecutive OoB Healing + Rare Candy - https://github.com/pret/pokeemerald/wiki/Repeated-Field-Medicine-Use
 
-Delay Skip in Battles
+Remove Extra Save Confirmation - https://github.com/pret/pokeemerald/wiki/Remove-the-extra-save-confirmation
 
-Instead of Asking to Stop learning a New Move, You'll be Asked to Continue Learning
+Delay Skip in Battles - https://www.pokecommunity.com/showpost.php?p=10266925
 
-Remove Low HP Sound in Battle
+Instead of Asking to Stop learning a New Move, You'll be Asked to Continue Learning - https://github.com/pret/pokeemerald/wiki/Instead-of-Asking-to-Stop-learning-a-New-Move,-You'll-be-Asked-to-Continue-Learning
 
-Show IV/EVs in Summary Screen
+Remove Low HP Sound in Battle - https://www.pokecommunity.com/showpost.php?p=10246778&postcount=194
 
-Move Relearner as option in Party Screen
+Show IV/EVs in Summary Screen - https://www.pokecommunity.com/showpost.php?p=10161688&postcount=77
 
-Starting Money Increased from 3000 to 5000
+Move Relearner as option in Party Screen - https://www.pokecommunity.com/showpost.php?p=10470602
 
-Fast Poke Center
+Starting Money Increased from 3000 to 5000 - https://www.pokecommunity.com/showpost.php?p=9967852&postcount=4
 
-Can Reset RTC on Title Screen (B + Select + Left Arrow)
+Fast Poke Center - https://github.com/pret/pokeemerald/wiki/Speedy-Nurse-Joy
 
-Option to Skip Intro
+Can Reset RTC on Title Screen (B + Select + Left Arrow) - https://github.com/pret/pokeemerald/wiki/Enable-the-Reset-RTC-Feature
 
-Chosen Player Character in Intro
+Option to Skip Intro - https://github.com/pret/pokeemerald/wiki/Option-to-Skip-Copyright-and-Intro
 
-Shifting to Pokemon Already in Battle Exits Shift Menu
+Chosen Player Character in Intro - https://github.com/pret/pokeemerald/wiki/Make-the-Person-in-the-Intro-Match-the-the-Save-File
+
+Shifting to Pokemon Already in Battle Exits Shift Menu - https://github.com/pret/pokeemerald/wiki/Shifting-to-Pok%C3%A9mon-Already-in-Battle-Exits-the-Shift-Menu
 
 ### These haven't caused any errors in build but are currently untested in game
 
-Wrong Save Type Error Screen
+Wrong Save Type Error Screen - https://www.pokecommunity.com/showpost.php?p=10449518
 
-Surf Dismount Ground Effects	
+Surf Dismount Ground Effects - https://github.com/pret/pokeemerald/wiki/Surfing-Dismount-Ground-Effects
 
-Soot Sack Check in Bag similar to Coin Case
+Soot Sack Check in Bag similar to Coin Case - https://www.pokecommunity.com/showpost.php?p=10222284&postcount=178
 
-Sitrus Berry Restores 25% HP
+Sitrus Berry Restores 25% HP - https://github.com/pret/pokeemerald/wiki/Update-Sitrus-Berry's-effect-to-Gen-4-standard
 
-Increase Item Capacity
+Increase Item Capacity - https://www.pokecommunity.com/showpost.php?p=10523495
 
-Item Automatically goes to PC if Bag is full
+Item Automatically goes to PC if Bag is full - https://github.com/pret/pokeemerald/wiki/Item-Automatically-Goes-to-PC-if-Bag-is-Full
 
-Increased Money Capacity
+Increased Money Capacity - https://github.com/pret/pokeemerald/wiki/Increase-money-limit
 
-Feed Any Number of Pokeblocks
+Feed Any Number of Pokeblocks - https://www.pokecommunity.com/showpost.php?p=10364627
 
-Berry Trees No Longer Disappear
+Berry Trees No Longer Disappear - https://www.pokecommunity.com/showpost.php?p=10142996&postcount=63
 
-Fishing Never Fails
+Hold B to Surf Faster (MIGHT BE WRONG) - https://www.pokecommunity.com/showpost.php?p=10137446&postcount=59
 
-Hold B to Surf Faster
+2x Faster Daycare - https://github.com/pret/pokeemerald/wiki/Make-Daycare-Faster-at-Leveling-Pok%C3%A9mon
 
-2x Faster Daycare
+Latios & Latias Roamers - https://github.com/pret/pokeemerald/wiki/Allow-Both-Latios-and-Latias-Appear.
 
-Latios & Latias Roamers
+Get Rid of Battery Run Dry Error - https://github.com/pret/pokeemerald/wiki/Get-Rid-of-Battery-Run-Dry-Error-Message
 
-Get Rid of Battery Run Dry Error
+Gen 8 Synchronize - https://www.pokecommunity.com/showpost.php?p=10097171
 
-Gen 8 Synchronize
-
-Perfect IVs While Breeding
+Perfect IVs While Breeding - https://www.pokecommunity.com/showpost.php?p=10449489
 
 ## What's Left?
+
+Fishing Never Fails (NOT WORKING) - https://github.com/pret/pokeemerald/wiki/Fish-Will-Now-Always-Get-on-Hook
 
 Trick House Doll Quiz (Update Answers to fit Item Prices)
 
@@ -156,8 +158,10 @@ Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your
 
 Trainer AI's
 
+Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376011
+
 Check Pulled/Added Features
 
-Title Screen Title Faded a Bit
+Title Screen Title Faded a Bit - https://gamer2020.net/?p=369
 
 ## CURRENTLY THIS PROJECT IS INCOMPLETE
