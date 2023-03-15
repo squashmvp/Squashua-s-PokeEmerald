@@ -108,6 +108,8 @@ Chosen Player Character in Intro - https://github.com/pret/pokeemerald/wiki/Make
 
 Shifting to Pokemon Already in Battle Exits Shift Menu - https://github.com/pret/pokeemerald/wiki/Shifting-to-Pok%C3%A9mon-Already-in-Battle-Exits-the-Shift-Menu
 
+Remove Clouds from Title Screen - https://gamer2020.net/?p=369
+
 ### These haven't caused any errors in build but are currently untested in game
 
 Wrong Save Type Error Screen - https://www.pokecommunity.com/showpost.php?p=10449518
@@ -158,10 +160,8 @@ Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your
 
 Trainer AI's
 
-Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376011
+Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376011 (Want to observe this code a bit more)
 
 Check Pulled/Added Features
-
-Title Screen Title Faded a Bit - https://gamer2020.net/?p=369
 
 ## CURRENTLY THIS PROJECT IS INCOMPLETE
