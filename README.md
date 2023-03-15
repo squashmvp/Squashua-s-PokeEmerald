@@ -150,7 +150,7 @@ Ability Spread (Check to see if ENOUGH Pokemon have Synchronize, etc.)
 
 Individual Pokemon Learnsets
 
-Random Decapitalizations(BT Trainers, Pokedex Menu, PokeNav Menu. Images)
+Random Decapitalizations (BT Trainers, Pokedex Menu, PokeNav Menu. Images)
 
 Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your Phone Number)
 
