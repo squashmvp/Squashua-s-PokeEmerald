@@ -142,19 +142,15 @@ Gen 8 Synchronize - https://www.pokecommunity.com/showpost.php?p=10097171
 
 Perfect IVs While Breeding - https://www.pokecommunity.com/showpost.php?p=10449489
 
+Fishing Never Fails - https://github.com/pret/pokeemerald/wiki/Fish-Will-Now-Always-Get-on-Hook
+
 ## What's Left?
-
-Fishing Never Fails (NOT WORKING) - https://github.com/pret/pokeemerald/wiki/Fish-Will-Now-Always-Get-on-Hook
-
-Trick House Doll Quiz (Update Answers to fit Item Prices)
 
 Ability Spread (Check to see if ENOUGH Pokemon have Synchronize, etc.)
 
 Individual Pokemon Learnsets
 
-Battle Tower Trainers Decapitalization
-
-Random Decapitalizations
+Random Decapitalizations(BT Trainers, Pokedex Menu, PokeNav Menu. Images)
 
 Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your Phone Number)
 
