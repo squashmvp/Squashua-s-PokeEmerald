@@ -160,4 +160,4 @@ Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376
 
 Check Pulled/Added Features
 
-## CURRENTLY THIS PROJECT IS INCOMPLETE
+## CURRENTLY THIS PROJECT IS INCOMPLETE. FEEL FREE TO PLAY THIS ANYWAYS.
