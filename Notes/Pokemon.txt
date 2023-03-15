@@ -30,8 +30,6 @@ Evolution
 	Onix to Steelix - Evolve by Move Iron Defense
 	Seadra to Kingdra - Evolve by Move Dragon Dance
 	Scyther to Scizor - Evolve by Move Steel Wing
-	Eevee to Espeon - Evolve by Item Sun Stone
-	Eevee to Umbreon - Evolve by Item Moon Stone
 	Clamperl to Huntail - Evolve by Move Dive
 	Clamperl to Gorebyss - Evolve by Move Waterfall
 	Eevee to Espeon Evolves by Move Morning Sun
@@ -41,24 +39,24 @@ Evolution
 	
 
 Changed Abilities
-	Bulbasaur - Chlorophyll
-	Ivysaur - Chlorophyll
-	Venusaur - Chlorophyll
-	Charmander - Inner Focus
-	Charmeleon - Inner Focus
-	Charizard - Inner Focus
-	Squirtle - Rain Dish
-	Wartortle - Rain Dish
-	Blastoise - Rain Dish
-	Caterpie - Run Away
-	Metapod - Shed Skin
-	Butterfree - Effect Spore
-	Weedle - Run Away
-	Kakuna - Shed Skin
-	Beedrill - Levitate
-	Pidgey - Guts
-	Pidgeotto - Guts
-	Pidgeot - Guts
+	Bulbasaur - Chlorophyll, Early Bird
+	Ivysaur - Chlorophyll, Early Bird
+	Venusaur - Chlorophyll, Early Bird
+	Charmander - Inner Focus, Illuminate
+	Charmeleon - Inner Focus, Illuminate
+	Charizard - Inner Focus, Illuminate
+	Squirtle - Rain Dish, Shell Armor
+	Wartortle - Rain Dish, Shell Armor
+	Blastoise - Rain Dish, Shall Armor
+	Caterpie - Run Away, Shield Dust
+	Metapod - Shed Skin, Shed Skin
+	Butterfree - Effect Spore, Compound Eyes
+	Weedle - Run Away, Poison Point
+	Kakuna - Shed Skin, Shed Skin
+	Beedrill - Levitate, Battle Armor
+	Pidgey - Guts, Hustle
+	Pidgeotto - Guts, Hustle
+	Pidgeot - Guts, Hustle
 	Rattata - Hustle, Guts
 	Raticate - Hustle, Guts
 	Spearow - Early Bird
@@ -77,8 +75,8 @@ Changed Abilities
 	Nidoking - Intimidate
 	Clefairy - Serene Grace
 	Clefable - Serene Grace
-	Vulpix - Drought
-	Ninetales - Drought
+	Vulpix - Drought, Flash Fire
+	Ninetales - Drought, Flash Fire
 	Jigglypuff - Serene Grace
 	Wigglytuff - Serene Grace
 	Zubat - Swarm
@@ -98,8 +96,8 @@ Changed Abilities
 	Golduck - Swift Swim, Cloud Nine
 	Mankey - Guts
 	Primeape - Guts
-	Growlithe - Drought
-	Arcanine - Drought
+	Growlithe - Drought, Magma Armor
+	Arcanine - Drought, Magma Armor
 	Poliwag - Swift Swim
 	Poliwhirl - Swift Swim
 	Poliwrath - Swift Swim
@@ -165,19 +163,19 @@ Changed Abilities
 	Mr. Mime - Synchronize
 	Scyther - Speed Boost, Evolve if knows Steel Wing
 	Jynx - Rough Skin
-	Electabuzz - Vital Spirit
-	Magmar - Vital Spirit
+	Electabuzz - Vital Spirit, Static
+	Magmar - Vital Spirit, Magma Armor
 	Pinsir - Shed Skin
 	Tauros - Hustle
 	Magikarp - Water Veil
 	Gyarados - Water Veil
 	Lapras - Torrent
 	Ditto - Color Change
-	Eevee - Pickup
+	Eevee - Pickup, Pure Power
 	Vaporeon - Color Change
-	Jolteon - Speed Boost
-	Flareon - Serene Grace
-	Porygon - Color Change
+	Jolteon - Speed Boost, Minus
+	Flareon - Serene Grace, Flash Fire
+	Porygon - Color Change, Levitate
 	Omanyte - Clear Body
 	Omastar - Clear Body
 	Kabuto - Hyper Cutter, Battle Armor
@@ -192,15 +190,15 @@ Changed Abilities
 	Dragonite - Marvel Scale
 	Mewtwo - Intimidate
 	Mew - Serene Grace
-	Chikorita - Natural Cure
-	Bayleef - Natural Cure
-	Meganium - Effect Spore
-	Cyndaquil - Flash Fire
-	Quilava - Flash Fire
-	Typhlosion - White Smoke
-	Totodile - Rough Skin
-	Croconaw - Rough Skin
-	Feraligatr - Battle Armor
+	Chikorita - Natural Cure, Effect Spore
+	Bayleef - Natural Cure, Effect Spore
+	Meganium - Natural Cure, Effect Spore
+	Cyndaquil - Flash Fire, Magma Armor
+	Quilava - Flash Fire, Magma Armor
+	Typhlosion - White Smoke, Magma Armor
+	Totodile - Rough Skin, Water Veil
+	Croconaw - Rough Skin, Water Veil
+	Feraligatr - Battle Armor, Water Veil
 	Sentret - Pure Power, Keen Eye
 	Furret - Pure Power, Keen Eye
 	Hoothoot - Compound Eyes, Keen Eye
@@ -222,7 +220,7 @@ Changed Abilities
 	Mareep - Plus
 	Flaafy - Plus
 	Ampharos - Plus
-		Bellowssom - Own Tempo
+	Bellowssom - Own Tempo
 	Marill - Torrent
 	Azumarill - Torrent
 	Sudowoodo - Sand Stream
@@ -273,14 +271,14 @@ Changed Abilities
 	Kingdra - Damp
 	Phanpy - Sand Veil
 	Donphan - Sand Veil
-	Porygon2 - Analytic
-	Stantler - Pure Power
-	Smeargle - Serene Grace
+	Porygon2 - Color Change, Levitate
+	Stantler - Pure Power, Inner Focus
+	Smeargle - Serene Grace, Sticky Hold
 	Tyrogue - Vital Spirit
 	Hitmontop - Speed Boost
 	Smoochum - Cute Charm
-	Elekid - Vital Spirit
-	Magby - Vital Spirit
+	Elekid - Vital Spirit, Static
+	Magby - Vital Spirit, Magma Armor
 	Miltank - Cute Charm
 	Blissey - Cute Charm
 	Raikou - Volt Absorb
@@ -292,15 +290,15 @@ Changed Abilities
 	Lugia - Marvel Scale
 	Ho-Oh - Guts
 	Celebi - Color Change
-	Treecko - Limber
-	Grovyle - Limber
-	Sceptile - Lightning Rod
-	Torchic - Speed Boost
-	Combusken - Speed Boost
-	Blaziken - Speed Boost
-	Mudkip - Damp
-	Marshtomp - Damp
-	Swampert - Swift Swim
+	Treecko - Limber, Overgrow
+	Grovyle - Limber, Overgrow
+	Sceptile - Lightning Rod, Overgrow
+	Torchic - Speed Boost, Blaze
+	Combusken - Speed Boost, Blaze
+	Blaziken - Speed Boost, Blaze
+	Mudkip - Damp, Torrent
+	Marshtomp - Damp, Torrent
+	Swampert - Swift Swim, Torrent
 	Poochyena - Cute Charm
 	Mightyena - Own Tempo
 	Zigzagoon - Sand Veil
@@ -342,7 +340,7 @@ Changed Abilities
 	Nosepass - Sand Stream
 	Skitty - Limber
 	Delcatty - Limber
-	Sableye - Insomnia
+	Sableye - Insomnia, Illuminate
 	Mawile - Huge Power
 	Aron - Rough Skin
 	Lairon - Rough Skin
@@ -353,8 +351,8 @@ Changed Abilities
 	Manectric - Intimidate
 	Plusle - Plus, Lightningrod
 	Minun - Minus, Volt Absorb
-	Volbeat - Compound Eyes
-	Illumise - Compound Eyes
+	Volbeat - Compound Eyes, Swarm
+	Illumise - Compound Eyes, Illuminate
 	Roselia - Overgrow
 	Gulpin - Pickup
 	Swalot - Thick Fat
@@ -385,8 +383,8 @@ Changed Abilities
 	Crawdaunt - Immunity
 	Baltoy - Synchronize
 	Claydol - Synchronize
-	Lileep - Water Absorb
-	Cradily - Water Absorb
+	Lileep - Water Absorb, Suction Cups
+	Cradily - Water Absorb, Suction Cups
 	Anorith - Swift Swim
 	Armaldo - Swift Swim
 	Feebas - Adaptability
