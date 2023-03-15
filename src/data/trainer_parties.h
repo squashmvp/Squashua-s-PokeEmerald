@@ -338,12 +338,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Zander[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_ShellyWeatherInstitute[] = {
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 28,
     .species = SPECIES_CARVANHA,
     },
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 28,
     .species = SPECIES_MIGHTYENA,
     }
@@ -351,12 +351,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ShellyWeatherInstitute[]
 
 static const struct TrainerMonNoItemDefaultMoves sParty_ShellySeafloorCavern[] = {
     {
-    .iv = 100,
+    .iv = 200,
     .lvl = 37,
     .species = SPECIES_SHARPEDO,
     },
     {
-    .iv = 100,
+    .iv = 200,
     .lvl = 37,
     .species = SPECIES_MIGHTYENA,
     }
@@ -364,17 +364,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_ShellySeafloorCavern[] =
 
 static const struct TrainerMonNoItemDefaultMoves sParty_Archie[] = {
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 41,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 41,
     .species = SPECIES_CROBAT,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 43,
     .species = SPECIES_SHARPEDO,
     }
@@ -9905,17 +9905,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Hector[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_TabithaMossdeep[] = {
     {
-    .iv = 100,
+    .iv = 200,
     .lvl = 36,
     .species = SPECIES_CAMERUPT,
     },
     {
-    .iv = 100,
+    .iv = 200,
     .lvl = 38,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 100,
+    .iv = 200,
     .lvl = 40,
     .species = SPECIES_GOLBAT,
     }
@@ -11556,22 +11556,22 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntWeatherInst5[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_TabithaMtChimney[] = {
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 18,
     .species = SPECIES_NUMEL,
     },
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 20,
     .species = SPECIES_POOCHYENA,
     },
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 22,
     .species = SPECIES_NUMEL,
     },
     {
-    .iv = 50,
+    .iv = 200,
     .lvl = 22,
     .species = SPECIES_ZUBAT,
     }
@@ -11658,17 +11658,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayRustboroMudkip[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_MaxieMagmaHideout[] = {
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 37,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 38,
     .species = SPECIES_CROBAT,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 39,
     .species = SPECIES_CAMERUPT,
     }
@@ -11676,17 +11676,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MaxieMagmaHideout[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_MaxieMtChimney[] = {
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 24,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 24,
     .species = SPECIES_ZUBAT,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 25,
     .species = SPECIES_CAMERUPT,
     }
@@ -13781,22 +13781,22 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntMagmaHideout16[] = 
 
 static const struct TrainerMonNoItemDefaultMoves sParty_TabithaMagmaHideout[] = {
     {
-    .iv = 75,
+    .iv = 200,
     .lvl = 26,
     .species = SPECIES_NUMEL,
     },
     {
-    .iv = 75,
+    .iv = 200,
     .lvl = 28,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 75,
+    .iv = 200,
     .lvl = 30,
     .species = SPECIES_ZUBAT,
     },
     {
-    .iv = 75,
+    .iv = 200,
     .lvl = 33,
     .species = SPECIES_CAMERUPT,
     }
@@ -13817,17 +13817,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Darcy[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_MaxieMossdeep[] = {
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 42,
     .species = SPECIES_MIGHTYENA,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 43,
     .species = SPECIES_CROBAT,
     },
     {
-    .iv = 150,
+    .iv = 255,
     .lvl = 44,
     .species = SPECIES_CAMERUPT,
     }

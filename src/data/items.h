@@ -30,7 +30,7 @@ const struct Item gItems[] =
     {
         .name = _("Ultra Ball"),
         .itemId = ITEM_ULTRA_BALL,
-        .price = 6000,
+        .price = 5600,
         .description = sUltraBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_ULTRA_BALL - FIRST_BALL,
@@ -43,7 +43,7 @@ const struct Item gItems[] =
     {
         .name = _("Great Ball"),
         .itemId = ITEM_GREAT_BALL,
-        .price = 3000,
+        .price = 2800,
         .description = sGreatBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_GREAT_BALL - FIRST_BALL,
@@ -175,7 +175,7 @@ const struct Item gItems[] =
     {
         .name = _("Potion"),
         .itemId = ITEM_POTION,
-        .price = 1200,
+        .price = 1400,
         .holdEffectParam = 20,
         .description = sPotionDesc,
         .pocket = POCKET_ITEMS,
@@ -1072,7 +1072,7 @@ const struct Item gItems[] =
     {
         .name = _("Escape Rope"),
         .itemId = ITEM_ESCAPE_ROPE,
-        .price = 2200,
+        .price = 1950,
         .description = sEscapeRopeDesc,
         .pocket = POCKET_ITEMS,
         .type = ITEM_USE_FIELD,
