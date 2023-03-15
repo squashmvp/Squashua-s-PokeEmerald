@@ -10,10 +10,9 @@ Added Battle Effects for Hold Items:
 Item Price Adjustments
 
 Balls
-	Poke Balls 200-1000
-	Ultra Ball 1200-6000
-	Great Ball 600-3000
-	Poke Ball 200-1000
+	Ultra Ball 1200-5600
+	Great Ball 600-2800
+	Poke Ball 200-1400
 	Net Ball 1000-5000
 	Dive Ball 1000-5000
 	Nest Ball 1000-5000
@@ -26,7 +25,7 @@ Field Items
 	Repel 350 - 1400
 	Super Repel 500 - 2000
 	Max Repel 700-2800
-	Escape Rope 550 - 2200
+	Escape Rope 550 - 1950
 
 Battle Items
 	Guard Spec 700-2800
