@@ -64,6 +64,8 @@ Hold Effects for otherwise useless Trade Items
 
 Decapitalizations
 
+Increased Earnings From Battle
+
 ## -MECHANICS-
 
 Added Devolution Mechanic and Devo Stone
@@ -71,8 +73,6 @@ Added Devolution Mechanic and Devo Stone
 Added Evolution by Specific Move in First Slot
 
 Reusable Move Tutors
-
-Increased Earnings From Battle
 
 ### Features Pulled/Copied from Other Branches/Tutorials (Would like to label with authors) - All below work but only Minor Testing was done
 
