@@ -70,7 +70,9 @@ Added Devolution Mechanic and Devo Stone
 
 Added Evolution by Specific Move in First Slot
 
-Reusable Move Tutors 
+Reusable Move Tutors
+
+Increased Earnings From Battle
 
 ### Features Pulled/Copied from Other Branches/Tutorials (Would like to label with authors) - All below work but only Minor Testing was done
 
