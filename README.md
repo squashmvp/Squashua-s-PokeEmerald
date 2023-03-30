@@ -66,6 +66,8 @@ Decapitalizations
 
 Increased Earnings From Battle
 
+Increased Money Capacity
+
 ## -MECHANICS-
 
 Added Devolution Mechanic and Devo Stone
@@ -112,6 +114,8 @@ Shifting to Pokemon Already in Battle Exits Shift Menu - https://github.com/pret
 
 Remove Clouds from Title Screen - https://gamer2020.net/?p=369
 
+Increase Item Capacity - https://www.pokecommunity.com/showpost.php?p=10523495 (Item Count in shop is weird after 10k of same item in inventory)
+
 ### These haven't caused any errors in build but are currently untested in game
 
 Wrong Save Type Error Screen - https://www.pokecommunity.com/showpost.php?p=10449518
@@ -121,12 +125,6 @@ Surf Dismount Ground Effects - https://github.com/pret/pokeemerald/wiki/Surfing-
 Soot Sack Check in Bag similar to Coin Case - https://www.pokecommunity.com/showpost.php?p=10222284&postcount=178
 
 Sitrus Berry Restores 25% HP - https://github.com/pret/pokeemerald/wiki/Update-Sitrus-Berry's-effect-to-Gen-4-standard
-
-Increase Item Capacity - https://www.pokecommunity.com/showpost.php?p=10523495
-
-Item Automatically goes to PC if Bag is full - https://github.com/pret/pokeemerald/wiki/Item-Automatically-Goes-to-PC-if-Bag-is-Full
-
-Increased Money Capacity - https://github.com/pret/pokeemerald/wiki/Increase-money-limit
 
 Feed Any Number of Pokeblocks - https://www.pokecommunity.com/showpost.php?p=10364627
 
@@ -159,6 +157,8 @@ Trainer Parties (Grunts, Admins, Bosses, Overworld Trainers that Don't want your
 Trainer AI's
 
 Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376011 (Want to observe this code a bit more)
+
+Item Automatically goes to PC if Bag is full - https://github.com/pret/pokeemerald/wiki/Item-Automatically-Goes-to-PC-if-Bag-is-Full (Not working)
 
 Check Pulled/Added Features
 
