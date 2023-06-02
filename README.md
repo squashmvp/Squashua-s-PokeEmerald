@@ -76,7 +76,7 @@ Added Evolution by Specific Move in First Slot
 
 Reusable Move Tutors
 
-### Features Pulled/Copied from Other Branches/Tutorials (Would like to label with authors) - All below work but only Minor Testing was done
+### Features Pulled/Copied from Other Branches/Tutorials (Would like to label with authors) - All below work
 
 Faster HP Drain in Battle - https://github.com/pret/pokeemerald/wiki/Faster-HP-Drain
 
@@ -116,33 +116,33 @@ Remove Clouds from Title Screen - https://gamer2020.net/?p=369
 
 Increase Item Capacity - https://www.pokecommunity.com/showpost.php?p=10523495 (Item Count in shop is weird after 10k of same item in inventory)
 
-### These haven't caused any errors in build but are currently untested in game
-
 Wrong Save Type Error Screen - https://www.pokecommunity.com/showpost.php?p=10449518
-
-Surf Dismount Ground Effects - https://github.com/pret/pokeemerald/wiki/Surfing-Dismount-Ground-Effects
 
 Soot Sack Check in Bag similar to Coin Case - https://www.pokecommunity.com/showpost.php?p=10222284&postcount=178
 
 Sitrus Berry Restores 25% HP - https://github.com/pret/pokeemerald/wiki/Update-Sitrus-Berry's-effect-to-Gen-4-standard
 
-Feed Any Number of Pokeblocks - https://www.pokecommunity.com/showpost.php?p=10364627
-
 Berry Trees No Longer Disappear - https://www.pokecommunity.com/showpost.php?p=10142996&postcount=63
 
-Hold B to Surf Faster (MIGHT BE WRONG) - https://www.pokecommunity.com/showpost.php?p=10137446&postcount=59
+Hold B to Surf Faster - https://www.pokecommunity.com/showpost.php?p=10137446&postcount=59
 
 2x Faster Daycare - https://github.com/pret/pokeemerald/wiki/Make-Daycare-Faster-at-Leveling-Pok%C3%A9mon
+
+Perfect IVs While Breeding - https://www.pokecommunity.com/showpost.php?p=10449489
+
+Fishing Never Fails - https://github.com/pret/pokeemerald/wiki/Fish-Will-Now-Always-Get-on-Hook
+
+### These haven't caused any errors in build but are currently untested in game
+
+Surf Dismount Ground Effects - https://github.com/pret/pokeemerald/wiki/Surfing-Dismount-Ground-Effects
+
+Feed Any Number of Pokeblocks - https://www.pokecommunity.com/showpost.php?p=10364627
 
 Latios & Latias Roamers - https://github.com/pret/pokeemerald/wiki/Allow-Both-Latios-and-Latias-Appear.
 
 Get Rid of Battery Run Dry Error - https://github.com/pret/pokeemerald/wiki/Get-Rid-of-Battery-Run-Dry-Error-Message
 
 Gen 8 Synchronize - https://www.pokecommunity.com/showpost.php?p=10097171
-
-Perfect IVs While Breeding - https://www.pokecommunity.com/showpost.php?p=10449489
-
-Fishing Never Fails - https://github.com/pret/pokeemerald/wiki/Fish-Will-Now-Always-Get-on-Hook
 
 ## What's Left?
 
@@ -159,6 +159,10 @@ Trainer AI's
 Wild Pokemon Encounter Bug? - https://www.pokecommunity.com/showpost.php?p=10376011 (Want to observe this code a bit more)
 
 Item Automatically goes to PC if Bag is full - https://github.com/pret/pokeemerald/wiki/Item-Automatically-Goes-to-PC-if-Bag-is-Full (Not working)
+
+Rebalance Levels in Late Game for challenge
+
+Balance "Unfair" and "Trash" Pokemon
 
 Check Pulled/Added Features
 
