@@ -34,6 +34,11 @@ This repository includes all of my changes to original code, some code by other 
 
 Notes folder contains more specific information. Notes folder will/currently contain(s) all patches for this specific project. Use those patches to patch your copy of Pokemon Emerald to enjoy this decomped game. Just a heads up, different builds+patches will NOT be able to support the save file the game generates from playing previous/future patches, at least for now.
 
+I'd be happy to answer any questions. You can email me or contact me on my discord.
+
+Discord Link: https://discord.gg/rhwmyTXMje
+Email: squashmvp@gmail.com
+
 # CHANGES BY ME (SQUASHUA GONZALEZ)
 
 ## -GENERAL-
