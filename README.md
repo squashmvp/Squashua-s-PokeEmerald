@@ -37,6 +37,7 @@ Notes folder contains more specific information. Notes folder will/currently con
 I'd be happy to answer any questions. You can email me or contact me on my discord.
 
 Discord Link: https://discord.gg/rhwmyTXMje
+
 Email: squashmvp@gmail.com
 
 # CHANGES BY ME (SQUASHUA GONZALEZ)
